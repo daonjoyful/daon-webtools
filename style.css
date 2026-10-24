@@ -3,3 +3,31 @@
 .filters{flex-wrap:wrap}.filters button{white-space:nowrap}#ext-preview{overflow:auto;max-width:100%}#ext-downloads{display:flex;flex-wrap:wrap;gap:10px}#ext-preview canvas{max-width:100%;height:auto}input[type=checkbox]{width:auto}input[type=file]{max-width:100%}
 
 .file-order-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:8px 0}.file-order-row span{flex:1;min-width:130px;font-size:13px;overflow-wrap:anywhere}.file-order-row button,.page-order-card button{padding:4px 9px;font-size:12px}.drop-zone{padding:16px;border:1px dashed var(--line);border-radius:8px}.page-order{display:flex;gap:12px;flex-wrap:wrap}.page-order>p{width:100%}.page-order-card{width:180px;padding:10px;border:1px solid var(--line);border-radius:8px;font-size:12px}.page-order-card canvas{display:block;width:100%;height:auto;max-height:230px;object-fit:contain;margin:8px 0}#ext-preview>button{margin:12px 0}#ext-cancel{border-color:#a55;color:#a33}
+
+/* Keep intrinsic file controls and long results inside narrow grid tracks. */
+.tool-layout{grid-template-columns:minmax(0,2fr) minmax(0,1fr)}
+.tool-layout>*,form,form label,.actions>*{min-width:0}
+input,textarea,select{min-width:0;max-width:100%}
+.tool-head,.breadcrumb,.guide,.workspace,aside,#status,#ext-status,#ext-file-info,#ext-downloads{overflow-wrap:anywhere}
+#ext-downloads a{max-width:100%;overflow-wrap:anywhere}
+#ext-preview iframe,#ext-preview img,#ext-preview svg{max-width:100%}
+.page-order-card{max-width:100%}
+@media(max-width:850px){.tool-layout{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){
+ header{height:auto;min-height:76px;gap:10px;flex-wrap:wrap;padding:12px 0}
+ header nav{gap:12px}header nav a{display:inline-flex;align-items:center;min-height:44px}
+ #theme{width:44px;height:44px;flex-shrink:0}
+ input,textarea,select,.search input{font-size:16px}
+ button,.secondary,.primary,summary{min-height:44px}
+ input[type=checkbox]{width:22px;height:22px;margin:4px 0}
+ input[type=file]{padding:10px 8px}
+ .file-order-row span{flex-basis:100%;min-width:0}
+ .file-order-row button,.page-order-card button{padding:9px 10px;font-size:13px}
+ .page-order-card{width:100%}.page-order-card button{margin:3px}
+ .workspace,aside{padding:18px}
+ .section-heading{gap:10px;flex-wrap:wrap}.section-heading>p{margin-top:0}
+ .search{padding:10px 14px}.search input{min-width:0}.search kbd{display:none}
+ #ext-downloads a{display:flex;align-items:center;min-height:44px}
+ summary{padding:8px 0;cursor:pointer}
+}
+@media(max-width:380px){header nav{width:100%;justify-content:flex-end}.tool-head h1{font-size:27px}}

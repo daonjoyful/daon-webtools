@@ -1,0 +1,6196 @@
+{
+  "viewportNote": "Desktop Chromium browser with CSS viewport override; no physical iOS/Android device testing",
+  "layout": [
+    {
+      "slug": "1rm-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "annual-leave-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "apy-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "average-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "bmi-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "bsa-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "cagr-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "car-installment-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "car-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "change-rate-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "cholesterol-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "commission-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "compound-return-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "currency-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "daily-protein-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "daily-water-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "date-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "depreciation-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "discount-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "dsr-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "error-rate-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "factorial-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "ffmi-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "five-grade-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "gcd-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "gpa-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "heart-rate-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "height-prediction-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "income-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "lcm-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "loan-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "margin-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "median-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "mode-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "ovulation-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pbr-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "per-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "percent-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "presentation-time-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "registration-cost-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "roas-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "roe-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "roi-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "salary-net-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "salary-raise-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "savings-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "severance-pay-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "social-insurance-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "split-bill-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "standard-weight-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "stock-average-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "stop-loss-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "subscription-score-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "toeic-score-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "top-percentile-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "uph-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "vat-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "work-period-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "workday-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "working-hours-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "base64-tool",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "char-counter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "color-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "hash-generator",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "image-text-extract",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "json-formatter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "text-cleaner",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "text-diff",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "text-line-sort",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "url-encoder",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "uuid-generator",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "address-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "english-name-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "generator-tool",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "qr-generator",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "road-address-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "unit-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "ai-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "csv-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "dwg-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "epub-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "excel-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "hwp-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "markdown-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "ppt-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "psd-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "svg-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "tiff-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "word-viewer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-excel",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-png",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-txt",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-webp",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-to-word",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "epub-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "excel-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "html-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "image-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "png-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "txt-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "webp-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "word-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "xps-to-pdf",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "7z-to-zip",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "avif-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "csv-to-excel",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "document-to-markdown",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "gif-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "gif-to-png",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "heic-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-converter",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jpg-to-gif",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jpg-to-png",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "jpg-to-webp",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "png-to-gif",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "png-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "png-to-webp",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "rar-to-zip",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "webp-to-jpg",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "webp-to-png",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-adjust",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-color-picker",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-compressor",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-join",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-resizer",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-rotate-flip",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "img-watermark",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-add-blank",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-add-margin",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-booklet",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-nup",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-page-info",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-resize",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-annotate",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-compress",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-create",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-delete",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-merge",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-ocr",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-organize",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-page-num",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-rotate",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-sign",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-split",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "pdf-watermark",
+      "scroll": 305,
+      "smallButtons": [],
+      "width": 320
+    },
+    {
+      "slug": "1rm-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "annual-leave-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "apy-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "average-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "bmi-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "bsa-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "cagr-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "car-installment-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "car-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "change-rate-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "cholesterol-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "commission-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "compound-return-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "currency-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "daily-protein-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "daily-water-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "date-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "depreciation-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "discount-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "dsr-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "error-rate-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "factorial-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "ffmi-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "five-grade-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "gcd-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "gpa-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "heart-rate-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "height-prediction-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "income-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "lcm-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "loan-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "margin-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "median-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "mode-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "ovulation-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pbr-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "per-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "percent-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "presentation-time-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "registration-cost-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "roas-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "roe-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "roi-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "salary-net-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "salary-raise-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "savings-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "severance-pay-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "social-insurance-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "split-bill-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "standard-weight-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "stock-average-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "stop-loss-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "subscription-score-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "toeic-score-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "top-percentile-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "uph-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "vat-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "work-period-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "workday-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "working-hours-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "base64-tool",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "char-counter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "color-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "hash-generator",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "image-text-extract",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "json-formatter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "text-cleaner",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "text-diff",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "text-line-sort",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "url-encoder",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "uuid-generator",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "address-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "english-name-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "generator-tool",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "qr-generator",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "road-address-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "unit-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "ai-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "csv-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "dwg-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "epub-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "excel-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "hwp-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "markdown-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "ppt-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "psd-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "svg-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "tiff-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "word-viewer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-excel",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-png",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-txt",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-webp",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-to-word",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "epub-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "excel-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "html-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "image-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "png-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "txt-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "webp-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "word-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "xps-to-pdf",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "7z-to-zip",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "avif-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "csv-to-excel",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "document-to-markdown",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "gif-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "gif-to-png",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "heic-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-converter",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jpg-to-gif",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jpg-to-png",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "jpg-to-webp",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "png-to-gif",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "png-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "png-to-webp",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "rar-to-zip",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "webp-to-jpg",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "webp-to-png",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-adjust",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-color-picker",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-compressor",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-join",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-resizer",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-rotate-flip",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "img-watermark",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-add-blank",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-add-margin",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-booklet",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-nup",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-page-info",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-resize",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-annotate",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-compress",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-create",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-delete",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-merge",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-ocr",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-organize",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-page-num",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-rotate",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-sign",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-split",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "pdf-watermark",
+      "scroll": 375,
+      "smallButtons": [],
+      "width": 390
+    },
+    {
+      "slug": "1rm-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "annual-leave-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "apy-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "average-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "bmi-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "bsa-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "cagr-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "car-installment-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "car-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "change-rate-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "cholesterol-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "commission-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "compound-return-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "currency-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "daily-protein-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "daily-water-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "date-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "depreciation-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "discount-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "dsr-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "error-rate-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "factorial-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "ffmi-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "five-grade-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "gcd-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "gpa-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "heart-rate-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "height-prediction-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "income-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "lcm-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "loan-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "margin-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "median-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "mode-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "ovulation-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pbr-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "per-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "percent-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "presentation-time-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "registration-cost-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "roas-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "roe-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "roi-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "salary-net-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "salary-raise-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "savings-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "severance-pay-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "social-insurance-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "split-bill-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "standard-weight-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "stock-average-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "stop-loss-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "subscription-score-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "toeic-score-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "top-percentile-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "uph-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "vat-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "work-period-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "workday-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "working-hours-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "base64-tool",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "char-counter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "color-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "hash-generator",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "image-text-extract",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "json-formatter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "text-cleaner",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "text-diff",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "text-line-sort",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "url-encoder",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "uuid-generator",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "address-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "english-name-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "generator-tool",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "qr-generator",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "road-address-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "unit-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "ai-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "csv-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "dwg-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "epub-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "excel-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "hwp-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "markdown-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "ppt-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "psd-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "svg-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "tiff-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "word-viewer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-excel",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-png",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-txt",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-webp",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-to-word",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "epub-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "excel-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "html-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "image-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "png-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "txt-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "webp-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "word-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "xps-to-pdf",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "7z-to-zip",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "avif-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "csv-to-excel",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "document-to-markdown",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "gif-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "gif-to-png",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "heic-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-converter",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jpg-to-gif",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jpg-to-png",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "jpg-to-webp",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "png-to-gif",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "png-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "png-to-webp",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "rar-to-zip",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "webp-to-jpg",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "webp-to-png",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-adjust",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-color-picker",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-compressor",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-join",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-resizer",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-rotate-flip",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "img-watermark",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-add-blank",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-add-margin",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-booklet",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-nup",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-page-info",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-resize",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-annotate",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-compress",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-create",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-delete",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-merge",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-ocr",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-organize",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-page-num",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-rotate",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-sign",
+      "scroll": 753,
+      "smallButtons": [
+        "theme",
+        "ext-sign-clear"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-split",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    },
+    {
+      "slug": "pdf-watermark",
+      "scroll": 753,
+      "smallButtons": [
+        "theme"
+      ],
+      "width": 768
+    }
+  ],
+  "executions": [
+    {
+      "slug": "1rm-calc",
+      "files": [
+        "daon-1rm-calc.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "Epley 추정 1RM: 70kg",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "files": [
+        "daon-achievement-rate-calc.txt ↓ (0.00293 KB)"
+      ],
+      "preview": "",
+      "result": "80%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "files": [
+        "daon-acquisition-tax-calc.txt ↓ (0.134766 KB)"
+      ],
+      "preview": "",
+      "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "files": [
+        "daon-annual-leave-allowance-calc.txt ↓ (0.061523 KB)"
+      ],
+      "preview": "",
+      "result": "통상 시급: 14,354.066986원\n연차수당: 574,162.679426원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "files": [
+        "daon-annual-leave-bonus-calc.txt ↓ (0.009766 KB)"
+      ],
+      "preview": "",
+      "result": "430,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-calc",
+      "files": [
+        "daon-annual-leave-calc.txt ↓ (0.051758 KB)"
+      ],
+      "preview": "",
+      "result": "해당 근속연도 기준 연차: 17일\n근속: 6년",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "files": [
+        "daon-apparent-temperature-calc.txt ↓ (0.011719 KB)"
+      ],
+      "preview": "",
+      "result": "-4.935273℃",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "apy-calc",
+      "files": [
+        "daon-apy-calc.txt ↓ (0.007813 KB)"
+      ],
+      "preview": "",
+      "result": "5.11619%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "average-calc",
+      "files": [
+        "daon-average-calc.txt ↓ (0.030273 KB)"
+      ],
+      "preview": "",
+      "result": "평균: 20\n합계: 60\n개수: 3",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "bmi-calc",
+      "files": [
+        "daon-bmi-calc.txt ↓ (0.106445 KB)"
+      ],
+      "preview": "",
+      "result": "BMI: 22.491349kg/m²\n기초대사량(Mifflin-St Jeor): 1,567.5kcal/일\n활동량 반영 추정: 1,881kcal/일",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "bsa-calc",
+      "files": [
+        "daon-bsa-calc.txt ↓ (0.010742 KB)"
+      ],
+      "preview": "",
+      "result": "1.751983m²",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "cagr-calc",
+      "files": [
+        "daon-cagr-calc.txt ↓ (0.009766 KB)"
+      ],
+      "preview": "",
+      "result": "14.471424%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "files": [
+        "daon-capital-gains-tax-calc.txt ↓ (0.099609 KB)"
+      ],
+      "preview": "",
+      "result": "과세표준: 187,500,000원\n국세 추정: 51,310,000원\n지방소득세 포함 추정: 56,441,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "files": [
+        "daon-car-acquisition-tax-calc.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "",
+      "result": "적용 기본 세율: 7%\n감면 후 취득세: 2,100,000원\n부대비용 포함: 2,100,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "car-installment-calc",
+      "files": [
+        "daon-car-installment-calc.txt ↓ (0.152344 KB)"
+      ],
+      "preview": "",
+      "result": "할부 원금: 25,000,000원\n월 납입액: 749,272.427617원\n만기 유예금: 0원\n총 이자: 1,973,807.394199원\n총 차량 지출: 31,973,807.394199원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "car-tax-calc",
+      "files": [
+        "daon-car-tax-calc.txt ↓ (0.072266 KB)"
+      ],
+      "preview": "",
+      "result": "자동차세: 224,000원\n지방교육세: 67,200원\n연 합계: 291,200원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "files": [
+        "daon-card-installment-fee-calc.txt ↓ (0.110352 KB)"
+      ],
+      "preview": "",
+      "result": "할부 원금: 1,000,000원\n총 수수료 추정: 81,250원\n총 납부: 1,081,250원\n월 원금: 83,333.333333원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "change-rate-calc",
+      "files": [
+        "daon-change-rate-calc.txt ↓ (0.00293 KB)"
+      ],
+      "preview": "",
+      "result": "20%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "cholesterol-calc",
+      "files": [
+        "daon-cholesterol-calc.txt ↓ (0.037109 KB)"
+      ],
+      "preview": "",
+      "result": "추정 LDL: 120mg/dL\n총/HDL 비율: 4",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "commission-calc",
+      "files": [
+        "daon-commission-calc.txt ↓ (0.039063 KB)"
+      ],
+      "preview": "",
+      "result": "수수료: 5,000원\n수령액: 95,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "compound-return-calc",
+      "files": [
+        "daon-compound-return-calc.txt ↓ (0.125 KB)"
+      ],
+      "preview": "",
+      "result": "투입 원금: 2,200,000원\n세전 최종액: 2,247,054.233454원\n수익: 47,054.233454원\n세후 최종액: 2,239,807.881502원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "currency-converter",
+      "files": [
+        "daon-currency-converter.txt ↓ (0.039063 KB)"
+      ],
+      "preview": "",
+      "result": "135,000 KRW\n적용 환율: 1,350 KRW/USD",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "files": [
+        "daon-daily-caffeine-intake-calc.txt ↓ (0.143555 KB)"
+      ],
+      "preview": "",
+      "result": "총 섭취량: 200mg\n입력 성인·체중 기준 중 작은 값: 370.5mg\n기준 대비: 53.981107%\n개인 상태에 따라 기준이 다릅니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "daily-protein-calc",
+      "files": [
+        "daon-daily-protein-calc.txt ↓ (0.006836 KB)"
+      ],
+      "preview": "",
+      "result": "52g/일",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "daily-water-calc",
+      "files": [
+        "daon-daily-water-calc.txt ↓ (0.010742 KB)"
+      ],
+      "preview": "",
+      "result": "1,950mL/일",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "date-calc",
+      "files": [
+        "daon-date-calc.txt ↓ (0.136719 KB)"
+      ],
+      "preview": "",
+      "result": "두 날짜 차이: 2,489일\n시작일 포함: 2,490일\n시작일 + 일수: 2020-01-31\n기준일의 만 나이: 0세\n2026년: 평년 (365일)",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "depreciation-calc",
+      "files": [
+        "daon-depreciation-calc.txt ↓ (0.015625 KB)"
+      ],
+      "preview": "",
+      "result": "1,800,000원/년",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "discount-calc",
+      "files": [
+        "daon-discount-calc.txt ↓ (0.039063 KB)"
+      ],
+      "preview": "",
+      "result": "할인 후: 8,000원\n할인액: 2,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "files": [
+        "daon-dividend-tax-calc.txt ↓ (0.189453 KB)"
+      ],
+      "preview": "",
+      "result": "세전 배당: 100,000원\n원천징수: 15,400원\n세후 예상: 84,600원\n입력 금융소득 합계: 100,000원\n해외 원천징수·외국납부세액·종합과세는 별도 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "dsr-calc",
+      "files": [
+        "daon-dsr-calc.txt ↓ (0.084961 KB)"
+      ],
+      "preview": "",
+      "result": "신규 연 상환액: 5,728,983.545585원\n기존 DSR: 30%\n신규 포함 DSR: 41.457967%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "files": [
+        "daon-electricity-bill-calc.txt ↓ (0.128906 KB)"
+      ],
+      "preview": "",
+      "result": "기본요금: 1,600원\n전력량요금: 30,000원\n연료·기후 조정: 3,500원\n부가세: 3,510원\n기금: 0원\n합계: 38,610원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "error-rate-calc",
+      "files": [
+        "daon-error-rate-calc.txt ↓ (0.001953 KB)"
+      ],
+      "preview": "",
+      "result": "2%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "factorial-calc",
+      "files": [
+        "daon-factorial-calc.txt ↓ (0.006836 KB)"
+      ],
+      "preview": "",
+      "result": "3628800",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "ffmi-calc",
+      "files": [
+        "daon-ffmi-calc.txt ↓ (0.041016 KB)"
+      ],
+      "preview": "",
+      "result": "FFMI: 19.591837\n키 보정 FFMI: 19.896837",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "five-grade-calc",
+      "files": [
+        "daon-five-grade-calc.txt ↓ (0.142578 KB)"
+      ],
+      "preview": "",
+      "result": "상위 비율: 10%\n5등급: 1등급\n동석차는 중간석차로 계산합니다. 9등급 변환은 구간 중간값에 따른 참고값입니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "files": [
+        "daon-fuel-cost-calc.txt ↓ (0.081055 KB)"
+      ],
+      "preview": "",
+      "result": "연료량: 25L\n유류비: 42,500원\n전체 비용: 42,500원\n1인 분담: 42,500원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "gcd-calc",
+      "files": [
+        "daon-gcd-calc.txt ↓ (0.000977 KB)"
+      ],
+      "preview": "",
+      "result": "6",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "gpa-calc",
+      "files": [
+        "daon-gpa-calc.txt ↓ (0.06543 KB)"
+      ],
+      "preview": "",
+      "result": "평균 평점: 4.1 / 4.5\n취득 학점: 5\n만점 대비: 91.111111%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "heart-rate-calc",
+      "files": [
+        "daon-heart-rate-calc.txt ↓ (0.06543 KB)"
+      ],
+      "preview": "",
+      "result": "추정 최대심박: 187bpm\n심박예비율 기준 목표: 138.2bpm",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "height-prediction-calc",
+      "files": [
+        "daon-height-prediction-calc.txt ↓ (0.004883 KB)"
+      ],
+      "preview": "",
+      "result": "175cm",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "files": [
+        "daon-hypotenuse-calc.txt ↓ (0.000977 KB)"
+      ],
+      "preview": "",
+      "result": "5",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "income-tax-calc",
+      "files": [
+        "daon-income-tax-calc.txt ↓ (0.124023 KB)"
+      ],
+      "preview": "",
+      "result": "과세표준: 50,000,000원\n소득세: 6,240,000원\n지방세 포함: 6,864,000원\n추가납부(음수는 환급): 6,864,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "files": [
+        "daon-jeonse-guarantee-fee-calc.txt ↓ (0.009766 KB)"
+      ],
+      "preview": "",
+      "result": "480,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "files": [
+        "daon-jeonse-vs-wolse-calc.txt ↓ (0.176758 KB)"
+      ],
+      "preview": "",
+      "result": "전세 월 자금비용: 666,666.666667원\n월세 월 비용: 766,666.666667원\n24개월 전세비용: 16,000,000원\n월세비용: 18,400,000원\n월세−전세 차이: 2,400,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "lcm-calc",
+      "files": [
+        "daon-lcm-calc.txt ↓ (0.001953 KB)"
+      ],
+      "preview": "",
+      "result": "72",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "files": [
+        "daon-lean-body-mass-calc.txt ↓ (0.052734 KB)"
+      ],
+      "preview": "",
+      "result": "제지방체중 추정: 56kg\n체지방량 추정: 14kg",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "loan-calc",
+      "files": [
+        "daon-loan-calc.txt ↓ (2.587891 KB)"
+      ],
+      "preview": "",
+      "result": "총 이자: 789,522.95768원\n총 상환액: 10,789,522.95768원\n\n회차 | 원금 | 이자 | 상환액 | 잔액\n1 | 258,042.30438 | 41,666.666667 | 299,708.971047 | 9,741,957.69562\n2 | 259,117.480648 | 40,591.490398 | 299",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "files": [
+        "daon-ltv-dti-calc.txt ↓ (0.265625 KB)"
+      ],
+      "preview": "",
+      "result": "입력 대출 LTV: 40%\n기존 부담 DTI: 30%\n입력 LTV 기준 한도: 350,000,000원\n입력 DTI 기준 추가 대출 추정: 87,275,516.855915원\n두 조건 중 작은 금액: 87,275,516.855915원\n지역·차주·규제·금융기관의 실제 한도는 별도입니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "files": [
+        "daon-macro-ratio-calc.txt ↓ (0.048828 KB)"
+      ],
+      "preview": "",
+      "result": "탄수화물 250g\n단백질 100g\n지방 66.666667g",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "margin-calc",
+      "files": [
+        "daon-margin-calc.txt ↓ (0.082031 KB)"
+      ],
+      "preview": "",
+      "result": "이익: 8,000원\n판매가 기준 마진율: 40%\n원가 기준 이익률: 66.666667%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "median-calc",
+      "files": [
+        "daon-median-calc.txt ↓ (0.000977 KB)"
+      ],
+      "preview": "",
+      "result": "4",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "mode-calc",
+      "files": [
+        "daon-mode-calc.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "최빈값: 2\n빈도: 2",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "files": [
+        "daon-monthly-average-combined-income-calc.txt ↓ (0.015625 KB)"
+      ],
+      "preview": "",
+      "result": "3,500,000원/월",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "files": [
+        "daon-monthly-rent-tax-credit-calc.txt ↓ (0.094727 KB)"
+      ],
+      "preview": "",
+      "result": "참고 공제율: 17%\n계산 공제액: 1,020,000원\n입력 결정세액 내 공제: 1,020,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "files": [
+        "daon-monthly-to-hourly-calc.txt ↓ (0.060547 KB)"
+      ],
+      "preview": "",
+      "result": "월 환산시간: 208.56시간\n환산 시급: 10,341.772152원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "ovulation-calc",
+      "files": [
+        "daon-ovulation-calc.txt ↓ (0.068359 KB)"
+      ],
+      "preview": "",
+      "result": "추정 배란일: 2020-01-15\n추정 가임기: 2020-01-10 ~ 2020-01-16",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "files": [
+        "daon-part-time-wage-calc.txt ↓ (0.073242 KB)"
+      ],
+      "preview": "",
+      "result": "월 환산시간: 173.8시간\n세전: 1,793,616원\n공제 후: 1,793,616원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pbr-calc",
+      "files": [
+        "daon-pbr-calc.txt ↓ (0.004883 KB)"
+      ],
+      "preview": "",
+      "result": "10배",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "per-calc",
+      "files": [
+        "daon-per-calc.txt ↓ (0.004883 KB)"
+      ],
+      "preview": "",
+      "result": "10배",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "percent-calc",
+      "files": [
+        "daon-percent-calc.txt ↓ (0.053711 KB)"
+      ],
+      "preview": "",
+      "result": "비율에 해당하는 값: 30\n단리 원리합계: 230",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "files": [
+        "daon-performance-bonus-tax-calc.txt ↓ (0.056641 KB)"
+      ],
+      "preview": "",
+      "result": "소득세: 0원\n지방소득세: 0원\n세후: 1,000,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "files": [
+        "daon-pregnancy-due-calc.txt ↓ (0.033203 KB)"
+      ],
+      "preview": "",
+      "result": "출산예정일 추정: 2020-10-07",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "files": [
+        "daon-prepayment-fee-calc.txt ↓ (0.015625 KB)"
+      ],
+      "preview": "",
+      "result": "33,333.333333원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "presentation-time-calc",
+      "files": [
+        "daon-presentation-time-calc.txt ↓ (0.030273 KB)"
+      ],
+      "preview": "",
+      "result": "원고: 17자\n예상: 0분 3초",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "files": [
+        "daon-real-estate-fee-calc.txt ↓ (0.225586 KB)"
+      ],
+      "preview": "",
+      "result": "환산 거래금액: 300,000,000원\n적용 참고 상한·협의율: 0.4%\n중개보수: 1,200,000원\n입력 부가세 포함: 1,320,000원\n실제 보수는 상한 이내 협의하고 지역 조례·물건 요건을 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "registration-cost-calc",
+      "files": [
+        "daon-registration-cost-calc.txt ↓ (0.134766 KB)"
+      ],
+      "preview": "",
+      "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "files": [
+        "daon-rent-conversion-calc.txt ↓ (0.095703 KB)"
+      ],
+      "preview": "",
+      "result": "월세 증감 절댓값: 333,333.333333원\n변경 보증금: 0원\n변경 월세: 833,333.333333원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "files": [
+        "daon-retirement-fund-calc.txt ↓ (0.140625 KB)"
+      ],
+      "preview": "",
+      "result": "은퇴 시 예상 준비금: 346,226,498.594938원\n은퇴 시 필요자금 추정: 699,048,412.031465원\n예상 부족액: 352,821,913.436526원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "roas-calc",
+      "files": [
+        "daon-roas-calc.txt ↓ (0.003906 KB)"
+      ],
+      "preview": "",
+      "result": "200%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "roe-calc",
+      "files": [
+        "daon-roe-calc.txt ↓ (0.003906 KB)"
+      ],
+      "preview": "",
+      "result": "200%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "roi-calc",
+      "files": [
+        "daon-roi-calc.txt ↓ (0.029297 KB)"
+      ],
+      "preview": "",
+      "result": "순이익: 200,000원\nROI: 20%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "files": [
+        "daon-salary-forecast-calc.txt ↓ (0.016602 KB)"
+      ],
+      "preview": "",
+      "result": "46,370,962.972원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "salary-net-calc",
+      "files": [
+        "daon-salary-net-calc.txt ↓ (0.223633 KB)"
+      ],
+      "preview": "",
+      "result": "월 세전: 3,000,000원\n월 과세 대상: 2,800,000원\n국민연금: 133,000원\n건강보험: 100,660원\n장기요양: 13,226.724원\n고용보험: 25,200원\n소득세·지방세: 55,000원\n월 실수령 추정: 2,672,913.276원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "salary-raise-calc",
+      "files": [
+        "daon-salary-raise-calc.txt ↓ (0.00293 KB)"
+      ],
+      "preview": "",
+      "result": "10%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "savings-calc",
+      "files": [
+        "daon-savings-calc.txt ↓ (0.081055 KB)"
+      ],
+      "preview": "",
+      "result": "납입 원금: 6,000,000원\n세전 이자: 97,500원\n세후 만기액: 6,082,485원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "severance-pay-calc",
+      "files": [
+        "daon-severance-pay-calc.txt ↓ (0.114258 KB)"
+      ],
+      "preview": "",
+      "result": "계속근로: 2489일\n직전3개월: 92일\n1일 평균임금: 97,826.086957원\n퇴직금 추정: 20,012,805.241215원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "files": [
+        "daon-sleep-cycle-calc.txt ↓ (0.119141 KB)"
+      ],
+      "preview": "",
+      "result": "23:15\n수면 시간 추정: 7.5시간\n\n주기별 참고 시각\n3주기: 02:15\n4주기: 00:45\n5주기: 23:15\n6주기: 21:45",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "social-insurance-calc",
+      "files": [
+        "daon-social-insurance-calc.txt ↓ (0.209961 KB)"
+      ],
+      "preview": "",
+      "result": "근로자 국민연금: 142,500원\n건강보험: 107,850원\n장기요양: 14,171.49원\n고용보험: 27,000원\n근로자 합계: 291,521.49원\n사업주 합계 추정: 329,021.49원\n사업주 산재보험: 30,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "split-bill-calc",
+      "files": [
+        "daon-split-bill-calc.txt ↓ (0.12207 KB)"
+      ],
+      "preview": "",
+      "result": "정산 총액: 100,000원\n1인당 (단위 올림): 33,334원\n총 수금액: 100,002원\n초과 수금 (돌려줄 금액): 2원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "standard-weight-calc",
+      "files": [
+        "daon-standard-weight-calc.txt ↓ (0.027344 KB)"
+      ],
+      "preview": "",
+      "result": "63.58kg\n적용 목표BMI: 22",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "stock-average-calc",
+      "files": [
+        "daon-stock-average-calc.txt ↓ (0.179688 KB)"
+      ],
+      "preview": "",
+      "result": "평균 매수가 (매수수수료 포함): 9,334.733333\n총 수량: 15\n총 매수액: 140,021원\n목표가 손익 (매도수수료 반영): 24,954.25원\n목표가 수익률: 17.821791%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "stop-loss-calc",
+      "files": [
+        "daon-stop-loss-calc.txt ↓ (0.00293 KB)"
+      ],
+      "preview": "",
+      "result": "25%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "subscription-score-calc",
+      "files": [
+        "daon-subscription-score-calc.txt ↓ (0.19043 KB)"
+      ],
+      "preview": "",
+      "result": "무주택기간: 12점\n부양가족: 15점\n통장기간: 7점\n합계: 34 / 84점\n무주택 기간 기산·배우자·소유 이력·미혼 연령 요건은 청약홈에서 별도 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "toeic-score-converter",
+      "files": [
+        "daon-toeic-score-converter.txt ↓ (0.189453 KB)"
+      ],
+      "preview": "",
+      "result": "단순 비례 참고값: 약 770점\n참고 범위: 710~830점\n목표와 참고값 차이: -30점\n공식 환산이 아닙니다. 시험별 난이도 보정으로 실제 점수는 달라집니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "top-percentile-calc",
+      "files": [
+        "daon-top-percentile-calc.txt ↓ (0.009766 KB)"
+      ],
+      "preview": "",
+      "result": "상위 10%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "files": [
+        "daon-unemployment-eligibility-calc.txt ↓ (0.178711 KB)"
+      ],
+      "preview": "",
+      "result": "입력 기본 조건 충족 (고용센터 심사 필요)\n연령·가입기간 기준 참고 지급일수: 210일\n입력 상하한 기준1일액: 66,048원\n참고 총액: 13,870,080원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "uph-calc",
+      "files": [
+        "daon-uph-calc.txt ↓ (0.051758 KB)"
+      ],
+      "preview": "",
+      "result": "시간당 생산량: 25개\n인시당 생산량: 25개",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "vat-calc",
+      "files": [
+        "daon-vat-calc.txt ↓ (0.0625 KB)"
+      ],
+      "preview": "",
+      "result": "공급가액: 100,000원\n부가세: 10,000원\n합계: 110,000원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "files": [
+        "daon-walking-calorie-calc.txt ↓ (0.077148 KB)"
+      ],
+      "preview": "",
+      "result": "걷기 거리 추정: 4.2km\n적용 시간: 30분\n소모량 추정: 119.4375kcal",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "files": [
+        "daon-weekly-holiday-pay-calc.txt ↓ (0.008789 KB)"
+      ],
+      "preview": "",
+      "result": "41,280원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "work-period-calc",
+      "files": [
+        "daon-work-period-calc.txt ↓ (0.075195 KB)"
+      ],
+      "preview": "",
+      "result": "달력 기준: 6년 9개월 24일\n경과: 2,489일\n시작일 포함: 2,490일",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "workday-calc",
+      "files": [
+        "daon-workday-calc.txt ↓ (0.006836 KB)"
+      ],
+      "preview": "",
+      "result": "1778일",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "working-hours-calc",
+      "files": [
+        "daon-working-hours-calc.txt ↓ (0.006836 KB)"
+      ],
+      "preview": "",
+      "result": "8시간",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "files": [
+        "daon-year-end-tax-calc.txt ↓ (0.142578 KB)"
+      ],
+      "preview": "",
+      "result": "근로소득공제: 12,250,000원\n과세표준: 31,250,000원\n결정세액 추정 (지방세 포함): 3,220,250원\n추가납부 추정: 220,250원",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "base64-tool",
+      "files": [
+        "daon-base64-tool.txt ↓ (0.035156 KB)"
+      ],
+      "preview": "",
+      "result": "64uk7JioIOybueuPhOq1rCBhdWRpdCAxMjM=",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "char-counter",
+      "files": [
+        "daon-text.txt ↓ (0.025391 KB)",
+        "daon-char-counter.txt ↓ (0.206055 KB)"
+      ],
+      "preview": "",
+      "result": "공백 포함: 16자\n공백 제외: 13자\n사용자 인식 문자: 16개\n단어: 4개\n줄: 1줄\nUTF-8: 26byte\n\n키워드 빈도\n다온: 1\n웹도구: 1\naudit: 1\n123: 1\n\n처리 텍스트\n다온 웹도구 audit 123",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "color-converter",
+      "files": [
+        "daon-color-converter.txt ↓ (0.078125 KB)"
+      ],
+      "preview": "",
+      "result": "HEX #285a49\nRGB 40, 90, 73\nHSL 159.6°, 38.461538%, 25.490196%\n불투명도 100%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "hash-generator",
+      "files": [
+        "daon-hash-generator.txt ↓ (0.070313 KB)"
+      ],
+      "preview": "",
+      "result": "SHA-256\nba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "image-text-extract",
+      "files": [
+        "daon-ocr.txt ↓ (0.017578 KB)",
+        "daon-image-text-extract.txt ↓ (0.017578 KB)"
+      ],
+      "preview": "",
+      "result": "DAON sample image\n",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "json-formatter",
+      "files": [
+        "daon-json-formatter.txt ↓ (0.033203 KB)"
+      ],
+      "preview": "",
+      "result": "{\n  \"name\": \"다온\",\n  \"n\": 123\n}",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "text-cleaner",
+      "files": [
+        "daon-text-cleaner.txt ↓ (0.025391 KB)"
+      ],
+      "preview": "",
+      "result": "다온   도구\n\n테스트",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "text-diff",
+      "files": [
+        "daon-text-diff.txt ↓ (0.038086 KB)"
+      ],
+      "preview": "",
+      "result": "[같음] 가\n\n[삭제] 나\n[추가] 다",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "text-line-sort",
+      "files": [
+        "daon-text-line-sort.txt ↓ (0.023438 KB)"
+      ],
+      "preview": "",
+      "result": "항목10\n항목2\n항목2",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "url-encoder",
+      "files": [
+        "daon-url-encoder.txt ↓ (0.060547 KB)"
+      ],
+      "preview": "",
+      "result": "%EB%8B%A4%EC%98%A8%20%EC%9B%B9%EB%8F%84%EA%B5%AC%20audit%20123",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "uuid-generator",
+      "files": [
+        "daon-uuid-generator.txt ↓ (0.179688 KB)"
+      ],
+      "preview": "",
+      "result": "8e596199-50c4-4bbb-b74d-ef39a1a784e9\n4b4d4460-fb97-4568-9b3f-ca5d5bc974a5\n59aeeee7-fdba-455f-bc15-82ac4510b70f\nb1bc963b-498a-4bac-b965-4d950e59a6e8\n81523568-1391-40ba-a2df-23eb4505",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "address-converter",
+      "files": [
+        "daon-address-converter.txt ↓ (0.211914 KB)"
+      ],
+      "preview": "",
+      "result": "서울 중구 세종대로 110\n우편번호: 04524\n도로명: 서울특별시 중구 세종대로 110\n지번: 서울특별시 중구 태평로1가 31\n영문: 110, Sejong-daero, Jung-gu, Seoul, 04524, Republic of Korea",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "english-name-converter",
+      "files": [
+        "daon-english-name-converter.txt ↓ (0.117188 KB)"
+      ],
+      "preview": "",
+      "result": "규칙 기반 후보: Hong Gildong\n여권·공식 이름은 기존 등록 표기와 발급기관 기준을 따르세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "generator-tool",
+      "files": [
+        "daon-generator-tool.txt ↓ (0.101563 KB)"
+      ],
+      "preview": "",
+      "result": "1MwGxn&@181Gft6LW%Vi\n8VGgKw*&bf0y3_PwqZ7O\n6cbtnciK$HA-+C42kUeD\nIJMkUw)*Jh5kGjS9aj1D\nps$#XLkmjTzuS*iQIC95",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "qr-generator",
+      "files": [
+        "daon-qr.png ↓ (8.026367 KB)",
+        "daon-qr.svg ↓ (1.198242 KB)",
+        "daon-qr-generator.txt ↓ (0.05957 KB)"
+      ],
+      "preview": "",
+      "result": "PNG·SVG QR 생성 완료. 실제 스캔 후 사용하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "road-address-converter",
+      "files": [
+        "daon-road-address-converter.txt ↓ (0.211914 KB)"
+      ],
+      "preview": "",
+      "result": "서울 중구 세종대로 110\n우편번호: 04524\n도로명: 서울특별시 중구 세종대로 110\n지번: 서울특별시 중구 태평로1가 31\n영문: 110, Sejong-daero, Jung-gu, Seoul, 04524, Republic of Korea",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "unit-converter",
+      "files": [
+        "daon-unit-converter.txt ↓ (0.005859 KB)"
+      ],
+      "preview": "",
+      "result": "100 cm",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "ai-viewer",
+      "files": [
+        "daon-ai-viewer.txt ↓ (0.039063 KB)"
+      ],
+      "preview": "",
+      "result": "PDF호환 AI · 1페이지\nDaon sample 1",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "csv-viewer",
+      "files": [
+        "daon-data.csv ↓ (0.041016 KB)",
+        "daon-csv-viewer.txt ↓ (0.041016 KB)"
+      ],
+      "preview": "이름값다온123쉼표, 포함456",
+      "result": "이름,값\n다온,123\n\"쉼표, 포함\",456",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "dwg-viewer",
+      "files": [
+        "daon-cad-info.txt ↓ (0.041992 KB)",
+        "daon-dwg-viewer.txt ↓ (0.023438 KB)"
+      ],
+      "preview": "",
+      "result": "LibreDWG 2D 미리보기",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "epub-viewer",
+      "files": [
+        "daon-ebook-all.txt ↓ (0.027344 KB)",
+        "daon-epub-viewer.txt ↓ (0.027344 KB)"
+      ],
+      "preview": "1. 다온 EPUB",
+      "result": "다온 EPUB\n본문 테스트",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "excel-viewer",
+      "files": [
+        "daon-sheets.tsv ↓ (0.029297 KB)",
+        "daon-excel-viewer.txt ↓ (0.029297 KB)"
+      ],
+      "preview": "다온이름값다온123",
+      "result": "# 다온\n이름\t값\n다온\t123",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "hwp-viewer",
+      "files": [
+        "daon-hwp-viewer.txt ↓ (0.022461 KB)"
+      ],
+      "preview": "",
+      "result": "다온 HWP 5 테스트\n",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "markdown-viewer",
+      "files": [
+        "daon-document.md ↓ (0.052734 KB)",
+        "daon-preview.html ↓ (0.226563 KB)",
+        "daon-markdown-viewer.txt ↓ (0.052734 KB)"
+      ],
+      "preview": "",
+      "result": "# 다온 테스트\n\n**굵은 글자**와 표준 문장",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-viewer",
+      "files": [
+        "daon-pdf-viewer.txt ↓ (2.919922 KB)"
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public ",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "ppt-viewer",
+      "files": [
+        "daon-ppt-viewer.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "슬라이드 1\n다온 PPTX 테스트",
+      "result": "다온 PPTX 테스트",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "psd-viewer",
+      "files": [
+        "daon-psd-viewer.txt ↓ (0.038086 KB)"
+      ],
+      "preview": "",
+      "result": "32×24px\n레이어 1개\n(이름 없음)",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "svg-viewer",
+      "files": [
+        "daon-svg-source.txt ↓ (0.158203 KB)",
+        "daon-svg-viewer.txt ↓ (0.158203 KB)"
+      ],
+      "preview": "",
+      "result": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"240\" height=\"160\"><rect width=\"240\" height=\"160\" fill=\"#285a49\"/><text x=\"20\" y=\"80\" fill=\"white\">Daon</text></svg>",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "tiff-viewer",
+      "files": [
+        "frame-1.png ↓ (0.121094 KB)",
+        "daon-tiff-viewer.txt ↓ (0.030273 KB)"
+      ],
+      "preview": "",
+      "result": "1개 TIFF 프레임\n1: 32×24px",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "word-viewer",
+      "files": [
+        "daon-word-viewer.txt ↓ (0.035156 KB)"
+      ],
+      "preview": "",
+      "result": "다온 DOCX 테스트\n\nEnglish 123\n\n",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-converter",
+      "files": [
+        "daon-text.txt ↓ (2.919922 KB)",
+        "daon-pdf-converter.txt ↓ (2.919922 KB)"
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public ",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-excel",
+      "files": [
+        "daon-result.xlsx ↓ (6.677734 KB)",
+        "daon-pdf-to-excel.txt ↓ (0.071289 KB)"
+      ],
+      "preview": "",
+      "result": "추정 행·열을 XLSX로 저장했습니다. 원본과 비교하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "files": [
+        "daon-results.zip ↓ (255.078125 KB)",
+        "daon-pdf-to-jpg.txt ↓ (0.027344 KB)"
+      ],
+      "preview": "",
+      "result": "4페이지 JPG 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-png",
+      "files": [
+        "daon-results.zip ↓ (296.863281 KB)",
+        "daon-pdf-to-png.txt ↓ (0.027344 KB)"
+      ],
+      "preview": "",
+      "result": "4페이지 PNG 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "files": [
+        "daon-slides.pptx ↓ (355.076172 KB)",
+        "daon-pdf-to-pptx.txt ↓ (0.033203 KB)"
+      ],
+      "preview": "",
+      "result": "4개 이미지 슬라이드 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "files": [
+        "daon-results.zip ↓ (17,627.107422 KB)",
+        "daon-pdf-to-tiff.txt ↓ (0.02832 KB)"
+      ],
+      "preview": "",
+      "result": "4페이지 TIFF 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-txt",
+      "files": [
+        "daon-text.txt ↓ (2.919922 KB)",
+        "daon-pdf-to-txt.txt ↓ (2.919922 KB)"
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public ",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-webp",
+      "files": [
+        "daon-results.zip ↓ (145.503906 KB)",
+        "daon-pdf-to-webp.txt ↓ (0.02832 KB)"
+      ],
+      "preview": "",
+      "result": "4페이지 WEBP 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-word",
+      "files": [
+        "daon-document.docx ↓ (9.693359 KB)",
+        "daon-pdf-to-word.txt ↓ (0.079102 KB)"
+      ],
+      "preview": "",
+      "result": "텍스트 DOCX를 생성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (1.017578 KB)",
+        "daon-dwg-to-pdf.txt ↓ (0.029297 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "DWG 2D 미리보기 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "epub-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (2.655273 KB)",
+        "daon-epub-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "excel-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (2.641602 KB)",
+        "daon-excel-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "html-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (3.140625 KB)",
+        "daon-html-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (2.5625 KB)",
+        "daon-hwp-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "image-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (7.086914 KB)",
+        "daon-image-to-pdf.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "이미지 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (4.986328 KB)",
+        "daon-jpg-to-pdf.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "이미지 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "png-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (2.696289 KB)",
+        "daon-png-to-pdf.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "이미지 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (0.957031 KB)",
+        "daon-tiff-to-pdf.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "이미지 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "txt-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (4.124023 KB)",
+        "daon-txt-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "webp-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (4.84668 KB)",
+        "daon-webp-to-pdf.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "이미지 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "word-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (3.423828 KB)",
+        "daon-word-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "xps-to-pdf",
+      "files": [
+        "daon-result.pdf ↓ (2.500977 KB)",
+        "daon-xps-to-pdf.txt ↓ (0.09082 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "7z-to-zip",
+      "files": [
+        "daon-converted.zip ↓ (5.97168 KB)",
+        "daon-7z-to-zip.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "4개 파일 ZIP 변환",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "avif-to-jpg",
+      "files": [
+        "daon-avif-to-jpg.jpeg ↓ (2.84668 KB)",
+        "daon-avif-to-jpg.txt ↓ (0.019531 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.84668KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "csv-to-excel",
+      "files": [
+        "daon-result.xlsx ↓ (6.358398 KB)",
+        "daon-csv-to-excel.txt ↓ (0.015625 KB)"
+      ],
+      "preview": "",
+      "result": "3행 XLSX 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "document-to-markdown",
+      "files": [
+        "daon-document.md ↓ (0.033203 KB)",
+        "daon-document-to-markdown.txt ↓ (0.033203 KB)"
+      ],
+      "preview": "",
+      "result": "다온 DOCX 테스트\n\nEnglish 123",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "gif-to-jpg",
+      "files": [
+        "daon-gif-to-jpg.jpeg ↓ (2.851563 KB)",
+        "daon-gif-to-jpg.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "gif-to-png",
+      "files": [
+        "daon-gif-to-png.png ↓ (8.279297 KB)",
+        "daon-gif-to-png.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "heic-to-jpg",
+      "files": [
+        "daon-heic-to-jpg.jpeg ↓ (144.90625 KB)",
+        "daon-heic-to-jpg.txt ↓ (0.022461 KB)"
+      ],
+      "preview": "",
+      "result": "1440×960px\n144.90625KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-converter",
+      "files": [
+        "daon-img-converter.png ↓ (8.279297 KB)",
+        "daon-img-converter.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "files": [
+        "daon-jpeg-to-jpg.jpeg ↓ (2.783203 KB)",
+        "daon-jpeg-to-jpg.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.783203KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-gif",
+      "files": [
+        "daon-jpg-to-gif.gif ↓ (2.333984 KB)",
+        "daon-jpg-to-gif.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.333984KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-png",
+      "files": [
+        "daon-jpg-to-png.png ↓ (11.40918 KB)",
+        "daon-jpg-to-png.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n11.40918KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-webp",
+      "files": [
+        "daon-jpg-to-webp.webp ↓ (1.550781 KB)",
+        "daon-jpg-to-webp.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n1.550781KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "png-to-gif",
+      "files": [
+        "daon-png-to-gif.gif ↓ (1.555664 KB)",
+        "daon-png-to-gif.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n1.555664KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "png-to-jpg",
+      "files": [
+        "daon-png-to-jpg.jpeg ↓ (2.851563 KB)",
+        "daon-png-to-jpg.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "png-to-webp",
+      "files": [
+        "daon-png-to-webp.webp ↓ (1.527344 KB)",
+        "daon-png-to-webp.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n1.527344KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "rar-to-zip",
+      "files": [
+        "daon-converted.zip ↓ (5.97168 KB)",
+        "daon-rar-to-zip.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "4개 파일 ZIP 변환",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "webp-to-jpg",
+      "files": [
+        "daon-webp-to-jpg.jpeg ↓ (2.856445 KB)",
+        "daon-webp-to-jpg.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.856445KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "webp-to-png",
+      "files": [
+        "daon-webp-to-png.png ↓ (11.052734 KB)",
+        "daon-webp-to-png.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n11.052734KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-adjust",
+      "files": [
+        "daon-img-adjust.png ↓ (8.279297 KB)",
+        "daon-img-adjust.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-color-picker",
+      "files": [
+        "daon-img-color-picker.txt ↓ (0.097656 KB)"
+      ],
+      "preview": "",
+      "result": "좌표: 0, 0\nHEX #e8eee1\nRGB 232, 238, 225\nHSL 87.692308°, 27.659574%, 90.784314%\n불투명도 100%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-compressor",
+      "files": [
+        "daon-img-compressor.jpeg ↓ (2.851563 KB)",
+        "daon-img-compressor.txt ↓ (0.044922 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB\n원본 대비 94.712942%",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-join",
+      "files": [
+        "daon-img-join.png ↓ (19.569336 KB)",
+        "daon-img-join.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "640×800px\n19.569336KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-resizer",
+      "files": [
+        "daon-img-resizer.png ↓ (27.335938 KB)",
+        "daon-img-resizer.txt ↓ (0.022461 KB)"
+      ],
+      "preview": "",
+      "result": "1200×750px\n27.335938KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-rotate-flip",
+      "files": [
+        "daon-img-rotate-flip.png ↓ (8.279297 KB)",
+        "daon-img-rotate-flip.txt ↓ (0.020508 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "img-watermark",
+      "files": [
+        "daon-img-watermark.png ↓ (10.608398 KB)",
+        "daon-img-watermark.txt ↓ (0.021484 KB)"
+      ],
+      "preview": "",
+      "result": "640×400px\n10.608398KB",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-add-blank",
+      "files": [
+        "daon-result.pdf ↓ (2.46582 KB)",
+        "daon-pdf-add-blank.txt ↓ (0.054688 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "0페이지 뒤 빈 페이지1장 추가 · 총5페이지",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-add-margin",
+      "files": [
+        "daon-result.pdf ↓ (6.044922 KB)",
+        "daon-pdf-add-margin.txt ↓ (0.050781 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-booklet",
+      "files": [
+        "daon-result.pdf ↓ (5.835938 KB)",
+        "daon-pdf-booklet.txt ↓ (0.123047 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료\n양면 인쇄 방향과 접지 순서를 미리보기로 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-nup",
+      "files": [
+        "daon-result.pdf ↓ (5.834961 KB)",
+        "daon-pdf-nup.txt ↓ (0.050781 KB)"
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-page-info",
+      "files": [
+        "daon-pdf-page-info.txt ↓ (0.143555 KB)"
+      ],
+      "result": "1페이지: 595×842pt · 회전 0°\n2페이지: 595×842pt · 회전 0°\n3페이지: 595×842pt · 회전 0°\n4페이지: 595×842pt · 회전 0°",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-page-info",
+      "files": [
+        "daon-pdf-page-info.txt ↓ (0.143555 KB)"
+      ],
+      "result": "1페이지: 595×842pt · 회전 0°\n2페이지: 595×842pt · 회전 0°\n3페이지: 595×842pt · 회전 0°\n4페이지: 595×842pt · 회전 0°",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-resize",
+      "files": [
+        "daon-result.pdf ↓ (6.175781 KB)",
+        "daon-pdf-resize.txt ↓ (0.050781 KB)"
+      ],
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-annotate",
+      "files": [
+        "daon-result.pdf ↓ (4.911133 KB)",
+        "daon-pdf-annotate.txt ↓ (0.016602 KB)"
+      ],
+      "result": "PDF 작업 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-compress",
+      "files": [
+        "daon-result.pdf ↓ (2.455078 KB)",
+        "daon-pdf-compress.txt ↓ (0.146484 KB)"
+      ],
+      "result": "원본 2.451172KB → 결과 2.455078KB\n원본보다 작아지지 않았습니다. 원본 유지 또는 이미지 재구성 옵션을 검토하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-create",
+      "files": [
+        "daon-result.pdf ↓ (2.865234 KB)",
+        "daon-pdf-create.txt ↓ (0.026367 KB)"
+      ],
+      "result": "한글 텍스트 PDF 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-delete",
+      "files": [
+        "daon-result.pdf ↓ (2.000977 KB)",
+        "daon-pdf-delete.txt ↓ (0.016602 KB)"
+      ],
+      "result": "3페이지 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-merge",
+      "files": [
+        "daon-result.pdf ↓ (1.042969 KB)",
+        "daon-pdf-merge.txt ↓ (0.016602 KB)"
+      ],
+      "result": "2페이지 병합",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-ocr",
+      "files": [
+        "daon-ocr.txt ↓ (2.923828 KB)",
+        "daon-pdf-ocr.txt ↓ (2.923828 KB)"
+      ],
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public ",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-organize",
+      "files": [
+        "daon-result.pdf ↓ (2.451172 KB)",
+        "daon-pdf-organize.txt ↓ (0.016602 KB)"
+      ],
+      "result": "4페이지 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-page-num",
+      "files": [
+        "daon-result.pdf ↓ (4.554688 KB)",
+        "daon-pdf-page-num.txt ↓ (0.060547 KB)"
+      ],
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-rotate",
+      "files": [
+        "daon-result.pdf ↓ (2.460938 KB)",
+        "daon-pdf-rotate.txt ↓ (0.016602 KB)"
+      ],
+      "result": "PDF 작업 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-sign",
+      "files": [
+        "daon-result.pdf ↓ (4.34668 KB)",
+        "daon-pdf-sign.txt ↓ (0.060547 KB)"
+      ],
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-split",
+      "files": [
+        "daon-extracted.pdf ↓ (2.001953 KB)",
+        "daon-split.zip ↓ (3.621094 KB)",
+        "daon-pdf-split.txt ↓ (0.03125 KB)"
+      ],
+      "result": "3페이지 분할·추출 완료",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "files": [
+        "daon-pdf-summary-ai.txt ↓ (0.283203 KB)"
+      ],
+      "result": "원문 핵심문장 추출 (생성형 AI 사용 안 함)\n\n[1쪽] DAON audit page 1\n\n[1쪽] Page 1 contains public synthetic data only.\n\n[2쪽] Page 2 contains public synthetic data only.\n\n[3쪽] Page 3 contains public ",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-watermark",
+      "files": [
+        "daon-result.pdf ↓ (5.148438 KB)",
+        "daon-pdf-watermark.txt ↓ (0.060547 KB)"
+      ],
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "qr-generator",
+      "files": [
+        "daon-qr.png ↓ (8.026367 KB)",
+        "daon-qr.svg ↓ (1.198242 KB)",
+        "daon-qr-generator.txt ↓ (0.05957 KB)"
+      ],
+      "result": "PNG·SVG QR 생성 완료. 실제 스캔 후 사용하세요.",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "slug": "pdf-organize",
+      "files": [
+        "daon-result.pdf ↓ (2.450195 KB)",
+        "daon-pdf-organize.txt ↓ (0.016602 KB)"
+      ],
+      "result": "4페이지 생성",
+      "scroll": 375,
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "extraChecks": [
+    "home search: watermark → 2 results",
+    "category image editing → 7 results",
+    "PNG QR download saved and copy verified",
+    "PDF organize reordering and 44px buttons",
+    "PDF draw signature pointer drag and PDF output"
+  ],
+  "automatedTests": {
+    "pass": 14,
+    "fail": 0
+  }
+}
