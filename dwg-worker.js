@@ -1,0 +1,2 @@
+import{LibreDwg,Dwg_File_Type}from'./dwg/libredwg.js';
+self.onmessage=async e=>{try{const lib=await LibreDwg.create('/vendor/dwg'),ptr=lib.dwg_read_data(e.data,Dwg_File_Type.DWG);if(!ptr)throw Error('지원하지 않거나 손상된 DWG 파일입니다.');try{const db=lib.convert(ptr),svg=lib.dwg_to_svg(db);if(!svg||!svg.includes('<svg'))throw Error('표시할 수 있는 2D 객체가 없습니다.');self.postMessage({svg});}finally{lib.dwg_free(ptr)}}catch(error){self.postMessage({error:error.message||String(error)})}};

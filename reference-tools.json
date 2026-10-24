@@ -1,0 +1,1142 @@
+[
+  {
+    "category": "일반 계산 도구",
+    "name": "1RM 계산기",
+    "reference": "https://dikr.co.kr/tools/1rm-calc.html",
+    "slug": "1rm-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "달성률 계산기",
+    "reference": "https://dikr.co.kr/tools/achievement-rate-calc.html",
+    "slug": "achievement-rate-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "취득세 계산기",
+    "reference": "https://dikr.co.kr/tools/acquisition-tax-calc.html",
+    "slug": "acquisition-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연차수당 계산기",
+    "reference": "https://dikr.co.kr/tools/annual-leave-allowance-calc.html",
+    "slug": "annual-leave-allowance-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "공무원 연가보상비 계산기",
+    "reference": "https://dikr.co.kr/tools/annual-leave-bonus-calc.html",
+    "slug": "annual-leave-bonus-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연차 유급휴가 계산기",
+    "reference": "https://dikr.co.kr/tools/annual-leave-calc.html",
+    "slug": "annual-leave-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "체감온도 계산기",
+    "reference": "https://dikr.co.kr/tools/apparent-temperature-calc.html",
+    "slug": "apparent-temperature-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "APY 계산기",
+    "reference": "https://dikr.co.kr/tools/apy-calc.html",
+    "slug": "apy-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "평균 계산기",
+    "reference": "https://dikr.co.kr/tools/average-calc.html",
+    "slug": "average-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "비만도(BMI) 계산기",
+    "reference": "https://dikr.co.kr/tools/bmi-calc.html",
+    "slug": "bmi-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "BSA 체표면적 계산기",
+    "reference": "https://dikr.co.kr/tools/bsa-calc.html",
+    "slug": "bsa-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "CAGR 계산기",
+    "reference": "https://dikr.co.kr/tools/cagr-calc.html",
+    "slug": "cagr-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "양도소득세 계산기",
+    "reference": "https://dikr.co.kr/tools/capital-gains-tax-calc.html",
+    "slug": "capital-gains-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "자동차 취등록세 계산기",
+    "reference": "https://dikr.co.kr/tools/car-acquisition-tax-calc.html",
+    "slug": "car-acquisition-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "자동차 할부 계산기",
+    "reference": "https://dikr.co.kr/tools/car-installment-calc.html",
+    "slug": "car-installment-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "자동차세 계산기",
+    "reference": "https://dikr.co.kr/tools/car-tax-calc.html",
+    "slug": "car-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "신용카드 할부 수수료 계산기",
+    "reference": "https://dikr.co.kr/tools/card-installment-fee-calc.html",
+    "slug": "card-installment-fee-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "증감율 계산기",
+    "reference": "https://dikr.co.kr/tools/change-rate-calc.html",
+    "slug": "change-rate-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "콜레스테롤 계산기",
+    "reference": "https://dikr.co.kr/tools/cholesterol-calc.html",
+    "slug": "cholesterol-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "판매 수수료 계산기",
+    "reference": "https://dikr.co.kr/tools/commission-calc.html",
+    "slug": "commission-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "복리 계산기",
+    "reference": "https://dikr.co.kr/tools/compound-return-calc.html",
+    "slug": "compound-return-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "환율 계산기",
+    "reference": "https://dikr.co.kr/tools/currency-converter.html",
+    "slug": "currency-converter"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "일일 카페인 섭취량 계산기",
+    "reference": "https://dikr.co.kr/tools/daily-caffeine-intake-calc.html",
+    "slug": "daily-caffeine-intake-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "일일 단백질 섭취량 계산기",
+    "reference": "https://dikr.co.kr/tools/daily-protein-calc.html",
+    "slug": "daily-protein-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "일일 물 섭취량 계산기",
+    "reference": "https://dikr.co.kr/tools/daily-water-calc.html",
+    "slug": "daily-water-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "날짜 & 디데이 계산기",
+    "reference": "https://dikr.co.kr/tools/date-calc.html",
+    "slug": "date-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "감가상각비 계산기",
+    "reference": "https://dikr.co.kr/tools/depreciation-calc.html",
+    "slug": "depreciation-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "할인 계산기",
+    "reference": "https://dikr.co.kr/tools/discount-calc.html",
+    "slug": "discount-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "배당금 세후 계산기",
+    "reference": "https://dikr.co.kr/tools/dividend-tax-calc.html",
+    "slug": "dividend-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "DSR 계산기",
+    "reference": "https://dikr.co.kr/tools/dsr-calc.html",
+    "slug": "dsr-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "전기요금 계산기",
+    "reference": "https://dikr.co.kr/tools/electricity-bill-calc.html",
+    "slug": "electricity-bill-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "오차율 계산기",
+    "reference": "https://dikr.co.kr/tools/error-rate-calc.html",
+    "slug": "error-rate-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "팩토리얼 계산기",
+    "reference": "https://dikr.co.kr/tools/factorial-calc.html",
+    "slug": "factorial-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "FFMI 계산기",
+    "reference": "https://dikr.co.kr/tools/ffmi-calc.html",
+    "slug": "ffmi-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "내신 5등급제 비율 변환기",
+    "reference": "https://dikr.co.kr/tools/five-grade-calc.html",
+    "slug": "five-grade-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "유류비 계산기",
+    "reference": "https://dikr.co.kr/tools/fuel-cost-calc.html",
+    "slug": "fuel-cost-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "최대공약수 계산기",
+    "reference": "https://dikr.co.kr/tools/gcd-calc.html",
+    "slug": "gcd-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "학점 계산기",
+    "reference": "https://dikr.co.kr/tools/gpa-calc.html",
+    "slug": "gpa-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "심박수 계산기",
+    "reference": "https://dikr.co.kr/tools/heart-rate-calc.html",
+    "slug": "heart-rate-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "키 성장 예측 계산기",
+    "reference": "https://dikr.co.kr/tools/height-prediction-calc.html",
+    "slug": "height-prediction-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "빗변 계산기",
+    "reference": "https://dikr.co.kr/tools/hypotenuse-calc.html",
+    "slug": "hypotenuse-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "종합소득세 계산기",
+    "reference": "https://dikr.co.kr/tools/income-tax-calc.html",
+    "slug": "income-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "전세보증보험료 계산기",
+    "reference": "https://dikr.co.kr/tools/jeonse-guarantee-fee-calc.html",
+    "slug": "jeonse-guarantee-fee-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "전세 vs 월세 계산기",
+    "reference": "https://dikr.co.kr/tools/jeonse-vs-wolse-calc.html",
+    "slug": "jeonse-vs-wolse-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "최소공배수 계산기",
+    "reference": "https://dikr.co.kr/tools/lcm-calc.html",
+    "slug": "lcm-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "제지방 체중 계산기",
+    "reference": "https://dikr.co.kr/tools/lean-body-mass-calc.html",
+    "slug": "lean-body-mass-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "대출 이자 계산기",
+    "reference": "https://dikr.co.kr/tools/loan-calc.html",
+    "slug": "loan-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "LTV/DTI 계산기",
+    "reference": "https://dikr.co.kr/tools/ltv-dti-calc.html",
+    "slug": "ltv-dti-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "탄단지 비율 계산기",
+    "reference": "https://dikr.co.kr/tools/macro-ratio-calc.html",
+    "slug": "macro-ratio-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "마진 계산기",
+    "reference": "https://dikr.co.kr/tools/margin-calc.html",
+    "slug": "margin-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "중앙값 계산기",
+    "reference": "https://dikr.co.kr/tools/median-calc.html",
+    "slug": "median-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "최빈값 계산기",
+    "reference": "https://dikr.co.kr/tools/mode-calc.html",
+    "slug": "mode-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "월평균 합산 소득 계산기",
+    "reference": "https://dikr.co.kr/tools/monthly-average-combined-income-calc.html",
+    "slug": "monthly-average-combined-income-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "월세 세액공제 계산기",
+    "reference": "https://dikr.co.kr/tools/monthly-rent-tax-credit-calc.html",
+    "slug": "monthly-rent-tax-credit-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "월급 시급 계산기",
+    "reference": "https://dikr.co.kr/tools/monthly-to-hourly-calc.html",
+    "slug": "monthly-to-hourly-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "배란일 계산기",
+    "reference": "https://dikr.co.kr/tools/ovulation-calc.html",
+    "slug": "ovulation-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "알바비 계산기",
+    "reference": "https://dikr.co.kr/tools/part-time-wage-calc.html",
+    "slug": "part-time-wage-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "PBR 계산기",
+    "reference": "https://dikr.co.kr/tools/pbr-calc.html",
+    "slug": "pbr-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "PER 계산기",
+    "reference": "https://dikr.co.kr/tools/per-calc.html",
+    "slug": "per-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "퍼센트 & 이자 계산기",
+    "reference": "https://dikr.co.kr/tools/percent-calc.html",
+    "slug": "percent-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "성과급 세금 계산기",
+    "reference": "https://dikr.co.kr/tools/performance-bonus-tax-calc.html",
+    "slug": "performance-bonus-tax-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "출산예정일 계산기",
+    "reference": "https://dikr.co.kr/tools/pregnancy-due-calc.html",
+    "slug": "pregnancy-due-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "중도상환수수료 계산기",
+    "reference": "https://dikr.co.kr/tools/prepayment-fee-calc.html",
+    "slug": "prepayment-fee-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "발표 시간 계산기",
+    "reference": "https://dikr.co.kr/tools/presentation-time-calc.html",
+    "slug": "presentation-time-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "부동산 복비 계산기",
+    "reference": "https://dikr.co.kr/tools/real-estate-fee-calc.html",
+    "slug": "real-estate-fee-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "등기비용 계산기",
+    "reference": "https://dikr.co.kr/tools/registration-cost-calc.html",
+    "slug": "registration-cost-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "전월세 전환 계산기",
+    "reference": "https://dikr.co.kr/tools/rent-conversion-calc.html",
+    "slug": "rent-conversion-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "은퇴자금 계산기",
+    "reference": "https://dikr.co.kr/tools/retirement-fund-calc.html",
+    "slug": "retirement-fund-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "ROAS 계산기",
+    "reference": "https://dikr.co.kr/tools/roas-calc.html",
+    "slug": "roas-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "ROE 계산기",
+    "reference": "https://dikr.co.kr/tools/roe-calc.html",
+    "slug": "roe-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "ROI 계산기",
+    "reference": "https://dikr.co.kr/tools/roi-calc.html",
+    "slug": "roi-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연봉 인상율 예측 계산기",
+    "reference": "https://dikr.co.kr/tools/salary-forecast-calc.html",
+    "slug": "salary-forecast-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연봉 실수령액 계산기",
+    "reference": "https://dikr.co.kr/tools/salary-net-calc.html",
+    "slug": "salary-net-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연봉 인상율 계산기",
+    "reference": "https://dikr.co.kr/tools/salary-raise-calc.html",
+    "slug": "salary-raise-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "적금 이자 계산기",
+    "reference": "https://dikr.co.kr/tools/savings-calc.html",
+    "slug": "savings-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "퇴직금 계산기",
+    "reference": "https://dikr.co.kr/tools/severance-pay-calc.html",
+    "slug": "severance-pay-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "수면 시간 계산기",
+    "reference": "https://dikr.co.kr/tools/sleep-cycle-calc.html",
+    "slug": "sleep-cycle-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "4대보험 계산기",
+    "reference": "https://dikr.co.kr/tools/social-insurance-calc.html",
+    "slug": "social-insurance-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "더치페이 계산기",
+    "reference": "https://dikr.co.kr/tools/split-bill-calc.html",
+    "slug": "split-bill-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "표준 체중 계산기",
+    "reference": "https://dikr.co.kr/tools/standard-weight-calc.html",
+    "slug": "standard-weight-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "주식/코인 평단가 계산기",
+    "reference": "https://dikr.co.kr/tools/stock-average-calc.html",
+    "slug": "stock-average-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "손절 복구율 계산기",
+    "reference": "https://dikr.co.kr/tools/stop-loss-calc.html",
+    "slug": "stop-loss-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "청약가점 계산기",
+    "reference": "https://dikr.co.kr/tools/subscription-score-calc.html",
+    "slug": "subscription-score-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "토익점수 환산기",
+    "reference": "https://dikr.co.kr/tools/toeic-score-converter.html",
+    "slug": "toeic-score-converter"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "상위 퍼센트 계산기",
+    "reference": "https://dikr.co.kr/tools/top-percentile-calc.html",
+    "slug": "top-percentile-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "간이 실업급여 자격 계산기",
+    "reference": "https://dikr.co.kr/tools/unemployment-eligibility-calc.html",
+    "slug": "unemployment-eligibility-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "UPH 계산기",
+    "reference": "https://dikr.co.kr/tools/uph-calc.html",
+    "slug": "uph-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "부가세 계산기",
+    "reference": "https://dikr.co.kr/tools/vat-calc.html",
+    "slug": "vat-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "걸음 수 칼로리 소모 계산기",
+    "reference": "https://dikr.co.kr/tools/walking-calorie-calc.html",
+    "slug": "walking-calorie-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "주휴수당 계산기",
+    "reference": "https://dikr.co.kr/tools/weekly-holiday-pay-calc.html",
+    "slug": "weekly-holiday-pay-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "근무 년수/기간 계산기",
+    "reference": "https://dikr.co.kr/tools/work-period-calc.html",
+    "slug": "work-period-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "근무일수 계산기",
+    "reference": "https://dikr.co.kr/tools/workday-calc.html",
+    "slug": "workday-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "근무시간 계산기",
+    "reference": "https://dikr.co.kr/tools/working-hours-calc.html",
+    "slug": "working-hours-calc"
+  },
+  {
+    "category": "일반 계산 도구",
+    "name": "연말정산 환급 계산기",
+    "reference": "https://dikr.co.kr/tools/year-end-tax-calc.html",
+    "slug": "year-end-tax-calc"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "Base64 인코더·디코더",
+    "reference": "https://dikr.co.kr/tools/base64-tool.html",
+    "slug": "base64-tool"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "글자수 세기 & 분석기",
+    "reference": "https://dikr.co.kr/tools/char-counter.html",
+    "slug": "char-counter"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "HEX RGB HSL 색상 변환기",
+    "reference": "https://dikr.co.kr/tools/color-converter.html",
+    "slug": "color-converter"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "SHA 해시 생성·검증",
+    "reference": "https://dikr.co.kr/tools/hash-generator.html",
+    "slug": "hash-generator"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "이미지 텍스트 추출",
+    "reference": "https://dikr.co.kr/tools/image-text-extract.html",
+    "slug": "image-text-extract"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "JSON 포맷터",
+    "reference": "https://dikr.co.kr/tools/json-formatter.html",
+    "slug": "json-formatter"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "텍스트 정리 도구",
+    "reference": "https://dikr.co.kr/tools/text-cleaner.html",
+    "slug": "text-cleaner"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "텍스트 비교",
+    "reference": "https://dikr.co.kr/tools/text-diff.html",
+    "slug": "text-diff"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "텍스트 줄 정렬·중복 제거",
+    "reference": "https://dikr.co.kr/tools/text-line-sort.html",
+    "slug": "text-line-sort"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "URL 인코더·디코더",
+    "reference": "https://dikr.co.kr/tools/url-encoder.html",
+    "slug": "url-encoder"
+  },
+  {
+    "category": "텍스트·개발 도구",
+    "name": "UUID 생성기",
+    "reference": "https://dikr.co.kr/tools/uuid-generator.html",
+    "slug": "uuid-generator"
+  },
+  {
+    "category": "생활 도구",
+    "name": "주소 일괄 변환",
+    "reference": "https://dikr.co.kr/tools/address-converter.html",
+    "slug": "address-converter"
+  },
+  {
+    "category": "생활 도구",
+    "name": "영어이름 변환기",
+    "reference": "https://dikr.co.kr/tools/english-name-converter.html",
+    "slug": "english-name-converter"
+  },
+  {
+    "category": "생활 도구",
+    "name": "비밀번호 & 무작위 생성기",
+    "reference": "https://dikr.co.kr/tools/generator-tool.html",
+    "slug": "generator-tool"
+  },
+  {
+    "category": "생활 도구",
+    "name": "QR 코드 생성기",
+    "reference": "https://dikr.co.kr/tools/qr-generator.html",
+    "slug": "qr-generator"
+  },
+  {
+    "category": "생활 도구",
+    "name": "도로명·지번 주소 변환",
+    "reference": "https://dikr.co.kr/tools/road-address-converter.html",
+    "slug": "road-address-converter"
+  },
+  {
+    "category": "생활 도구",
+    "name": "스마트 단위 변환기",
+    "reference": "https://dikr.co.kr/tools/unit-converter.html",
+    "slug": "unit-converter"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "AI 뷰어",
+    "reference": "https://dikr.co.kr/tools/ai-viewer.html",
+    "slug": "ai-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "CSV 뷰어",
+    "reference": "https://dikr.co.kr/tools/csv-viewer.html",
+    "slug": "csv-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "DWG 뷰어",
+    "reference": "https://dikr.co.kr/tools/dwg-viewer.html",
+    "slug": "dwg-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "EPUB 뷰어",
+    "reference": "https://dikr.co.kr/tools/epub-viewer.html",
+    "slug": "epub-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "엑셀 뷰어",
+    "reference": "https://dikr.co.kr/tools/excel-viewer.html",
+    "slug": "excel-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "HWP 뷰어",
+    "reference": "https://dikr.co.kr/tools/hwp-viewer.html",
+    "slug": "hwp-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "Markdown 뷰어",
+    "reference": "https://dikr.co.kr/tools/markdown-viewer.html",
+    "slug": "markdown-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "PDF 뷰어",
+    "reference": "https://dikr.co.kr/tools/pdf-viewer.html",
+    "slug": "pdf-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "PPT 뷰어",
+    "reference": "https://dikr.co.kr/tools/ppt-viewer.html",
+    "slug": "ppt-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "PSD 뷰어",
+    "reference": "https://dikr.co.kr/tools/psd-viewer.html",
+    "slug": "psd-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "SVG 뷰어",
+    "reference": "https://dikr.co.kr/tools/svg-viewer.html",
+    "slug": "svg-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "TIFF 뷰어",
+    "reference": "https://dikr.co.kr/tools/tiff-viewer.html",
+    "slug": "tiff-viewer"
+  },
+  {
+    "category": "파일 뷰어",
+    "name": "워드 뷰어",
+    "reference": "https://dikr.co.kr/tools/word-viewer.html",
+    "slug": "word-viewer"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF 변환기",
+    "reference": "https://dikr.co.kr/tools/pdf-converter.html",
+    "slug": "pdf-converter"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 Excel로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-excel.html",
+    "slug": "pdf-to-excel"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 JPG로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-jpg.html",
+    "slug": "pdf-to-jpg"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 PNG로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-png.html",
+    "slug": "pdf-to-png"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 PPTX로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-pptx.html",
+    "slug": "pdf-to-pptx"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 TIFF로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-tiff.html",
+    "slug": "pdf-to-tiff"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 TXT로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-txt.html",
+    "slug": "pdf-to-txt"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF WebP 변환",
+    "reference": "https://dikr.co.kr/tools/pdf-to-webp.html",
+    "slug": "pdf-to-webp"
+  },
+  {
+    "category": "PDF에서 변환하기",
+    "name": "PDF를 Word로",
+    "reference": "https://dikr.co.kr/tools/pdf-to-word.html",
+    "slug": "pdf-to-word"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "DWG를 PDF로",
+    "reference": "https://dikr.co.kr/tools/dwg-to-pdf.html",
+    "slug": "dwg-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "EPUB을 PDF로",
+    "reference": "https://dikr.co.kr/tools/epub-to-pdf.html",
+    "slug": "epub-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "Excel를 PDF로",
+    "reference": "https://dikr.co.kr/tools/excel-to-pdf.html",
+    "slug": "excel-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "HTML를 PDF로",
+    "reference": "https://dikr.co.kr/tools/html-to-pdf.html",
+    "slug": "html-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "HWP를 PDF로",
+    "reference": "https://dikr.co.kr/tools/hwp-to-pdf.html",
+    "slug": "hwp-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "이미지를 PDF로 (Image to PDF)",
+    "reference": "https://dikr.co.kr/tools/image-to-pdf.html",
+    "slug": "image-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "JPG를 PDF로",
+    "reference": "https://dikr.co.kr/tools/jpg-to-pdf.html",
+    "slug": "jpg-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "PNG를 PDF로",
+    "reference": "https://dikr.co.kr/tools/png-to-pdf.html",
+    "slug": "png-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "TIFF를 PDF로",
+    "reference": "https://dikr.co.kr/tools/tiff-to-pdf.html",
+    "slug": "tiff-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "TXT를 PDF로",
+    "reference": "https://dikr.co.kr/tools/txt-to-pdf.html",
+    "slug": "txt-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "WebP PDF 변환",
+    "reference": "https://dikr.co.kr/tools/webp-to-pdf.html",
+    "slug": "webp-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "Word를 PDF로",
+    "reference": "https://dikr.co.kr/tools/word-to-pdf.html",
+    "slug": "word-to-pdf"
+  },
+  {
+    "category": "PDF로 변환하기",
+    "name": "XPS를 PDF로",
+    "reference": "https://dikr.co.kr/tools/xps-to-pdf.html",
+    "slug": "xps-to-pdf"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "7z ZIP 변환",
+    "reference": "https://dikr.co.kr/tools/7z-to-zip.html",
+    "slug": "7z-to-zip"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "Avif를 JPG로",
+    "reference": "https://dikr.co.kr/tools/avif-to-jpg.html",
+    "slug": "avif-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "CSV를 Excel로",
+    "reference": "https://dikr.co.kr/tools/csv-to-excel.html",
+    "slug": "csv-to-excel"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "문서 Markdown 변환",
+    "reference": "https://dikr.co.kr/tools/document-to-markdown.html",
+    "slug": "document-to-markdown"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "GIF를 JPG로",
+    "reference": "https://dikr.co.kr/tools/gif-to-jpg.html",
+    "slug": "gif-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "GIF를 PNG로",
+    "reference": "https://dikr.co.kr/tools/gif-to-png.html",
+    "slug": "gif-to-png"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "HEIC를 JPG로",
+    "reference": "https://dikr.co.kr/tools/heic-to-jpg.html",
+    "slug": "heic-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "이미지 포맷 변환 (Converter)",
+    "reference": "https://dikr.co.kr/tools/img-converter.html",
+    "slug": "img-converter"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "JPEG를 JPG로",
+    "reference": "https://dikr.co.kr/tools/jpeg-to-jpg.html",
+    "slug": "jpeg-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "JPG를 GIF로",
+    "reference": "https://dikr.co.kr/tools/jpg-to-gif.html",
+    "slug": "jpg-to-gif"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "JPG를 PNG로",
+    "reference": "https://dikr.co.kr/tools/jpg-to-png.html",
+    "slug": "jpg-to-png"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "JPG를 WebP로",
+    "reference": "https://dikr.co.kr/tools/jpg-to-webp.html",
+    "slug": "jpg-to-webp"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "PNG를 GIF로",
+    "reference": "https://dikr.co.kr/tools/png-to-gif.html",
+    "slug": "png-to-gif"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "PNG를 JPG로",
+    "reference": "https://dikr.co.kr/tools/png-to-jpg.html",
+    "slug": "png-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "PNG를 WebP로",
+    "reference": "https://dikr.co.kr/tools/png-to-webp.html",
+    "slug": "png-to-webp"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "RAR ZIP 변환",
+    "reference": "https://dikr.co.kr/tools/rar-to-zip.html",
+    "slug": "rar-to-zip"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "WebP를 JPG로",
+    "reference": "https://dikr.co.kr/tools/webp-to-jpg.html",
+    "slug": "webp-to-jpg"
+  },
+  {
+    "category": "이미지 및 기타 변환",
+    "name": "WebP를 PNG로",
+    "reference": "https://dikr.co.kr/tools/webp-to-png.html",
+    "slug": "webp-to-png"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 밝기·대비·흑백 편집",
+    "reference": "https://dikr.co.kr/tools/img-adjust.html",
+    "slug": "img-adjust"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 색상 추출기 (Color Picker)",
+    "reference": "https://dikr.co.kr/tools/img-color-picker.html",
+    "slug": "img-color-picker"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 용량 압축 (Compressor)",
+    "reference": "https://dikr.co.kr/tools/img-compressor.html",
+    "slug": "img-compressor"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 이어붙이기",
+    "reference": "https://dikr.co.kr/tools/img-join.html",
+    "slug": "img-join"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 크기 조절 (Resizer)",
+    "reference": "https://dikr.co.kr/tools/img-resizer.html",
+    "slug": "img-resizer"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 회전 및 반전 (Rotate & Flip)",
+    "reference": "https://dikr.co.kr/tools/img-rotate-flip.html",
+    "slug": "img-rotate-flip"
+  },
+  {
+    "category": "이미지 편집 도구",
+    "name": "이미지 워터마크 넣기",
+    "reference": "https://dikr.co.kr/tools/img-watermark.html",
+    "slug": "img-watermark"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 빈 페이지 추가",
+    "reference": "https://dikr.co.kr/tools/pdf-add-blank.html",
+    "slug": "pdf-add-blank"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 여백 추가",
+    "reference": "https://dikr.co.kr/tools/pdf-add-margin.html",
+    "slug": "pdf-add-margin"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 소책자 인쇄 배치",
+    "reference": "https://dikr.co.kr/tools/pdf-booklet.html",
+    "slug": "pdf-booklet"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 모아찍기",
+    "reference": "https://dikr.co.kr/tools/pdf-nup.html",
+    "slug": "pdf-nup"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 페이지 정보 확인",
+    "reference": "https://dikr.co.kr/tools/pdf-page-info.html",
+    "slug": "pdf-page-info"
+  },
+  {
+    "category": "PDF 인쇄·레이아웃",
+    "name": "PDF 용지 크기 변경",
+    "reference": "https://dikr.co.kr/tools/pdf-resize.html",
+    "slug": "pdf-resize"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF에 주석 달기",
+    "reference": "https://dikr.co.kr/tools/pdf-annotate.html",
+    "slug": "pdf-annotate"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 압축",
+    "reference": "https://dikr.co.kr/tools/pdf-compress.html",
+    "slug": "pdf-compress"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 생성",
+    "reference": "https://dikr.co.kr/tools/pdf-create.html",
+    "slug": "pdf-create"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 페이지 삭제 (Delete Pages)",
+    "reference": "https://dikr.co.kr/tools/pdf-delete.html",
+    "slug": "pdf-delete"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 병합 (Merge)",
+    "reference": "https://dikr.co.kr/tools/pdf-merge.html",
+    "slug": "pdf-merge"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF OCR",
+    "reference": "https://dikr.co.kr/tools/pdf-ocr.html",
+    "slug": "pdf-ocr"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 페이지 정리",
+    "reference": "https://dikr.co.kr/tools/pdf-organize.html",
+    "slug": "pdf-organize"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 페이지 번호 추가 (Page Numbering)",
+    "reference": "https://dikr.co.kr/tools/pdf-page-num.html",
+    "slug": "pdf-page-num"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 페이지 회전 (Rotate)",
+    "reference": "https://dikr.co.kr/tools/pdf-rotate.html",
+    "slug": "pdf-rotate"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 서명",
+    "reference": "https://dikr.co.kr/tools/pdf-sign.html",
+    "slug": "pdf-sign"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 분할 (Split)",
+    "reference": "https://dikr.co.kr/tools/pdf-split.html",
+    "slug": "pdf-split"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 요약 AI",
+    "reference": "https://dikr.co.kr/tools/pdf-summary-ai.html",
+    "slug": "pdf-summary-ai"
+  },
+  {
+    "category": "PDF 편집 및 서명",
+    "name": "PDF 워터마크 추가 (Watermark)",
+    "reference": "https://dikr.co.kr/tools/pdf-watermark.html",
+    "slug": "pdf-watermark"
+  }
+]
