@@ -1,0 +1,2 @@
+import{test}from'node:test';import assert from'node:assert/strict';import{calculate,average}from'./core.mjs';
+test('계산 결과와 예외',()=>{assert.equal(calculate('percent',200,15),30);assert.equal(calculate('discount',10000,20),8000);assert.equal(calculate('change',100,120),20);assert.throws(()=>calculate('change',0,1));assert.throws(()=>calculate('discount',100,101));assert.deepEqual(average('10, 20 30'),{sum:60,count:3,mean:20});assert.throws(()=>average('10,안녕'));});

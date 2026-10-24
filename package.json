@@ -1,0 +1,1 @@
+{"name":"daon-webtools","version":"1.0.0","private":true,"scripts":{"build":"node build.mjs","dev":"node serve.mjs","test":"node --test test.mjs"},"dependencies":{"pdf-lib":"1.17.1"}}
