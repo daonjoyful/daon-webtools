@@ -23,3 +23,7 @@ Node.js22 이상에서 npm install → npm run build → npm test → npm run de
 ## 공개 엔진
 
 라이선스와 통합 소스는 배포의 /third-party-licenses.txt,/licenses/,/source/에 포함합니다. LibreDWG0.8.2 엔진은 원본 모듈을 별도worker에서 사용하며 GPL-3.0 사본과 [정확한 원본 소스](https://github.com/mlightcad/libredwg-web/tree/v0.8.2)를 제공합니다. SheetJS는 공식0.20.3 배포본을 사용합니다. 각 의존성은 원저작자의 라이선스를 따릅니다.
+
+## SEO
+
+[SEO 점검·수정 기록](./seo-audit.md)과 [190개 메타데이터](./seo-audit-results.json)를 제공합니다. 10개 카테고리 모음, 도구별 정적 안내·계산 예시·관련 링크, 구조화 데이터와205개 URL 사이트맵을 빌드합니다. SEO 검사도 배포 빌드의 자동 테스트에 포함됩니다.

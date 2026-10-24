@@ -1,0 +1,856 @@
+{
+  "1rm-calc": {
+    "input": {
+      "weight": 60,
+      "reps": 5
+    },
+    "result": "Epley 추정 1RM: 70kg"
+  },
+  "achievement-rate-calc": {
+    "input": {
+      "actual": 80,
+      "target": 100
+    },
+    "result": "80%"
+  },
+  "acquisition-tax-calc": {
+    "input": {
+      "price": 100000000,
+      "rate": 1,
+      "education": 0.1,
+      "rural": 0,
+      "extra": 0
+    },
+    "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원"
+  },
+  "annual-leave-allowance-calc": {
+    "input": {
+      "monthly": 3000000,
+      "monthlyHours": 209,
+      "hours": 8,
+      "unused": 5
+    },
+    "result": "통상 시급: 14,354.066986원\n연차수당: 574,162.679426원"
+  },
+  "annual-leave-bonus-calc": {
+    "input": {
+      "salary": 3000000,
+      "rate": 86,
+      "unused": 5
+    },
+    "result": "430,000원"
+  },
+  "annual-leave-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "end": "2026-10-25",
+      "attendance": 100,
+      "fullMonths": 0,
+      "monthsMode": "auto"
+    },
+    "result": "해당 근속연도 기준 연차: 17일\n근속: 6년"
+  },
+  "apparent-temperature-calc": {
+    "input": {
+      "temp": 0,
+      "wind": 5,
+      "season": "winter",
+      "humidity": 60
+    },
+    "result": "-4.935273℃"
+  },
+  "apy-calc": {
+    "input": {
+      "rate": 5,
+      "compound": 12
+    },
+    "result": "5.11619%"
+  },
+  "average-calc": {
+    "input": {
+      "values": "10, 20, 30"
+    },
+    "result": "평균: 20\n합계: 60\n개수: 3"
+  },
+  "bmi-calc": {
+    "input": {
+      "height": 170,
+      "weight": 65,
+      "age": 30,
+      "sex": "male",
+      "activity": 1.2
+    },
+    "result": "BMI: 22.491349kg/m²\n기초대사량(Mifflin-St Jeor): 1,567.5kcal/일\n활동량 반영 추정: 1,881kcal/일"
+  },
+  "bsa-calc": {
+    "input": {
+      "height": 170,
+      "weight": 65
+    },
+    "result": "1.751983m²"
+  },
+  "cagr-calc": {
+    "input": {
+      "start": 100,
+      "end": 150,
+      "years": 3
+    },
+    "result": "14.471424%"
+  },
+  "capital-gains-tax-calc": {
+    "input": {
+      "sell": 500000000,
+      "buy": 300000000,
+      "cost": 10000000,
+      "longDeduction": 0,
+      "basic": 2500000,
+      "rate": 0
+    },
+    "result": "과세표준: 187,500,000원\n국세 추정: 51,310,000원\n지방소득세 포함 추정: 56,441,000원"
+  },
+  "car-acquisition-tax-calc": {
+    "input": {
+      "price": 30000000,
+      "vehicle": "passenger",
+      "rate": 7,
+      "relief": 0,
+      "bond": 0,
+      "extra": 0
+    },
+    "result": "적용 기본 세율: 7%\n감면 후 취득세: 2,100,000원\n부대비용 포함: 2,100,000원"
+  },
+  "car-installment-calc": {
+    "input": {
+      "price": 30000000,
+      "down": 5000000,
+      "subsidy": 0,
+      "rate": 5,
+      "months": 36,
+      "residual": 0
+    },
+    "result": "할부 원금: 25,000,000원\n월 납입액: 749,272.427617원\n만기 유예금: 0원\n총 이자: 1,973,807.394199원\n총 차량 지출: 31,973,807.394199원"
+  },
+  "car-tax-calc": {
+    "input": {
+      "cc": 1600,
+      "age": 1,
+      "discount": 0,
+      "use": "private",
+      "engine": "cc"
+    },
+    "result": "자동차세: 224,000원\n지방교육세: 67,200원\n연 합계: 291,200원"
+  },
+  "card-installment-fee-calc": {
+    "input": {
+      "price": 1000000,
+      "months": 12,
+      "rate": 15,
+      "free": 0,
+      "prepaid": 0,
+      "discount": 0
+    },
+    "result": "할부 원금: 1,000,000원\n총 수수료 추정: 81,250원\n총 납부: 1,081,250원\n월 원금: 83,333.333333원"
+  },
+  "change-rate-calc": {
+    "input": {
+      "before": 100,
+      "after": 120
+    },
+    "result": "20%"
+  },
+  "cholesterol-calc": {
+    "input": {
+      "total": 200,
+      "hdl": 50,
+      "tg": 150
+    },
+    "result": "추정 LDL: 120mg/dL\n총/HDL 비율: 4"
+  },
+  "commission-calc": {
+    "input": {
+      "sales": 100000,
+      "rate": 5,
+      "cost": 0
+    },
+    "result": "수수료: 5,000원\n수령액: 95,000원"
+  },
+  "compound-return-calc": {
+    "input": {
+      "principal": 1000000,
+      "rate": 3,
+      "years": 1,
+      "compound": 12,
+      "monthly": 100000,
+      "tax": 15.4
+    },
+    "result": "투입 원금: 2,200,000원\n세전 최종액: 2,247,054.233454원\n수익: 47,054.233454원\n세후 최종액: 2,239,807.881502원"
+  },
+  "currency-converter": {
+    "input": {
+      "amount": 100,
+      "mode": "manual",
+      "from": "USD",
+      "to": "KRW",
+      "rate": 1350
+    },
+    "result": "135,000 KRW\n적용 환율: 1,350 KRW/USD"
+  },
+  "daily-caffeine-intake-calc": {
+    "input": {
+      "per": 100,
+      "cups": 2,
+      "limit": 400,
+      "weight": 65,
+      "perKg": 5.7
+    },
+    "result": "총 섭취량: 200mg\n입력 성인·체중 기준 중 작은 값: 370.5mg\n기준 대비: 53.981107%\n개인 상태에 따라 기준이 다릅니다."
+  },
+  "daily-protein-calc": {
+    "input": {
+      "weight": 65,
+      "factor": 0.8
+    },
+    "result": "52g/일"
+  },
+  "daily-water-calc": {
+    "input": {
+      "weight": 65,
+      "factor": 30,
+      "extra": 0
+    },
+    "result": "1,950mL/일"
+  },
+  "date-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "end": "2026-10-25",
+      "offset": 30,
+      "birth": "2026-10-01",
+      "year": 2026
+    },
+    "result": "두 날짜 차이: 2,489일\n시작일 포함: 2,490일\n시작일 + 일수: 2020-01-31\n기준일의 만 나이: 0세\n2026년: 평년 (365일)"
+  },
+  "depreciation-calc": {
+    "input": {
+      "price": 10000000,
+      "residual": 1000000,
+      "years": 5
+    },
+    "result": "1,800,000원/년"
+  },
+  "discount-calc": {
+    "input": {
+      "price": 10000,
+      "rate": 20
+    },
+    "result": "할인 후: 8,000원\n할인액: 2,000원"
+  },
+  "dividend-tax-calc": {
+    "input": {
+      "shares": 100,
+      "perShare": 1000,
+      "exchange": 1,
+      "rate": 15.4,
+      "other": 0
+    },
+    "result": "세전 배당: 100,000원\n원천징수: 15,400원\n세후 예상: 84,600원\n입력 금융소득 합계: 100,000원\n해외 원천징수·외국납부세액·종합과세는 별도 확인하세요."
+  },
+  "dsr-calc": {
+    "input": {
+      "annual": 50000000,
+      "debt": 15000000,
+      "newPrincipal": 100000000,
+      "rate": 4,
+      "years": 30
+    },
+    "result": "신규 연 상환액: 5,728,983.545585원\n기존 DSR: 30%\n신규 포함 DSR: 41.457967%"
+  },
+  "electricity-bill-calc": {
+    "input": {
+      "kwh": 250,
+      "basic": 1600,
+      "rate": 120,
+      "other": 0,
+      "vat": 10,
+      "fund": 0,
+      "fuel": 5,
+      "climate": 9
+    },
+    "result": "기본요금: 1,600원\n전력량요금: 30,000원\n연료·기후 조정: 3,500원\n부가세: 3,510원\n기금: 0원\n합계: 38,610원"
+  },
+  "error-rate-calc": {
+    "input": {
+      "actual": 100,
+      "measured": 98
+    },
+    "result": "2%"
+  },
+  "factorial-calc": {
+    "input": {
+      "n": 10
+    },
+    "result": "3628800"
+  },
+  "ffmi-calc": {
+    "input": {
+      "height": 175,
+      "weight": 75,
+      "fat": 20
+    },
+    "result": "FFMI: 19.591837\n키 보정 FFMI: 19.896837"
+  },
+  "five-grade-calc": {
+    "input": {
+      "mode": "rank",
+      "rank": 10,
+      "total": 100,
+      "ties": 1,
+      "percent": 10,
+      "nine": 3
+    },
+    "result": "상위 비율: 10%\n5등급: 1등급\n동석차는 중간석차로 계산합니다. 9등급 변환은 구간 중간값에 따른 참고값입니다."
+  },
+  "fuel-cost-calc": {
+    "input": {
+      "distance": 300,
+      "efficiency": 12,
+      "price": 1700,
+      "people": 1,
+      "toll": 0,
+      "other": 0
+    },
+    "result": "연료량: 25L\n유류비: 42,500원\n전체 비용: 42,500원\n1인 분담: 42,500원"
+  },
+  "gcd-calc": {
+    "input": {
+      "values": "12, 18, 24"
+    },
+    "result": "6"
+  },
+  "gpa-calc": {
+    "input": {
+      "values": "3,4.5\n2,3.5",
+      "max": 4.5
+    },
+    "result": "평균 평점: 4.1 / 4.5\n취득 학점: 5\n만점 대비: 91.111111%"
+  },
+  "heart-rate-calc": {
+    "input": {
+      "age": 30,
+      "rest": 65,
+      "intensity": 60
+    },
+    "result": "추정 최대심박: 187bpm\n심박예비율 기준 목표: 138.2bpm"
+  },
+  "height-prediction-calc": {
+    "input": {
+      "father": 175,
+      "mother": 162,
+      "sex": "male"
+    },
+    "result": "175cm"
+  },
+  "hypotenuse-calc": {
+    "input": {
+      "a": 3,
+      "b": 4
+    },
+    "result": "5"
+  },
+  "income-tax-calc": {
+    "input": {
+      "income": 70000000,
+      "expense": 10000000,
+      "deductions": 10000000,
+      "credits": 0,
+      "paid": 0,
+      "localRate": 10
+    },
+    "result": "과세표준: 50,000,000원\n소득세: 6,240,000원\n지방세 포함: 6,864,000원\n추가납부(음수는 환급): 6,864,000원"
+  },
+  "jeonse-guarantee-fee-calc": {
+    "input": {
+      "deposit": 200000000,
+      "rate": 0.12,
+      "days": 730,
+      "discount": 0
+    },
+    "result": "480,000원"
+  },
+  "jeonse-vs-wolse-calc": {
+    "input": {
+      "jeonse": 200000000,
+      "deposit": 20000000,
+      "monthly": 700000,
+      "rate": 4,
+      "months": 24
+    },
+    "result": "전세 월 자금비용: 666,666.666667원\n월세 월 비용: 766,666.666667원\n24개월 전세비용: 16,000,000원\n월세비용: 18,400,000원\n월세−전세 차이: 2,400,000원"
+  },
+  "lcm-calc": {
+    "input": {
+      "values": "12, 18, 24"
+    },
+    "result": "72"
+  },
+  "lean-body-mass-calc": {
+    "input": {
+      "weight": 70,
+      "fat": 20,
+      "height": 170,
+      "sex": "male",
+      "method": "fat"
+    },
+    "result": "제지방체중 추정: 56kg\n체지방량 추정: 14kg"
+  },
+  "loan-calc": {
+    "input": {
+      "principal": 10000000,
+      "rate": 5,
+      "months": 36,
+      "method": "equal"
+    },
+    "result": "총 이자: 789,522.95768원\n총 상환액: 10,789,522.95768원\n\n회차 | 원금 | 이자 | 상환액 | 잔액\n1 | 258,042.30438 | 41,666.666667 | 299,708.971047 | 9,741,957.69562\n2 | 259,117.480648 | 40,591.490398 | 299,708.971047 | 9,482,840.214972\n3 | 260,197.136818 | 39,511.834229 | 299,708.971047 | 9,222,643.078154\n4 | 261,281.291554 | 38,427.679492 | 299,708.971047 | 8,961,361.7866\n5 | 262,369.963602 | 37,339.007444 | 299,708.971047 | 8,698,991.822997\n6 | 263,463.171784 | 36,245.799262 | 299,708.971047 | 8,435,528.651213\n7 | 264,560.935 | 35,148.036047 | 299,708.971047 | 8,170,967.716213\n8 | 265,663.272229 | 34,045.698818 | 299,708.971047 | 7,905,304.443984\n9 | 266,770.20253 | 32,938.768517 | 299,708.971047 | 7,638,534.241454\n10 | 267,881.745041 | 31,827.226006 | 299,708.971047 | 7,370,652.496413\n11 | 268,997.918978 | 30,711.052068 | 299,708.971047 | 7,101,654.577435\n12 | 270,118.743641 | 29,590.227406 | 299,708.971047 | 6,831,535.833795\n13 | 271,244.238406 | 28,464.732641 | 299,708.971047 | 6,560,291.595389\n14 | 272,374.422733 | 27,334.548314 | 299,708.971047 | 6,287,917.172656\n15 | 273,509.316161 | 26,199.654886 | 299,708.971047 | 6,014,407.856496\n16 | 274,648.938311 | 25,060.032735 | 299,708.971047 | 5,739,758.918184\n17 | 275,793.308888 | 23,915.662159 | 299,708.971047 | 5,463,965.609297\n18 | 276,942.447675 | 22,766.523372 | 299,708.971047 | 5,187,023.161622\n19 | 278,096.37454 | 21,612.596507 | 299,708.971047 | 4,908,926.787082\n20 | 279,255.109434 | 20,453.861613 | 299,708.971047 | 4,629,671.677648\n21 | 280,418.67239 | 19,290.298657 | 299,708.971047 | 4,349,253.005259\n22 | 281,587.083525 | 18,121.887522 | 299,708.971047 | 4,067,665.921734\n23 | 282,760.363039 | 16,948.608007 | 299,708.971047 | 3,784,905.558694\n24 | 283,938.531219 | 15,770.439828 | 299,708.971047 | 3,500,967.027476\n25 | 285,121.608432 | 14,587.362614 | 299,708.971047 | 3,215,845.419044\n26 | 286,309.615134 | 13,399.355913 | 299,708.971047 | 2,929,535.80391\n27 | 287,502.571864 | 12,206.399183 | 299,708.971047 | 2,642,033.232046\n28 | 288,700.499246 | 11,008.4718 | 299,708.971047 | 2,353,332.732799\n29 | 289,903.417993 | 9,805.553053 | 299,708.971047 | 2,063,429.314806\n30 | 291,111.348902 | 8,597.622145 | 299,708.971047 | 1,772,317.965904\n31 | 292,324.312855 | 7,384.658191 | 299,708.971047 | 1,479,993.653049\n32 | 293,542.330826 | 6,166.640221 | 299,708.971047 | 1,186,451.322223\n33 | 294,765.423871 | 4,943.547176 | 299,708.971047 | 891,685.898353\n34 | 295,993.613137 | 3,715.35791 | 299,708.971047 | 595,692.285216\n35 | 297,226.919858 | 2,482.051188 | 299,708.971047 | 298,465.365358\n36 | 298,465.365358 | 1,243.605689 | 299,708.971047 | 0"
+  },
+  "ltv-dti-calc": {
+    "input": {
+      "home": 500000000,
+      "loan": 200000000,
+      "income": 50000000,
+      "payment": 15000000,
+      "ltvLimit": 70,
+      "dtiLimit": 40,
+      "rate": 4,
+      "years": 30
+    },
+    "result": "입력 대출 LTV: 40%\n기존 부담 DTI: 30%\n입력 LTV 기준 한도: 350,000,000원\n입력 DTI 기준 추가 대출 추정: 87,275,516.855915원\n두 조건 중 작은 금액: 87,275,516.855915원\n지역·차주·규제·금융기관의 실제 한도는 별도입니다."
+  },
+  "macro-ratio-calc": {
+    "input": {
+      "kcal": 2000,
+      "carb": 50,
+      "protein": 20,
+      "fat": 30
+    },
+    "result": "탄수화물 250g\n단백질 100g\n지방 66.666667g"
+  },
+  "margin-calc": {
+    "input": {
+      "sell": 20000,
+      "cost": 12000
+    },
+    "result": "이익: 8,000원\n판매가 기준 마진율: 40%\n원가 기준 이익률: 66.666667%"
+  },
+  "median-calc": {
+    "input": {
+      "values": "1, 3, 5, 7"
+    },
+    "result": "4"
+  },
+  "mode-calc": {
+    "input": {
+      "values": "1, 2, 2, 3"
+    },
+    "result": "최빈값: 2\n빈도: 2"
+  },
+  "monthly-average-combined-income-calc": {
+    "input": {
+      "salary": 30000000,
+      "business": 12000000,
+      "other": 0,
+      "months": 12
+    },
+    "result": "3,500,000원/월"
+  },
+  "monthly-rent-tax-credit-calc": {
+    "input": {
+      "annual": 50000000,
+      "monthly": 500000,
+      "months": 12,
+      "eligible": "yes",
+      "cap": 10000000,
+      "taxLimit": 2000000
+    },
+    "result": "참고 공제율: 17%\n계산 공제액: 1,020,000원\n입력 결정세액 내 공제: 1,020,000원"
+  },
+  "monthly-to-hourly-calc": {
+    "input": {
+      "monthly": 2156880,
+      "weekly": 48,
+      "weeks": 4.345
+    },
+    "result": "월 환산시간: 208.56시간\n환산 시급: 10,341.772152원"
+  },
+  "ovulation-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "cycle": 28
+    },
+    "result": "추정 배란일: 2020-01-15\n추정 가임기: 2020-01-10 ~ 2020-01-16"
+  },
+  "part-time-wage-calc": {
+    "input": {
+      "hourly": 10320,
+      "hours": 8,
+      "days": 5,
+      "weeks": 4.345,
+      "extra": 0,
+      "tax": 0
+    },
+    "result": "월 환산시간: 173.8시간\n세전: 1,793,616원\n공제 후: 1,793,616원"
+  },
+  "pbr-calc": {
+    "input": {
+      "price": 10000,
+      "denom": 1000
+    },
+    "result": "10배"
+  },
+  "per-calc": {
+    "input": {
+      "price": 10000,
+      "denom": 1000
+    },
+    "result": "10배"
+  },
+  "percent-calc": {
+    "input": {
+      "base": 200,
+      "rate": 15,
+      "years": 1,
+      "mode": "portion",
+      "other": 1000000,
+      "months": 12,
+      "interest": "simple",
+      "tax": 15.4
+    },
+    "result": "비율에 해당하는 값: 30\n단리 원리합계: 230"
+  },
+  "performance-bonus-tax-calc": {
+    "input": {
+      "bonus": 1000000,
+      "rate": 0,
+      "localRate": 10
+    },
+    "result": "소득세: 0원\n지방소득세: 0원\n세후: 1,000,000원"
+  },
+  "pregnancy-due-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "cycle": 28
+    },
+    "result": "출산예정일 추정: 2020-10-07"
+  },
+  "prepayment-fee-calc": {
+    "input": {
+      "amount": 10000000,
+      "rate": 1,
+      "remaining": 365,
+      "period": 1095,
+      "basis": "days",
+      "elapsed": 12,
+      "exempt": 36
+    },
+    "result": "33,333.333333원"
+  },
+  "presentation-time-calc": {
+    "input": {
+      "script": "안녕하세요. 발표를 시작하겠습니다.",
+      "speed": 300,
+      "basis": "text",
+      "count": 1000,
+      "pause": 0
+    },
+    "result": "원고: 17자\n예상: 0분 3초"
+  },
+  "real-estate-fee-calc": {
+    "input": {
+      "type": "home",
+      "deal": "sale",
+      "price": 300000000,
+      "deposit": 100000000,
+      "rent": 500000,
+      "rateMode": "table",
+      "rate": 0.4,
+      "vat": 10
+    },
+    "result": "환산 거래금액: 300,000,000원\n적용 참고 상한·협의율: 0.4%\n중개보수: 1,200,000원\n입력 부가세 포함: 1,320,000원\n실제 보수는 상한 이내 협의하고 지역 조례·물건 요건을 확인하세요."
+  },
+  "registration-cost-calc": {
+    "input": {
+      "price": 100000000,
+      "rate": 1,
+      "education": 0.1,
+      "rural": 0,
+      "extra": 0,
+      "bond": 0,
+      "legal": 0
+    },
+    "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원"
+  },
+  "rent-conversion-calc": {
+    "input": {
+      "deposit": 100000000,
+      "rate": 4,
+      "currentDeposit": 100000000,
+      "currentRent": 500000,
+      "direction": "decrease"
+    },
+    "result": "월세 증감 절댓값: 333,333.333333원\n변경 보증금: 0원\n변경 월세: 833,333.333333원"
+  },
+  "retirement-fund-calc": {
+    "input": {
+      "monthly": 2500000,
+      "pension": 1000000,
+      "years": 30,
+      "inflation": 2,
+      "return": 3,
+      "current": 100000000,
+      "saving": 500000,
+      "prepare": 20
+    },
+    "result": "은퇴 시 예상 준비금: 346,226,498.594938원\n은퇴 시 필요자금 추정: 699,048,412.031465원\n예상 부족액: 352,821,913.436526원"
+  },
+  "roas-calc": {
+    "input": {
+      "a": 100,
+      "b": 50
+    },
+    "result": "200%"
+  },
+  "roe-calc": {
+    "input": {
+      "a": 100,
+      "b": 50
+    },
+    "result": "200%"
+  },
+  "roi-calc": {
+    "input": {
+      "cost": 1000000,
+      "return": 1200000
+    },
+    "result": "순이익: 200,000원\nROI: 20%"
+  },
+  "salary-forecast-calc": {
+    "input": {
+      "salary": 40000000,
+      "rate": 3,
+      "years": 5
+    },
+    "result": "46,370,962.972원"
+  },
+  "salary-net-calc": {
+    "input": {
+      "annual": 36000000,
+      "nontax": 200000,
+      "pensionRate": 4.75,
+      "pensionMin": 410000,
+      "pensionMax": 6590000,
+      "healthRate": 3.595,
+      "careRate": 13.14,
+      "employmentRate": 0.9,
+      "incomeTax": 50000,
+      "localRate": 10
+    },
+    "result": "월 세전: 3,000,000원\n월 과세 대상: 2,800,000원\n국민연금: 133,000원\n건강보험: 100,660원\n장기요양: 13,226.724원\n고용보험: 25,200원\n소득세·지방세: 55,000원\n월 실수령 추정: 2,672,913.276원"
+  },
+  "salary-raise-calc": {
+    "input": {
+      "before": 40000000,
+      "after": 44000000
+    },
+    "result": "10%"
+  },
+  "savings-calc": {
+    "input": {
+      "monthly": 500000,
+      "months": 12,
+      "rate": 3,
+      "tax": 15.4
+    },
+    "result": "납입 원금: 6,000,000원\n세전 이자: 97,500원\n세후 만기액: 6,082,485원"
+  },
+  "severance-pay-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "end": "2026-10-25",
+      "wages": 9000000,
+      "bonus": 0,
+      "leave": 0,
+      "period": 0
+    },
+    "result": "계속근로: 2489일\n직전3개월: 92일\n1일 평균임금: 97,826.086957원\n퇴직금 추정: 20,012,805.241215원"
+  },
+  "sleep-cycle-calc": {
+    "input": {
+      "time": "07:00",
+      "cycles": 5,
+      "cycle": 90,
+      "latency": 15,
+      "mode": "wake"
+    },
+    "result": "23:15\n수면 시간 추정: 7.5시간\n\n주기별 참고 시각\n3주기: 02:15\n4주기: 00:45\n5주기: 23:15\n6주기: 21:45"
+  },
+  "social-insurance-calc": {
+    "input": {
+      "monthly": 3000000,
+      "pensionRate": 4.75,
+      "pensionMin": 410000,
+      "pensionMax": 6590000,
+      "healthRate": 3.595,
+      "careRate": 13.14,
+      "employmentRate": 0.9,
+      "employerEmployment": 1.15,
+      "accident": 1
+    },
+    "result": "근로자 국민연금: 142,500원\n건강보험: 107,850원\n장기요양: 14,171.49원\n고용보험: 27,000원\n근로자 합계: 291,521.49원\n사업주 합계 추정: 329,021.49원\n사업주 산재보험: 30,000원"
+  },
+  "split-bill-calc": {
+    "input": {
+      "total": 100000,
+      "people": 3,
+      "unit": 1,
+      "discount": 0,
+      "extra": 0
+    },
+    "result": "정산 총액: 100,000원\n1인당 (단위 올림): 33,334원\n총 수금액: 100,002원\n초과 수금 (돌려줄 금액): 2원"
+  },
+  "standard-weight-calc": {
+    "input": {
+      "height": 170,
+      "bmi": 22,
+      "sex": "male"
+    },
+    "result": "63.58kg\n적용 목표BMI: 22"
+  },
+  "stock-average-calc": {
+    "input": {
+      "values": "10000,10\n8000,5",
+      "target": 11000,
+      "fee": 0.015
+    },
+    "result": "평균 매수가 (매수수수료 포함): 9,334.733333\n총 수량: 15\n총 매수액: 140,021원\n목표가 손익 (매도수수료 반영): 24,954.25원\n목표가 수익률: 17.821791%"
+  },
+  "stop-loss-calc": {
+    "input": {
+      "loss": 20
+    },
+    "result": "25%"
+  },
+  "subscription-score-calc": {
+    "input": {
+      "homeless": 5,
+      "family": 2,
+      "account": 5
+    },
+    "result": "무주택기간: 12점\n부양가족: 15점\n통장기간: 7점\n합계: 34 / 84점\n무주택 기간 기산·배우자·소유 이력·미혼 연령 요건은 청약홈에서 별도 확인하세요."
+  },
+  "toeic-score-converter": {
+    "input": {
+      "mode": "correct",
+      "lc": 80,
+      "rc": 75,
+      "target": 800
+    },
+    "result": "단순 비례 참고값: 약 770점\n참고 범위: 710~830점\n목표와 참고값 차이: -30점\n공식 환산이 아닙니다. 시험별 난이도 보정으로 실제 점수는 달라집니다."
+  },
+  "top-percentile-calc": {
+    "input": {
+      "rank": 10,
+      "total": 100
+    },
+    "result": "상위 10%"
+  },
+  "unemployment-eligibility-calc": {
+    "input": {
+      "days": 180,
+      "reason": "involuntary",
+      "ability": "yes",
+      "daily": 100000,
+      "age": 40,
+      "years": 5,
+      "cap": 68100,
+      "floor": 66048
+    },
+    "result": "입력 기본 조건 충족 (고용센터 심사 필요)\n연령·가입기간 기준 참고 지급일수: 210일\n입력 상하한 기준1일액: 66,048원\n참고 총액: 13,870,080원"
+  },
+  "uph-calc": {
+    "input": {
+      "quantity": 100,
+      "hours": 4,
+      "minutes": 0,
+      "people": 1
+    },
+    "result": "시간당 생산량: 25개\n인시당 생산량: 25개"
+  },
+  "vat-calc": {
+    "input": {
+      "amount": 110000,
+      "rate": 10,
+      "mode": "inclusive",
+      "business": "general",
+      "valueRate": 15
+    },
+    "result": "공급가액: 100,000원\n부가세: 10,000원\n합계: 110,000원"
+  },
+  "walking-calorie-calc": {
+    "input": {
+      "weight": 65,
+      "minutes": 30,
+      "met": 3.5,
+      "mode": "time",
+      "steps": 6000,
+      "stride": 70,
+      "speed": 4
+    },
+    "result": "걷기 거리 추정: 4.2km\n적용 시간: 30분\n소모량 추정: 119.4375kcal"
+  },
+  "weekly-holiday-pay-calc": {
+    "input": {
+      "hourly": 10320,
+      "hours": 20,
+      "attendance": "yes",
+      "actual": 20,
+      "weeks": 1
+    },
+    "result": "41,280원"
+  },
+  "work-period-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "end": "2026-10-25"
+    },
+    "result": "달력 기준: 6년 9개월 24일\n경과: 2,489일\n시작일 포함: 2,490일"
+  },
+  "workday-calc": {
+    "input": {
+      "start": "2020-01-01",
+      "end": "2026-10-25",
+      "holidays": "",
+      "weekend": "both",
+      "extra": 0
+    },
+    "result": "1778일"
+  },
+  "working-hours-calc": {
+    "input": {
+      "start": "09:00",
+      "end": "18:00",
+      "break": 60,
+      "days": 1
+    },
+    "result": "8시간"
+  },
+  "year-end-tax-calc": {
+    "input": {
+      "gross": 50000000,
+      "paid": 3000000,
+      "deduction": 5000000,
+      "credit": 500000,
+      "basic": 1500000,
+      "localRate": 10
+    },
+    "result": "근로소득공제: 12,250,000원\n과세표준: 31,250,000원\n결정세액 추정 (지방세 포함): 3,220,250원\n추가납부 추정: 220,250원"
+  }
+}

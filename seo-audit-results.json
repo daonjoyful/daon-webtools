@@ -1,0 +1,3066 @@
+{
+  "checkedOn": "2026-10-25",
+  "tools": [
+    {
+      "slug": "1rm-calc",
+      "name": "1RM 계산기",
+      "category": "일반 계산 도구",
+      "title": "1RM 계산기 | 다온 웹도구",
+      "description": "1RM 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 운동 중량·반복 횟수. Epley: 중량 × (1 + 반복 수 ÷ 30). 최대 중량 시도 권장값이 아닙니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/1rm-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "name": "달성률 계산기",
+      "category": "일반 계산 도구",
+      "title": "달성률 계산기 | 다온 웹도구",
+      "description": "달성률 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 달성 값·목표 값. 달성 값 ÷ 목표 값 × 100",
+      "canonical": "https://tools.daonjoyful.com/tools/achievement-rate-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "name": "취득세 계산기",
+      "category": "일반 계산 도구",
+      "title": "취득세 계산기 | 다온 웹도구",
+      "description": "취득세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 취득가액·과세표준·취득세율·지방교육세율. 과세표준×각 입력 세율 + 인지·채권·법무사 등 입력 비용",
+      "canonical": "https://tools.daonjoyful.com/tools/acquisition-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "name": "연차수당 계산기",
+      "category": "일반 계산 도구",
+      "title": "연차수당 계산기 | 다온 웹도구",
+      "description": "연차수당 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 월 통상임금·월 소정근로시간·1일 소정근로시간. 월 통상임금 ÷ 월 소정근로시간 × 1일 근로시간 × 미사용 연차",
+      "canonical": "https://tools.daonjoyful.com/tools/annual-leave-allowance-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "name": "공무원 연가보상비 계산기",
+      "category": "일반 계산 도구",
+      "title": "공무원 연가보상비 계산기 | 다온 웹도구",
+      "description": "공무원 연가보상비 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 월봉급액·산정 비율·보상 일수. 월봉급액 × 산정 비율 ÷ 30 × 보상 일수",
+      "canonical": "https://tools.daonjoyful.com/tools/annual-leave-bonus-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "annual-leave-calc",
+      "name": "연차 유급휴가 계산기",
+      "category": "일반 계산 도구",
+      "title": "연차 유급휴가 계산기 | 다온 웹도구",
+      "description": "연차 유급휴가 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 입사일·기준일·직전 1년 출근율. 1년 이상·출근율 80% 이상: 15일 + 2년마다 1일 가산, 최대 25일",
+      "canonical": "https://tools.daonjoyful.com/tools/annual-leave-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "name": "체감온도 계산기",
+      "category": "일반 계산 도구",
+      "title": "체감온도 계산기 | 다온 웹도구",
+      "description": "체감온도 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기온·풍속·계산 방식. 겨울 Wind Chill / 여름 NOAA Heat Index 회귀식",
+      "canonical": "https://tools.daonjoyful.com/tools/apparent-temperature-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "apy-calc",
+      "name": "APY 계산기",
+      "category": "일반 계산 도구",
+      "title": "APY 계산기 | 다온 웹도구",
+      "description": "APY 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 명목 연 이율·연 복리 횟수. APY = (1 + 명목이율 ÷ 복리횟수)^복리횟수 − 1",
+      "canonical": "https://tools.daonjoyful.com/tools/apy-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "average-calc",
+      "name": "평균 계산기",
+      "category": "일반 계산 도구",
+      "title": "평균 계산기 | 다온 웹도구",
+      "description": "평균 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 숫자 목록. 모든 값의 합 ÷ 값의 개수",
+      "canonical": "https://tools.daonjoyful.com/tools/average-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "bmi-calc",
+      "name": "비만도(BMI) 계산기",
+      "category": "일반 계산 도구",
+      "title": "비만도(BMI) 계산기 | 다온 웹도구",
+      "description": "비만도(BMI) 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 키·체중·나이. BMI=체중/키², Mifflin-St Jeor 기초대사량×활동계수",
+      "canonical": "https://tools.daonjoyful.com/tools/bmi-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "bsa-calc",
+      "name": "BSA 체표면적 계산기",
+      "category": "일반 계산 도구",
+      "title": "BSA 체표면적 계산기 | 다온 웹도구",
+      "description": "BSA 체표면적 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 키·체중. Mosteller: √(키(cm) × 체중(kg) ÷ 3600)",
+      "canonical": "https://tools.daonjoyful.com/tools/bsa-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "cagr-calc",
+      "name": "CAGR 계산기",
+      "category": "일반 계산 도구",
+      "title": "CAGR 계산기 | 다온 웹도구",
+      "description": "CAGR 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시작 금액·종료 금액·기간. CAGR = (종료값 ÷ 시작값)^(1 ÷ 연수) − 1",
+      "canonical": "https://tools.daonjoyful.com/tools/cagr-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "name": "양도소득세 계산기",
+      "category": "일반 계산 도구",
+      "title": "양도소득세 계산기 | 다온 웹도구",
+      "description": "양도소득세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 양도가액·취득가액·필요경비. 양도차익 − 입력 공제액 → 기본 누진세율 또는 입력 세율",
+      "canonical": "https://tools.daonjoyful.com/tools/capital-gains-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "name": "자동차 취등록세 계산기",
+      "category": "일반 계산 도구",
+      "title": "자동차 취등록세 계산기 | 다온 웹도구",
+      "description": "자동차 취등록세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 차량 과세표준·차종·용도·직접 세율. 과세표준×선택한 일반 세율−입력 감면액+부대비용",
+      "canonical": "https://tools.daonjoyful.com/tools/car-acquisition-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "car-installment-calc",
+      "name": "자동차 할부 계산기",
+      "category": "일반 계산 도구",
+      "title": "자동차 할부 계산기 | 다온 웹도구",
+      "description": "자동차 할부 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 차량 가격·선수금·중고차 처분·보조금. 선수금·지원금 제외 원금에 잔존가치 현재가치를 반영한 균등 납부",
+      "canonical": "https://tools.daonjoyful.com/tools/car-installment-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "car-tax-calc",
+      "name": "자동차세 계산기",
+      "category": "일반 계산 도구",
+      "title": "자동차세 계산기 | 다온 웹도구",
+      "description": "자동차세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 배기량·차령·추가 할인율. 차종별 기본 세액−차령 경감−입력 할인 + 해당 지방교육세",
+      "canonical": "https://tools.daonjoyful.com/tools/car-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "name": "신용카드 할부 수수료 계산기",
+      "category": "일반 계산 도구",
+      "title": "신용카드 할부 수수료 계산기 | 다온 웹도구",
+      "description": "신용카드 할부 수수료 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 결제 금액·할부 개월 수·연 수수료율. 선결제·할인 제외 원금을 균등 상환하며 입력 무이자 개월 수만큼 수수료 제외",
+      "canonical": "https://tools.daonjoyful.com/tools/card-installment-fee-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "change-rate-calc",
+      "name": "증감율 계산기",
+      "category": "일반 계산 도구",
+      "title": "증감율 계산기 | 다온 웹도구",
+      "description": "증감율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 이전 값·이후 값. (이후값 − 이전값) ÷ |이전값| × 100",
+      "canonical": "https://tools.daonjoyful.com/tools/change-rate-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "cholesterol-calc",
+      "name": "콜레스테롤 계산기",
+      "category": "일반 계산 도구",
+      "title": "콜레스테롤 계산기 | 다온 웹도구",
+      "description": "콜레스테롤 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 총 콜레스테롤·HDL·중성지방. Friedewald: LDL = 총콜레스테롤 − HDL − 중성지방/5",
+      "canonical": "https://tools.daonjoyful.com/tools/cholesterol-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "commission-calc",
+      "name": "판매 수수료 계산기",
+      "category": "일반 계산 도구",
+      "title": "판매 수수료 계산기 | 다온 웹도구",
+      "description": "판매 수수료 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 판매액·수수료율·추가 비용. 판매액 × 수수료율",
+      "canonical": "https://tools.daonjoyful.com/tools/commission-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "compound-return-calc",
+      "name": "복리 계산기",
+      "category": "일반 계산 도구",
+      "title": "복리 계산기 | 다온 웹도구",
+      "description": "복리 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 원금·연 이율·기간. 월말 정액 적립, 명목 복리 이율을 월 유효이율로 환산해 미래가치 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/compound-return-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "currency-converter",
+      "name": "환율 계산기",
+      "category": "일반 계산 도구",
+      "title": "환율 계산기 | 다온 웹도구",
+      "description": "환율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 변환할 금액·환율 기준·기준 통화. 입력 금액×직접 입력 또는 공개 일별 기준환율",
+      "canonical": "https://tools.daonjoyful.com/tools/currency-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "name": "일일 카페인 섭취량 계산기",
+      "category": "일반 계산 도구",
+      "title": "일일 카페인 섭취량 계산기 | 다온 웹도구",
+      "description": "일일 카페인 섭취량 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 1회 카페인·섭취 횟수·비교 기준. 1회 카페인 × 섭취 횟수",
+      "canonical": "https://tools.daonjoyful.com/tools/daily-caffeine-intake-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "daily-protein-calc",
+      "name": "일일 단백질 섭취량 계산기",
+      "category": "일반 계산 도구",
+      "title": "일일 단백질 섭취량 계산기 | 다온 웹도구",
+      "description": "일일 단백질 섭취량 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 체중·kg당 단백질 기준. 체중 × 직접 입력한 kg당 단백질 기준",
+      "canonical": "https://tools.daonjoyful.com/tools/daily-protein-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "daily-water-calc",
+      "name": "일일 물 섭취량 계산기",
+      "category": "일반 계산 도구",
+      "title": "일일 물 섭취량 계산기 | 다온 웹도구",
+      "description": "일일 물 섭취량 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 체중·kg당 수분 참고치·활동 보정량. 체중×kg당 기준+활동 보정량",
+      "canonical": "https://tools.daonjoyful.com/tools/daily-water-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "date-calc",
+      "name": "날짜 & 디데이 계산기",
+      "category": "일반 계산 도구",
+      "title": "날짜 & 디데이 계산기 | 다온 웹도구",
+      "description": "날짜 & 디데이 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시작일·종료·기준일·시작일에 더할 일수. UTC 날짜 차이·이전/이후 날짜·생일 경과 여부에 따른 만 나이·그레고리력 윤년",
+      "canonical": "https://tools.daonjoyful.com/tools/date-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "depreciation-calc",
+      "name": "감가상각비 계산기",
+      "category": "일반 계산 도구",
+      "title": "감가상각비 계산기 | 다온 웹도구",
+      "description": "감가상각비 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 취득원가·잔존가치·내용연수. 정액법: (취득원가 − 잔존가치) ÷ 내용연수",
+      "canonical": "https://tools.daonjoyful.com/tools/depreciation-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "discount-calc",
+      "name": "할인 계산기",
+      "category": "일반 계산 도구",
+      "title": "할인 계산기 | 다온 웹도구",
+      "description": "할인 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 원래 가격·할인율. 원가 × (1 − 할인율)",
+      "canonical": "https://tools.daonjoyful.com/tools/discount-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "name": "배당금 세후 계산기",
+      "category": "일반 계산 도구",
+      "title": "배당금 세후 계산기 | 다온 웹도구",
+      "description": "배당금 세후 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 보유 주식 수·주당 배당금·환율. 주식 수×주당 배당금×환율−입력 원천징수세",
+      "canonical": "https://tools.daonjoyful.com/tools/dividend-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "dsr-calc",
+      "name": "DSR 계산기",
+      "category": "일반 계산 도구",
+      "title": "DSR 계산기 | 다온 웹도구",
+      "description": "DSR 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 연 소득·전체 연간 원리금 상환액·신규 대출 원금. 기존 연 원리금+신규 균등 상환 연 납입액을 연 소득으로 나눔",
+      "canonical": "https://tools.daonjoyful.com/tools/dsr-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "name": "전기요금 계산기",
+      "category": "일반 계산 도구",
+      "title": "전기요금 계산기 | 다온 웹도구",
+      "description": "전기요금 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 사용량·기본요금·평균 전력량 단가. 사용량별 입력 전력·연료·기후 단가에 기본요금·부가세·기금을 합산",
+      "canonical": "https://tools.daonjoyful.com/tools/electricity-bill-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "error-rate-calc",
+      "name": "오차율 계산기",
+      "category": "일반 계산 도구",
+      "title": "오차율 계산기 | 다온 웹도구",
+      "description": "오차율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기준값·측정값. |측정값 − 기준값| ÷ |기준값| × 100",
+      "canonical": "https://tools.daonjoyful.com/tools/error-rate-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "factorial-calc",
+      "name": "팩토리얼 계산기",
+      "category": "일반 계산 도구",
+      "title": "팩토리얼 계산기 | 다온 웹도구",
+      "description": "팩토리얼 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 0~1000 정수. n! = 1×2×…×n, 0! = 1",
+      "canonical": "https://tools.daonjoyful.com/tools/factorial-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "ffmi-calc",
+      "name": "FFMI 계산기",
+      "category": "일반 계산 도구",
+      "title": "FFMI 계산기 | 다온 웹도구",
+      "description": "FFMI 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 키·체중·체지방률. 제지방체중 ÷ 키(m)²",
+      "canonical": "https://tools.daonjoyful.com/tools/ffmi-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "five-grade-calc",
+      "name": "내신 5등급제 비율 변환기",
+      "category": "일반 계산 도구",
+      "title": "내신 5등급제 비율 변환기 | 다온 웹도구",
+      "description": "내신 5등급제 비율 변환기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 입력 방식·등수·전체 인원. 중간석차 비율, 경계10·34·66·90%",
+      "canonical": "https://tools.daonjoyful.com/tools/five-grade-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "name": "유류비 계산기",
+      "category": "일반 계산 도구",
+      "title": "유류비 계산기 | 다온 웹도구",
+      "description": "유류비 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 거리·연비·유가. 거리/연비×유가+톨비+기타비용, 인원수로 분담",
+      "canonical": "https://tools.daonjoyful.com/tools/fuel-cost-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "gcd-calc",
+      "name": "최대공약수 계산기",
+      "category": "일반 계산 도구",
+      "title": "최대공약수 계산기 | 다온 웹도구",
+      "description": "최대공약수 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 정수 목록. 유클리드 호제법",
+      "canonical": "https://tools.daonjoyful.com/tools/gcd-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "gpa-calc",
+      "name": "학점 계산기",
+      "category": "일반 계산 도구",
+      "title": "학점 계산기 | 다온 웹도구",
+      "description": "학점 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 한 줄에 학점,성적점수·만점 기준. Σ(학점×성적점수) ÷ Σ학점",
+      "canonical": "https://tools.daonjoyful.com/tools/gpa-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "heart-rate-calc",
+      "name": "심박수 계산기",
+      "category": "일반 계산 도구",
+      "title": "심박수 계산기 | 다온 웹도구",
+      "description": "심박수 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 나이·안정시 심박수·강도. Tanaka 최대심박 추정 208 − 0.7×나이 / Karvonen 목표심박",
+      "canonical": "https://tools.daonjoyful.com/tools/heart-rate-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "height-prediction-calc",
+      "name": "키 성장 예측 계산기",
+      "category": "일반 계산 도구",
+      "title": "키 성장 예측 계산기 | 다온 웹도구",
+      "description": "키 성장 예측 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 아버지 키·어머니 키·자녀 성별. 부모 중간키 추정 = (아버지 키+어머니 키±13)/2",
+      "canonical": "https://tools.daonjoyful.com/tools/height-prediction-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "name": "빗변 계산기",
+      "category": "일반 계산 도구",
+      "title": "빗변 계산기 | 다온 웹도구",
+      "description": "빗변 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 직각변 a·직각변 b. √(a²+b²)",
+      "canonical": "https://tools.daonjoyful.com/tools/hypotenuse-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "income-tax-calc",
+      "name": "종합소득세 계산기",
+      "category": "일반 계산 도구",
+      "title": "종합소득세 계산기 | 다온 웹도구",
+      "description": "종합소득세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 연 수입금액·필요경비·소득공제 합계. 수입−필요경비−소득공제에 누진세율 적용, 세액공제·기납부세액 차감",
+      "canonical": "https://tools.daonjoyful.com/tools/income-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "name": "전세보증보험료 계산기",
+      "category": "일반 계산 도구",
+      "title": "전세보증보험료 계산기 | 다온 웹도구",
+      "description": "전세보증보험료 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 보증 대상 금액·연 보증료율·보증 일수. 보증 대상 금액×연 보증료율×일수/365×(1−할인율)",
+      "canonical": "https://tools.daonjoyful.com/tools/jeonse-guarantee-fee-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "name": "전세 vs 월세 계산기",
+      "category": "일반 계산 도구",
+      "title": "전세 vs 월세 계산기 | 다온 웹도구",
+      "description": "전세 vs 월세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 전세 보증금·월세 보증금·월세. 보증금에 같은 연 자금비용률 적용. 세금·관리비·보증 위험은 별도.",
+      "canonical": "https://tools.daonjoyful.com/tools/jeonse-vs-wolse-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "lcm-calc",
+      "name": "최소공배수 계산기",
+      "category": "일반 계산 도구",
+      "title": "최소공배수 계산기 | 다온 웹도구",
+      "description": "최소공배수 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 정수 목록. LCM(a,b)=|a×b|/GCD(a,b)",
+      "canonical": "https://tools.daonjoyful.com/tools/lcm-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "name": "제지방 체중 계산기",
+      "category": "일반 계산 도구",
+      "title": "제지방 체중 계산기 | 다온 웹도구",
+      "description": "제지방 체중 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 체중·체지방률·키. 체중 × (1 − 체지방률)",
+      "canonical": "https://tools.daonjoyful.com/tools/lean-body-mass-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "loan-calc",
+      "name": "대출 이자 계산기",
+      "category": "일반 계산 도구",
+      "title": "대출 이자 계산기 | 다온 웹도구",
+      "description": "대출 이자 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 대출 원금·연 이율·상환 기간. 월별 잔액에 월이율 적용. 실제 금융기관의 원 단위 처리·납부일·수수료와 차이가 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/loan-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "name": "LTV/DTI 계산기",
+      "category": "일반 계산 도구",
+      "title": "LTV/DTI 계산기 | 다온 웹도구",
+      "description": "LTV/DTI 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 주택 가치·담보대출·연 소득. 입력 한도율과 원리금균등 상환액을 바탕으로 LTV·DTI 가능 원금을 각각 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/ltv-dti-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "name": "탄단지 비율 계산기",
+      "category": "일반 계산 도구",
+      "title": "탄단지 비율 계산기 | 다온 웹도구",
+      "description": "탄단지 비율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 일일 열량·탄수화물 비율·단백질 비율. 탄수화물·단백질 4kcal/g, 지방 9kcal/g",
+      "canonical": "https://tools.daonjoyful.com/tools/macro-ratio-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "margin-calc",
+      "name": "마진 계산기",
+      "category": "일반 계산 도구",
+      "title": "마진 계산기 | 다온 웹도구",
+      "description": "마진 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 판매가·원가·비용 합계. 마진율=(판매가−원가)/판매가",
+      "canonical": "https://tools.daonjoyful.com/tools/margin-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "median-calc",
+      "name": "중앙값 계산기",
+      "category": "일반 계산 도구",
+      "title": "중앙값 계산기 | 다온 웹도구",
+      "description": "중앙값 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 숫자 목록. 정렬 후 가운데 값. 짝수 개이면 가운데 두 값의 평균",
+      "canonical": "https://tools.daonjoyful.com/tools/median-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "mode-calc",
+      "name": "최빈값 계산기",
+      "category": "일반 계산 도구",
+      "title": "최빈값 계산기 | 다온 웹도구",
+      "description": "최빈값 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 숫자 목록. 최다 빈도를 가진 모든 값 표시",
+      "canonical": "https://tools.daonjoyful.com/tools/mode-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "name": "월평균 합산 소득 계산기",
+      "category": "일반 계산 도구",
+      "title": "월평균 합산 소득 계산기 | 다온 웹도구",
+      "description": "월평균 합산 소득 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기간 근로소득 합계·기간 사업소득 합계·기간 기타소득 합계. 입력한 기간의 근로·사업·기타소득 합계/개월 수",
+      "canonical": "https://tools.daonjoyful.com/tools/monthly-average-combined-income-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "name": "월세 세액공제 계산기",
+      "category": "일반 계산 도구",
+      "title": "월세 세액공제 계산기 | 다온 웹도구",
+      "description": "월세 세액공제 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 총급여·월세·납부 개월 수. 총급여 구간별17%/15%, 납부액·입력 연한도와 결정세액 한도 적용",
+      "canonical": "https://tools.daonjoyful.com/tools/monthly-rent-tax-credit-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "name": "월급 시급 계산기",
+      "category": "일반 계산 도구",
+      "title": "월급 시급 계산기 | 다온 웹도구",
+      "description": "월급 시급 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 월급·주 유급 근로시간·월 평균 주수. 월급/(주 유급시간×월 평균 주수)",
+      "canonical": "https://tools.daonjoyful.com/tools/monthly-to-hourly-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "ovulation-calc",
+      "name": "배란일 계산기",
+      "category": "일반 계산 도구",
+      "title": "배란일 계산기 | 다온 웹도구",
+      "description": "배란일 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 마지막 생리 시작일·평균 주기. 다음 생리 예정일 − 14일",
+      "canonical": "https://tools.daonjoyful.com/tools/ovulation-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "name": "알바비 계산기",
+      "category": "일반 계산 도구",
+      "title": "알바비 계산기 | 다온 웹도구",
+      "description": "알바비 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시급·하루 근무시간·주 근무일 수. 시급×하루 근로시간×주 근로일×월 주수+수당−공제",
+      "canonical": "https://tools.daonjoyful.com/tools/part-time-wage-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "pbr-calc",
+      "name": "PBR 계산기",
+      "category": "일반 계산 도구",
+      "title": "PBR 계산기 | 다온 웹도구",
+      "description": "PBR 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 주가·주당 순자산. 주가 ÷ 주당 순자산(BPS)",
+      "canonical": "https://tools.daonjoyful.com/tools/pbr-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "per-calc",
+      "name": "PER 계산기",
+      "category": "일반 계산 도구",
+      "title": "PER 계산기 | 다온 웹도구",
+      "description": "PER 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 주가·주당 순이익. 주가 ÷ 주당 순이익(EPS)",
+      "canonical": "https://tools.daonjoyful.com/tools/per-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "percent-calc",
+      "name": "퍼센트 & 이자 계산기",
+      "category": "일반 계산 도구",
+      "title": "퍼센트 & 이자 계산기 | 다온 웹도구",
+      "description": "퍼센트 & 이자 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기준 값·비율·이자 계산 기간. 기준값×비율, 단리 원리합계=원금×(1+연이율×연수)",
+      "canonical": "https://tools.daonjoyful.com/tools/percent-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "name": "성과급 세금 계산기",
+      "category": "일반 계산 도구",
+      "title": "성과급 세금 계산기 | 다온 웹도구",
+      "description": "성과급 세금 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 성과급·적용 원천징수율·소득세 대비 지방소득세율. 성과급 × 입력 원천징수율",
+      "canonical": "https://tools.daonjoyful.com/tools/performance-bonus-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "name": "출산예정일 계산기",
+      "category": "일반 계산 도구",
+      "title": "출산예정일 계산기 | 다온 웹도구",
+      "description": "출산예정일 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 마지막 생리 시작일·평균 주기. 마지막 생리 시작일 + 280일 + (주기 − 28일)",
+      "canonical": "https://tools.daonjoyful.com/tools/pregnancy-due-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "name": "중도상환수수료 계산기",
+      "category": "일반 계산 도구",
+      "title": "중도상환수수료 계산기 | 다온 웹도구",
+      "description": "중도상환수수료 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 중도상환액·중도상환 수수료율·수수료 적용 잔여일수. 중도상환액 × 수수료율 × 잔여일수/적용기간",
+      "canonical": "https://tools.daonjoyful.com/tools/prepayment-fee-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "presentation-time-calc",
+      "name": "발표 시간 계산기",
+      "category": "일반 계산 도구",
+      "title": "발표 시간 계산기 | 다온 웹도구",
+      "description": "발표 시간 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 발표 원고·분당 글자 수·원고 입력 기준. 공백 제외 글자 수 ÷ 분당 발화 글자 수",
+      "canonical": "https://tools.daonjoyful.com/tools/presentation-time-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "name": "부동산 복비 계산기",
+      "category": "일반 계산 도구",
+      "title": "부동산 복비 계산기 | 다온 웹도구",
+      "description": "부동산 복비 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 물건 유형·거래 유형·매매 거래금액. 주택 거래 구간별 상한과 금액 한도, 임대차 보증금+월세 환산 적용",
+      "canonical": "https://tools.daonjoyful.com/tools/real-estate-fee-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "registration-cost-calc",
+      "name": "등기비용 계산기",
+      "category": "일반 계산 도구",
+      "title": "등기비용 계산기 | 다온 웹도구",
+      "description": "등기비용 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 취득가액·과세표준·취득세율·지방교육세율. 과세표준×각 입력 세율 + 인지·채권·법무사 등 입력 비용",
+      "canonical": "https://tools.daonjoyful.com/tools/registration-cost-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "name": "전월세 전환 계산기",
+      "category": "일반 계산 도구",
+      "title": "전월세 전환 계산기 | 다온 웹도구",
+      "description": "전월세 전환 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 전세→월세 전환 대상 보증금·연 전환율·현재 보증금. 보증금 차액 × 입력 연 전환율 ÷ 12",
+      "canonical": "https://tools.daonjoyful.com/tools/rent-conversion-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "name": "은퇴자금 계산기",
+      "category": "일반 계산 도구",
+      "title": "은퇴자금 계산기 | 다온 웹도구",
+      "description": "은퇴자금 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 은퇴 후 월 생활비·월 연금·소득·은퇴 생활 기간. 월말 적립 미래가치와 은퇴 시점으로 환산한 부족 생활비 현재가치 비교",
+      "canonical": "https://tools.daonjoyful.com/tools/retirement-fund-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "roas-calc",
+      "name": "ROAS 계산기",
+      "category": "일반 계산 도구",
+      "title": "ROAS 계산기 | 다온 웹도구",
+      "description": "ROAS 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 광고 매출·광고비. 광고 매출 ÷ 광고비 × 100",
+      "canonical": "https://tools.daonjoyful.com/tools/roas-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "roe-calc",
+      "name": "ROE 계산기",
+      "category": "일반 계산 도구",
+      "title": "ROE 계산기 | 다온 웹도구",
+      "description": "ROE 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 당기순이익·평균 자기자본. 당기순이익 ÷ 평균 자기자본 × 100",
+      "canonical": "https://tools.daonjoyful.com/tools/roe-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "roi-calc",
+      "name": "ROI 계산기",
+      "category": "일반 계산 도구",
+      "title": "ROI 계산기 | 다온 웹도구",
+      "description": "ROI 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 투자금·비용·회수금액·매출. (회수금액−투자금)/투자금×100",
+      "canonical": "https://tools.daonjoyful.com/tools/roi-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "name": "연봉 인상율 예측 계산기",
+      "category": "일반 계산 도구",
+      "title": "연봉 인상율 예측 계산기 | 다온 웹도구",
+      "description": "연봉 인상율 예측 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 현재 연봉·연 인상률·예측 기간. 현재 연봉 × (1+연 인상률)^연수",
+      "canonical": "https://tools.daonjoyful.com/tools/salary-forecast-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "salary-net-calc",
+      "name": "연봉 실수령액 계산기",
+      "category": "일반 계산 도구",
+      "title": "연봉 실수령액 계산기 | 다온 웹도구",
+      "description": "연봉 실수령액 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 연봉·월 비과세액·국민연금 근로자율. 보험료를 입력 요율·국민연금 상하한으로 산정 후 입력 소득세·지방세 차감",
+      "canonical": "https://tools.daonjoyful.com/tools/salary-net-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "salary-raise-calc",
+      "name": "연봉 인상율 계산기",
+      "category": "일반 계산 도구",
+      "title": "연봉 인상율 계산기 | 다온 웹도구",
+      "description": "연봉 인상율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기존 연봉·새 연봉. (새 연봉−기존 연봉)/기존 연봉×100",
+      "canonical": "https://tools.daonjoyful.com/tools/salary-raise-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "savings-calc",
+      "name": "적금 이자 계산기",
+      "category": "일반 계산 도구",
+      "title": "적금 이자 계산기 | 다온 웹도구",
+      "description": "적금 이자 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 매월 납입액·납입 개월 수·연 이율. 월초 정액 납입 단리: 월납입×연이율/12×개월×(개월+1)/2",
+      "canonical": "https://tools.daonjoyful.com/tools/savings-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "severance-pay-calc",
+      "name": "퇴직금 계산기",
+      "category": "일반 계산 도구",
+      "title": "퇴직금 계산기 | 다온 웹도구",
+      "description": "퇴직금 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 입사일·퇴사일·직전3개월 임금 총액. 직전3개월 임금+상여·연차수당3/12를 실제 역일수로 나눠 평균임금 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/severance-pay-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "name": "수면 시간 계산기",
+      "category": "일반 계산 도구",
+      "title": "수면 시간 계산기 | 다온 웹도구",
+      "description": "수면 시간 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 기준 시간·수면 주기 수·주기 길이. 입력한 주기 길이와 잠드는 시간을 기준으로 시간 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/sleep-cycle-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "social-insurance-calc",
+      "name": "4대보험 계산기",
+      "category": "일반 계산 도구",
+      "title": "4대보험 계산기 | 다온 웹도구",
+      "description": "4대보험 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 월 과세 보수·국민연금 근로자율·국민연금 기준소득 하한. 근로자·사업주 요율과 국민연금 기준소득 상하한 적용",
+      "canonical": "https://tools.daonjoyful.com/tools/social-insurance-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "split-bill-calc",
+      "name": "더치페이 계산기",
+      "category": "일반 계산 도구",
+      "title": "더치페이 계산기 | 다온 웹도구",
+      "description": "더치페이 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 총 금액·인원·나눌 금액 단위. 할인·추가비용 반영 총액을 인원으로 나눈 뒤 단위 올림",
+      "canonical": "https://tools.daonjoyful.com/tools/split-bill-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "standard-weight-calc",
+      "name": "표준 체중 계산기",
+      "category": "일반 계산 도구",
+      "title": "표준 체중 계산기 | 다온 웹도구",
+      "description": "표준 체중 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 키·목표 BMI·성별. 키(m)² × 입력 목표 BMI",
+      "canonical": "https://tools.daonjoyful.com/tools/standard-weight-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "stock-average-calc",
+      "name": "주식/코인 평단가 계산기",
+      "category": "일반 계산 도구",
+      "title": "주식/코인 평단가 계산기 | 다온 웹도구",
+      "description": "주식/코인 평단가 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 한 줄에 매수 가격,수량·목표 매도가·매매 수수료율. 수량 가중 평균에 매수·매도 수수료를 반영",
+      "canonical": "https://tools.daonjoyful.com/tools/stock-average-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "stop-loss-calc",
+      "name": "손절 복구율 계산기",
+      "category": "일반 계산 도구",
+      "title": "손절 복구율 계산기 | 다온 웹도구",
+      "description": "손절 복구율 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 손실률. 회복 필요 수익률 = 손실률/(100−손실률)×100",
+      "canonical": "https://tools.daonjoyful.com/tools/stop-loss-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "subscription-score-calc",
+      "name": "청약가점 계산기",
+      "category": "일반 계산 도구",
+      "title": "청약가점 계산기 | 다온 웹도구",
+      "description": "청약가점 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 무주택기간·부양가족 수·청약통장 가입기간. 무주택·가족수·통장기간 구간별 점수 합산",
+      "canonical": "https://tools.daonjoyful.com/tools/subscription-score-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "toeic-score-converter",
+      "name": "토익점수 환산기",
+      "category": "일반 계산 도구",
+      "title": "토익점수 환산기 | 다온 웹도구",
+      "description": "토익점수 환산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 입력 방식·LC 개수 또는 점수·RC 개수 또는 점수. 정답 비율에 따른 비공식 참고 추정. 실제 점수는 LC+RC 합산",
+      "canonical": "https://tools.daonjoyful.com/tools/toeic-score-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "top-percentile-calc",
+      "name": "상위 퍼센트 계산기",
+      "category": "일반 계산 도구",
+      "title": "상위 퍼센트 계산기 | 다온 웹도구",
+      "description": "상위 퍼센트 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 등수·전체 인원. 등수/전체 인원×100",
+      "canonical": "https://tools.daonjoyful.com/tools/top-percentile-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "name": "간이 실업급여 자격 계산기",
+      "category": "일반 계산 도구",
+      "title": "간이 실업급여 자격 계산기 | 다온 웹도구",
+      "description": "간이 실업급여 자격 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 이직 전 해당 기간 피보험 단위기간·이직 사유·근로 의사·능력 및 재취업 노력. 기본 수급요건 체크+연령·기간별 지급일수, 평균임금60%에 입력 상하한 적용",
+      "canonical": "https://tools.daonjoyful.com/tools/unemployment-eligibility-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "uph-calc",
+      "name": "UPH 계산기",
+      "category": "일반 계산 도구",
+      "title": "UPH 계산기 | 다온 웹도구",
+      "description": "UPH 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 생산량·작업시간·추가 작업 분. 생산량/(시간+분/60), 인원수로 인시당 생산량 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/uph-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "vat-calc",
+      "name": "부가세 계산기",
+      "category": "일반 계산 도구",
+      "title": "부가세 계산기 | 다온 웹도구",
+      "description": "부가세 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 입력 금액·직접 적용 부가세율·금액 기준. 공급가·합계·부가세 역산, 간이과세는 입력 업종별 부가가치율로 참고 계산",
+      "canonical": "https://tools.daonjoyful.com/tools/vat-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "name": "걸음 수 칼로리 소모 계산기",
+      "category": "일반 계산 도구",
+      "title": "걸음 수 칼로리 소모 계산기 | 다온 웹도구",
+      "description": "걸음 수 칼로리 소모 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 체중·걷기 시간·걷기 강도. 걸음수×보폭으로 거리·시간 추정, MET×3.5×체중/200×분",
+      "canonical": "https://tools.daonjoyful.com/tools/walking-calorie-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "name": "주휴수당 계산기",
+      "category": "일반 계산 도구",
+      "title": "주휴수당 계산기 | 다온 웹도구",
+      "description": "주휴수당 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시급·주 소정근로시간·소정근로일 개근. (주 소정시간/40)×8×시급×주 수, 개근 여부 별도 체크",
+      "canonical": "https://tools.daonjoyful.com/tools/weekly-holiday-pay-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "work-period-calc",
+      "name": "근무 년수/기간 계산기",
+      "category": "일반 계산 도구",
+      "title": "근무 년수/기간 계산기 | 다온 웹도구",
+      "description": "근무 년수/기간 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시작일·종료일. 달력 기준 연·월·일 및 전체 경과일 표시",
+      "canonical": "https://tools.daonjoyful.com/tools/work-period-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "workday-calc",
+      "name": "근무일수 계산기",
+      "category": "일반 계산 도구",
+      "title": "근무일수 계산기 | 다온 웹도구",
+      "description": "근무일수 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 시작일·종료일·제외할 휴일. 시작·종료 포함, 선택 주말·입력 날짜·추가 제외일 차감",
+      "canonical": "https://tools.daonjoyful.com/tools/workday-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "working-hours-calc",
+      "name": "근무시간 계산기",
+      "category": "일반 계산 도구",
+      "title": "근무시간 계산기 | 다온 웹도구",
+      "description": "근무시간 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 출근·퇴근·휴게시간. 출퇴근 시각 차이−휴게시간. 퇴근이 더 이르면 다음날로 처리",
+      "canonical": "https://tools.daonjoyful.com/tools/working-hours-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "name": "연말정산 환급 계산기",
+      "category": "일반 계산 도구",
+      "title": "연말정산 환급 계산기 | 다온 웹도구",
+      "description": "연말정산 환급 계산기. 입력 조건에 따른 계산 결과를 확인하세요. 설정: 총급여·기납부 소득세·지방세 합계·추가 소득공제 합계. 근로소득공제·직접 입력 소득공제 후 누진세율, 입력 세액공제·기납부액 반영",
+      "canonical": "https://tools.daonjoyful.com/tools/year-end-tax-calc/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": true
+    },
+    {
+      "slug": "base64-tool",
+      "name": "Base64 인코더·디코더",
+      "category": "텍스트·개발 도구",
+      "title": "Base64 인코더·디코더 | 다온 웹도구",
+      "description": "Base64 인코더·디코더. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·변환 방식·URL-safe Base64. ",
+      "canonical": "https://tools.daonjoyful.com/tools/base64-tool/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "char-counter",
+      "name": "글자수 세기 & 분석기",
+      "category": "텍스트·개발 도구",
+      "title": "글자수 세기 & 분석기 | 다온 웹도구",
+      "description": "글자수 세기 & 분석기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·텍스트 편집. ",
+      "canonical": "https://tools.daonjoyful.com/tools/char-counter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "color-converter",
+      "name": "HEX RGB HSL 색상 변환기",
+      "category": "텍스트·개발 도구",
+      "title": "HEX RGB HSL 색상 변환기 | 다온 웹도구",
+      "description": "HEX RGB HSL 색상 변환기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: HEX, RGB 또는 HSL 색상. ",
+      "canonical": "https://tools.daonjoyful.com/tools/color-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "hash-generator",
+      "name": "SHA 해시 생성·검증",
+      "category": "텍스트·개발 도구",
+      "title": "SHA 해시 생성·검증 | 다온 웹도구",
+      "description": "SHA 해시 생성·검증. 텍스트 또는 지원 파일을 브라우저에서 처리하세요. 설정: 텍스트 입력·SHA 알고리즘·비교할 해시. SHA-1은 보안 용도로 권장하지 않습니다. 해시는 암호화가 아닙니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/hash-generator/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "image-text-extract",
+      "name": "이미지 텍스트 추출",
+      "category": "텍스트·개발 도구",
+      "title": "이미지 텍스트 추출 | 다온 웹도구",
+      "description": "이미지 텍스트 추출. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 언어. OCR 엔진과 언어 모델을 다운로드합니다. 이미지는 서버로 전송하지 않으며 인식 결과를 확인하세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/image-text-extract/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "json-formatter",
+      "name": "JSON 포맷터",
+      "category": "텍스트·개발 도구",
+      "title": "JSON 포맷터 | 다온 웹도구",
+      "description": "JSON 포맷터. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·출력. 큰 정수는 JavaScript 숫자 정밀도에 영향을 받을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/json-formatter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "text-cleaner",
+      "name": "텍스트 정리 도구",
+      "category": "텍스트·개발 도구",
+      "title": "텍스트 정리 도구 | 다온 웹도구",
+      "description": "텍스트 정리 도구. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·정리 방식·줄 앞뒤 공백 제거. ",
+      "canonical": "https://tools.daonjoyful.com/tools/text-cleaner/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "text-diff",
+      "name": "텍스트 비교",
+      "category": "텍스트·개발 도구",
+      "title": "텍스트 비교 | 다온 웹도구",
+      "description": "텍스트 비교. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·비교할 텍스트·비교 단위. ",
+      "canonical": "https://tools.daonjoyful.com/tools/text-diff/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "text-line-sort",
+      "name": "텍스트 줄 정렬·중복 제거",
+      "category": "텍스트·개발 도구",
+      "title": "텍스트 줄 정렬·중복 제거 | 다온 웹도구",
+      "description": "텍스트 줄 정렬·중복 제거. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·작업·비교 기준. ",
+      "canonical": "https://tools.daonjoyful.com/tools/text-line-sort/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "url-encoder",
+      "name": "URL 인코더·디코더",
+      "category": "텍스트·개발 도구",
+      "title": "URL 인코더·디코더 | 다온 웹도구",
+      "description": "URL 인코더·디코더. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·변환 방식·변환 범위. ",
+      "canonical": "https://tools.daonjoyful.com/tools/url-encoder/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "uuid-generator",
+      "name": "UUID 생성기",
+      "category": "텍스트·개발 도구",
+      "title": "UUID 생성기 | 다온 웹도구",
+      "description": "UUID 생성기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 생성 개수·ID 형식. ",
+      "canonical": "https://tools.daonjoyful.com/tools/uuid-generator/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "address-converter",
+      "name": "주소 일괄 변환",
+      "category": "생활 도구",
+      "title": "주소 일괄 변환 | 다온 웹도구",
+      "description": "주소 일괄 변환. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 검색할 주소·주소 검색어를 Postcodify 공개 검색 서비스로 전송하는 데 동의합니다. 입력한 주소만 전송됩니다.·동. 주소 검색은 외부 Postcodify 공개 API를 사용하며 네트워크 연결이 필요합니다. 상세주소·개인정보는 입력하지 마세요. ",
+      "canonical": "https://tools.daonjoyful.com/tools/address-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "english-name-converter",
+      "name": "영어이름 변환기",
+      "category": "생활 도구",
+      "title": "영어이름 변환기 | 다온 웹도구",
+      "description": "영어이름 변환기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 한글 이름·성 분리·표시 순서. 국어 로마자 표기 기반 참고 변환입니다. 여권·공식 이름 표기는 기존 여권과 발급기관 기준을 따르세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/english-name-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "generator-tool",
+      "name": "비밀번호 & 무작위 생성기",
+      "category": "생활 도구",
+      "title": "비밀번호 & 무작위 생성기 | 다온 웹도구",
+      "description": "비밀번호 & 무작위 생성기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 비밀번호 길이·생성 개수·생성 종류. 암호학적 난수를 사용합니다. 생성된 비밀번호를 다른 사람에게 공유하지 마세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/generator-tool/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "qr-generator",
+      "name": "QR 코드 생성기",
+      "category": "생활 도구",
+      "title": "QR 코드 생성기 | 다온 웹도구",
+      "description": "QR 코드 생성기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 텍스트 입력·이미지 크기·코드 색상. URL·텍스트를 PNG QR 코드로 저장합니다. 비밀정보를 QR 코드에 넣지 마세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/qr-generator/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "road-address-converter",
+      "name": "도로명·지번 주소 변환",
+      "category": "생활 도구",
+      "title": "도로명·지번 주소 변환 | 다온 웹도구",
+      "description": "도로명·지번 주소 변환. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 검색할 주소·주소 검색어를 Postcodify 공개 검색 서비스로 전송하는 데 동의합니다. 입력한 주소만 전송됩니다.·동. 주소 검색은 외부 Postcodify 공개 API를 사용하며 네트워크 연결이 필요합니다. 상세주소·개인정보는 입력하지 마",
+      "canonical": "https://tools.daonjoyful.com/tools/road-address-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "unit-converter",
+      "name": "스마트 단위 변환기",
+      "category": "생활 도구",
+      "title": "스마트 단위 변환기 | 다온 웹도구",
+      "description": "스마트 단위 변환기. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: 종류·값·입력 단위. ",
+      "canonical": "https://tools.daonjoyful.com/tools/unit-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "ai-viewer",
+      "name": "AI 뷰어",
+      "category": "파일 뷰어",
+      "title": "AI 뷰어 | 다온 웹도구",
+      "description": "AI 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. PDF 호환으로 저장된 Illustrator 파일만 지원합니다. 비호환 AI는 Illustrator에서 PDF 호환 저장 후 이용하세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/ai-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "csv-viewer",
+      "name": "CSV 뷰어",
+      "category": "파일 뷰어",
+      "title": "CSV 뷰어 | 다온 웹도구",
+      "description": "CSV 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/csv-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "dwg-viewer",
+      "name": "DWG 뷰어",
+      "category": "파일 뷰어",
+      "title": "DWG 뷰어 | 다온 웹도구",
+      "description": "DWG 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. LibreDWG 기반 2D 미리보기. 3D·일부 객체·외부 참조는 지원되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/dwg-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "epub-viewer",
+      "name": "EPUB 뷰어",
+      "category": "파일 뷰어",
+      "title": "EPUB 뷰어 | 다온 웹도구",
+      "description": "EPUB 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/epub-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "excel-viewer",
+      "name": "엑셀 뷰어",
+      "category": "파일 뷰어",
+      "title": "엑셀 뷰어 | 다온 웹도구",
+      "description": "엑셀 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. XLSX·XLS 셀 내용을 읽습니다. 저장된 수식 결과를 사용하며 수식을 새로 실행하지 않습니다. 구형XLS는 시트당 앞1만행·50만셀 제한입니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/excel-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "hwp-viewer",
+      "name": "HWP 뷰어",
+      "category": "파일 뷰어",
+      "title": "HWP 뷰어 | 다온 웹도구",
+      "description": "HWP 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. HWP 5 문서와 HWPX 본문 텍스트를 읽습니다. 암호·배포용 HWP와 복잡한 레이아웃은 지원하지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/hwp-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "markdown-viewer",
+      "name": "Markdown 뷰어",
+      "category": "파일 뷰어",
+      "title": "Markdown 뷰어 | 다온 웹도구",
+      "description": "Markdown 뷰어. 텍스트 또는 지원 파일을 브라우저에서 처리하세요. 설정: Markdown 직접 입력. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/markdown-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-viewer",
+      "name": "PDF 뷰어",
+      "category": "파일 뷰어",
+      "title": "PDF 뷰어 | 다온 웹도구",
+      "description": "PDF 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "ppt-viewer",
+      "name": "PPT 뷰어",
+      "category": "파일 뷰어",
+      "title": "PPT 뷰어 | 다온 웹도구",
+      "description": "PPT 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. PPTX 본문·내장 이미지와 PPT의 현재 슬라이드 본문을 읽습니다. 구형PPT의 배치·그림·애니메이션과 암호 파일은 지원하지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/ppt-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "psd-viewer",
+      "name": "PSD 뷰어",
+      "category": "파일 뷰어",
+      "title": "PSD 뷰어 | 다온 웹도구",
+      "description": "PSD 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/psd-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "svg-viewer",
+      "name": "SVG 뷰어",
+      "category": "파일 뷰어",
+      "title": "SVG 뷰어 | 다온 웹도구",
+      "description": "SVG 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 지원되는 파일 내용을 브라우저에서 미리 봅니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/svg-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "tiff-viewer",
+      "name": "TIFF 뷰어",
+      "category": "파일 뷰어",
+      "title": "TIFF 뷰어 | 다온 웹도구",
+      "description": "TIFF 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 다중 페이지 TIFF를 최대30프레임까지 미리 봅니다. 파일 정보와 프레임별 PNG를 저장할 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/tiff-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "word-viewer",
+      "name": "워드 뷰어",
+      "category": "파일 뷰어",
+      "title": "워드 뷰어 | 다온 웹도구",
+      "description": "워드 뷰어. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. DOCX 본문·표·이미지와 Word97이상 DOC 본문 텍스트를 읽습니다. 암호·난독화·매크로 실행과 정확한 인쇄 배치는 지원하지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/word-viewer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-converter",
+      "name": "PDF 변환기",
+      "category": "PDF에서 변환하기",
+      "title": "PDF 변환기 | 다온 웹도구",
+      "description": "PDF 변환기. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·출력 형식. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-excel",
+      "name": "PDF를 Excel로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 Excel로 | 다온 웹도구",
+      "description": "PDF를 Excel로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위. 텍스트 위치를 기준으로 행·열을 추정해 XLSX로 저장합니다. 스캔·병합셀·복잡한 표는 정확히 복원되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-excel/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "name": "PDF를 JPG로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 JPG로 | 다온 웹도구",
+      "description": "PDF를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·렌더 배율·이미지 품질. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-png",
+      "name": "PDF를 PNG로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 PNG로 | 다온 웹도구",
+      "description": "PDF를 PNG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·렌더 배율. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-png/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "name": "PDF를 PPTX로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 PPTX로 | 다온 웹도구",
+      "description": "PDF를 PPTX로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·렌더 배율. 각 PDF 페이지를 이미지 슬라이드로 만듭니다. 슬라이드 내부 텍스트는 편집되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-pptx/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "name": "PDF를 TIFF로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 TIFF로 | 다온 웹도구",
+      "description": "PDF를 TIFF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·렌더 배율. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-tiff/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-txt",
+      "name": "PDF를 TXT로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 TXT로 | 다온 웹도구",
+      "description": "PDF를 TXT로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-txt/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-webp",
+      "name": "PDF WebP 변환",
+      "category": "PDF에서 변환하기",
+      "title": "PDF WebP 변환 | 다온 웹도구",
+      "description": "PDF WebP 변환. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·렌더 배율·이미지 품질. 최대 100페이지, 이미지 출력은 페이지별 파일을 ZIP으로 저장합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-webp/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-to-word",
+      "name": "PDF를 Word로",
+      "category": "PDF에서 변환하기",
+      "title": "PDF를 Word로 | 다온 웹도구",
+      "description": "PDF를 Word로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위. 텍스트를 추출해 DOCX를 생성합니다. 원본 표·문단 배치 보존은 제한됩니다. 스캔 PDF는 먼저 OCR을 사용하세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-to-word/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "name": "DWG를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "DWG를 PDF로 | 다온 웹도구",
+      "description": "DWG를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. LibreDWG가 지원하는 2D 객체를 렌더링합니다. 모든 CAD 객체·폰트·외부 참조는 지원하지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/dwg-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "epub-to-pdf",
+      "name": "EPUB을 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "EPUB을 PDF로 | 다온 웹도구",
+      "description": "EPUB을 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/epub-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "excel-to-pdf",
+      "name": "Excel를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "Excel를 PDF로 | 다온 웹도구",
+      "description": "Excel를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/excel-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "html-to-pdf",
+      "name": "HTML를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "HTML를 PDF로 | 다온 웹도구",
+      "description": "HTML를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/html-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "name": "HWP를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "HWP를 PDF로 | 다온 웹도구",
+      "description": "HWP를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/hwp-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "image-to-pdf",
+      "name": "이미지를 PDF로 (Image to PDF)",
+      "category": "PDF로 변환하기",
+      "title": "이미지를 PDF로 (Image to PDF) | 다온 웹도구",
+      "description": "이미지를 PDF로 (Image to PDF). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일 선택 순서대로 한 페이지씩 생성합니다. TIFF는 각 프레임을 페이지로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/image-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "name": "JPG를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "JPG를 PDF로 | 다온 웹도구",
+      "description": "JPG를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일 선택 순서대로 한 페이지씩 생성합니다. TIFF는 각 프레임을 페이지로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/jpg-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "png-to-pdf",
+      "name": "PNG를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "PNG를 PDF로 | 다온 웹도구",
+      "description": "PNG를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일 선택 순서대로 한 페이지씩 생성합니다. TIFF는 각 프레임을 페이지로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/png-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "name": "TIFF를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "TIFF를 PDF로 | 다온 웹도구",
+      "description": "TIFF를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일 선택 순서대로 한 페이지씩 생성합니다. TIFF는 각 프레임을 페이지로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/tiff-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "txt-to-pdf",
+      "name": "TXT를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "TXT를 PDF로 | 다온 웹도구",
+      "description": "TXT를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/txt-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "webp-to-pdf",
+      "name": "WebP PDF 변환",
+      "category": "PDF로 변환하기",
+      "title": "WebP PDF 변환 | 다온 웹도구",
+      "description": "WebP PDF 변환. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일 선택 순서대로 한 페이지씩 생성합니다. TIFF는 각 프레임을 페이지로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/webp-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "word-to-pdf",
+      "name": "Word를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "Word를 PDF로 | 다온 웹도구",
+      "description": "Word를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 파일의 본문·표 텍스트를 추출해 한글 PDF로 재구성합니다. 원본 문서의 완전한 레이아웃·매크로·수식·이미지는 보존되지 않습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/word-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "xps-to-pdf",
+      "name": "XPS를 PDF로",
+      "category": "PDF로 변환하기",
+      "title": "XPS를 PDF로 | 다온 웹도구",
+      "description": "XPS를 PDF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. XPS 텍스트를 추출해 PDF로 재배치합니다. 도형·배치·이미지 복원은 제한됩니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/xps-to-pdf/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "7z-to-zip",
+      "name": "7z ZIP 변환",
+      "category": "이미지 및 기타 변환",
+      "title": "7z ZIP 변환 | 다온 웹도구",
+      "description": "7z ZIP 변환. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 브라우저 내 libarchive 엔진으로 압축을 풀어 ZIP을 생성합니다. 암호화·분할압축은 지원하지 않습니다. 최대 1000개 파일, 추출 합계 100MB.",
+      "canonical": "https://tools.daonjoyful.com/tools/7z-to-zip/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "avif-to-jpg",
+      "name": "Avif를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "Avif를 JPG로 | 다온 웹도구",
+      "description": "Avif를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/avif-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "csv-to-excel",
+      "name": "CSV를 Excel로",
+      "category": "이미지 및 기타 변환",
+      "title": "CSV를 Excel로 | 다온 웹도구",
+      "description": "CSV를 Excel로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. CSV 첫 행을 포함한 데이터를 XLSX로 변환합니다. 값은 문자열로 저장하여 수식 실행을 방지합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/csv-to-excel/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "document-to-markdown",
+      "name": "문서 Markdown 변환",
+      "category": "이미지 및 기타 변환",
+      "title": "문서 Markdown 변환 | 다온 웹도구",
+      "description": "문서 Markdown 변환. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. DOCX·XLSX·PPTX·EPUB·HWP/HWPX·PDF·HTML·TXT의 텍스트 중심 Markdown 변환입니다. 그림·원본 레이아웃은 일부 생략됩니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/document-to-markdown/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "gif-to-jpg",
+      "name": "GIF를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "GIF를 JPG로 | 다온 웹도구",
+      "description": "GIF를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/gif-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "gif-to-png",
+      "name": "GIF를 PNG로",
+      "category": "이미지 및 기타 변환",
+      "title": "GIF를 PNG로 | 다온 웹도구",
+      "description": "GIF를 PNG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/gif-to-png/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "heic-to-jpg",
+      "name": "HEIC를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "HEIC를 JPG로 | 다온 웹도구",
+      "description": "HEIC를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/heic-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-converter",
+      "name": "이미지 포맷 변환 (Converter)",
+      "category": "이미지 및 기타 변환",
+      "title": "이미지 포맷 변환 (Converter) | 다온 웹도구",
+      "description": "이미지 포맷 변환 (Converter). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 저장 형식·품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-converter/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "name": "JPEG를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "JPEG를 JPG로 | 다온 웹도구",
+      "description": "JPEG를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/jpeg-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "jpg-to-gif",
+      "name": "JPG를 GIF로",
+      "category": "이미지 및 기타 변환",
+      "title": "JPG를 GIF로 | 다온 웹도구",
+      "description": "JPG를 GIF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/jpg-to-gif/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "jpg-to-png",
+      "name": "JPG를 PNG로",
+      "category": "이미지 및 기타 변환",
+      "title": "JPG를 PNG로 | 다온 웹도구",
+      "description": "JPG를 PNG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/jpg-to-png/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "jpg-to-webp",
+      "name": "JPG를 WebP로",
+      "category": "이미지 및 기타 변환",
+      "title": "JPG를 WebP로 | 다온 웹도구",
+      "description": "JPG를 WebP로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/jpg-to-webp/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "png-to-gif",
+      "name": "PNG를 GIF로",
+      "category": "이미지 및 기타 변환",
+      "title": "PNG를 GIF로 | 다온 웹도구",
+      "description": "PNG를 GIF로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/png-to-gif/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "png-to-jpg",
+      "name": "PNG를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "PNG를 JPG로 | 다온 웹도구",
+      "description": "PNG를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/png-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "png-to-webp",
+      "name": "PNG를 WebP로",
+      "category": "이미지 및 기타 변환",
+      "title": "PNG를 WebP로 | 다온 웹도구",
+      "description": "PNG를 WebP로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/png-to-webp/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "rar-to-zip",
+      "name": "RAR ZIP 변환",
+      "category": "이미지 및 기타 변환",
+      "title": "RAR ZIP 변환 | 다온 웹도구",
+      "description": "RAR ZIP 변환. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 브라우저 내 libarchive 엔진으로 압축을 풀어 ZIP을 생성합니다. 암호화·분할압축은 지원하지 않습니다. 최대 1000개 파일, 추출 합계 100MB.",
+      "canonical": "https://tools.daonjoyful.com/tools/rar-to-zip/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "webp-to-jpg",
+      "name": "WebP를 JPG로",
+      "category": "이미지 및 기타 변환",
+      "title": "WebP를 JPG로 | 다온 웹도구",
+      "description": "WebP를 JPG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/webp-to-jpg/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "webp-to-png",
+      "name": "WebP를 PNG로",
+      "category": "이미지 및 기타 변환",
+      "title": "WebP를 PNG로 | 다온 웹도구",
+      "description": "WebP를 PNG로. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: JPEG·WebP 품질. 정지 이미지로 저장합니다. 애니메이션 입력은 첫 프레임만 변환합니다. JPEG 투명 배경은 흰색으로 처리합니다. HEIC는 브라우저 내 디코더를 추가로 불러옵니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/webp-to-png/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-adjust",
+      "name": "이미지 밝기·대비·흑백 편집",
+      "category": "이미지 편집 도구",
+      "title": "이미지 밝기·대비·흑백 편집 | 다온 웹도구",
+      "description": "이미지 밝기·대비·흑백 편집. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 밝기·대비·흑백. 0~200% 밝기·대비, 0~100% 흑백.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-adjust/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-color-picker",
+      "name": "이미지 색상 추출기 (Color Picker)",
+      "category": "이미지 편집 도구",
+      "title": "이미지 색상 추출기 (Color Picker) | 다온 웹도구",
+      "description": "이미지 색상 추출기 (Color Picker). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: X 좌표·Y 좌표. 원본 픽셀 좌표를 입력하거나 미리보기 이미지를 클릭하세요.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-color-picker/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-compressor",
+      "name": "이미지 용량 압축 (Compressor)",
+      "category": "이미지 편집 도구",
+      "title": "이미지 용량 압축 (Compressor) | 다온 웹도구",
+      "description": "이미지 용량 압축 (Compressor). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 저장 형식·품질·최대 가로 길이. JPEG/WebP 품질과 크기를 조절합니다. PNG는 무손실이라 품질 슬라이더 효과가 없을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-compressor/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-join",
+      "name": "이미지 이어붙이기",
+      "category": "이미지 편집 도구",
+      "title": "이미지 이어붙이기 | 다온 웹도구",
+      "description": "이미지 이어붙이기. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 이어붙일 방향·간격·배경색. 파일 선택 순서대로 붙입니다. 결과는 최대 4천만 픽셀로 제한합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-join/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-resizer",
+      "name": "이미지 크기 조절 (Resizer)",
+      "category": "이미지 편집 도구",
+      "title": "이미지 크기 조절 (Resizer) | 다온 웹도구",
+      "description": "이미지 크기 조절 (Resizer). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 가로·세로·저장 형식. 가로·세로를 모두 지정하면 입력한 크기로 변환합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-resizer/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-rotate-flip",
+      "name": "이미지 회전 및 반전 (Rotate & Flip)",
+      "category": "이미지 편집 도구",
+      "title": "이미지 회전 및 반전 (Rotate & Flip) | 다온 웹도구",
+      "description": "이미지 회전 및 반전 (Rotate & Flip). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 회전 각도·반전·저장 형식. 회전 후 선택한 방향으로 반전합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-rotate-flip/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "img-watermark",
+      "name": "이미지 워터마크 넣기",
+      "category": "이미지 편집 도구",
+      "title": "이미지 워터마크 넣기 | 다온 웹도구",
+      "description": "이미지 워터마크 넣기. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 워터마크 문구·글자 크기·불투명도. 문구를 이미지에 합성합니다. 전자서명이나 소유권 증명이 아닙니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/img-watermark/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-add-blank",
+      "name": "PDF 빈 페이지 추가",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 빈 페이지 추가 | 다온 웹도구",
+      "description": "PDF 빈 페이지 추가. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 몇 번째 페이지 뒤에 추가·빈 페이지 수·결과 용지. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-add-blank/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-add-margin",
+      "name": "PDF 여백 추가",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 여백 추가 | 다온 웹도구",
+      "description": "PDF 여백 추가. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 왼쪽 여백·오른쪽 여백·위쪽 여백. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-add-margin/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-booklet",
+      "name": "PDF 소책자 인쇄 배치",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 소책자 인쇄 배치 | 다온 웹도구",
+      "description": "PDF 소책자 인쇄 배치. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 결과 용지·용지 방향·바깥 여백. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-booklet/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-nup",
+      "name": "PDF 모아찍기",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 모아찍기 | 다온 웹도구",
+      "description": "PDF 모아찍기. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 한 장에 배치할 페이지·결과 용지·용지 방향. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-nup/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-page-info",
+      "name": "PDF 페이지 정보 확인",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 페이지 정보 확인 | 다온 웹도구",
+      "description": "PDF 페이지 정보 확인. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-page-info/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-resize",
+      "name": "PDF 용지 크기 변경",
+      "category": "PDF 인쇄·레이아웃",
+      "title": "PDF 용지 크기 변경 | 다온 웹도구",
+      "description": "PDF 용지 크기 변경. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 용지·용지 방향·바깥 여백. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-resize/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 5,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-annotate",
+      "name": "PDF에 주석 달기",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF에 주석 달기 | 다온 웹도구",
+      "description": "PDF에 주석 달기. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 넣을 텍스트·페이지 번호·범위·왼쪽 여백. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-annotate/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-compress",
+      "name": "PDF 압축",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 압축 | 다온 웹도구",
+      "description": "PDF 압축. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 압축 방식·JPEG 품질·페이지 렌더 배율. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-compress/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-create",
+      "name": "PDF 생성",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 생성 | 다온 웹도구",
+      "description": "PDF 생성. 입력한 내용을 브라우저에서 처리하고 결과를 복사하세요. 설정: PDF에 넣을 내용. 한글 글꼴을 포함한 A4 텍스트 문서를 생성합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-create/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-delete",
+      "name": "PDF 페이지 삭제 (Delete Pages)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 페이지 삭제 (Delete Pages) | 다온 웹도구",
+      "description": "PDF 페이지 삭제 (Delete Pages). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-delete/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-merge",
+      "name": "PDF 병합 (Merge)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 병합 (Merge) | 다온 웹도구",
+      "description": "PDF 병합 (Merge). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-merge/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-ocr",
+      "name": "PDF OCR",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF OCR | 다온 웹도구",
+      "description": "PDF OCR. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·OCR 언어·결과. OCR 엔진과 언어 모델을 다운로드합니다. 문서는 기기에서 처리합니다. 결과는 오인식될 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-ocr/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-organize",
+      "name": "PDF 페이지 정리",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 페이지 정리 | 다온 웹도구",
+      "description": "PDF 페이지 정리. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위. 입력한 순서대로 재배치합니다. 같은 번호를 반복하면 페이지가 복제됩니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-organize/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-page-num",
+      "name": "PDF 페이지 번호 추가 (Page Numbering)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 페이지 번호 추가 (Page Numbering) | 다온 웹도구",
+      "description": "PDF 페이지 번호 추가 (Page Numbering). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 첫 페이지 표시 번호·번호 표시 형식·위치. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-page-num/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-rotate",
+      "name": "PDF 페이지 회전 (Rotate)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 페이지 회전 (Rotate) | 다온 웹도구",
+      "description": "PDF 페이지 회전 (Rotate). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·회전 각도. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-rotate/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-sign",
+      "name": "PDF 서명",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 서명 | 다온 웹도구",
+      "description": "PDF 서명. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 텍스트 서명·서명 페이지·왼쪽 위치. 시각적 서명 이미지·문구를 합성합니다. 인증서 기반 디지털 전자서명이 아닙니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-sign/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-split",
+      "name": "PDF 분할 (Split)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 분할 (Split) | 다온 웹도구",
+      "description": "PDF 분할 (Split). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·분할 방식. 선택한 페이지를 각각 PDF로 분리해 ZIP으로 저장합니다. 범위 내 추출본도 함께 제공합니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-split/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "name": "PDF 요약 AI",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 요약 AI | 다온 웹도구",
+      "description": "PDF 요약 AI. 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 페이지 번호·범위·추출할 최대 페이지·AI 모델을 외부 저장소에서 다운로드하고 기기에서 실행합니다. 문서는 업로드하지 않습니다.. 원문 핵심문장 추출은 모델 없이 이용합니다. 생성형AI를 선택하면 WebGPU·모델 다운로드가 필요하며 잘못된 내",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-summary-ai/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    },
+    {
+      "slug": "pdf-watermark",
+      "name": "PDF 워터마크 추가 (Watermark)",
+      "category": "PDF 편집 및 서명",
+      "title": "PDF 워터마크 추가 (Watermark) | 다온 웹도구",
+      "description": "PDF 워터마크 추가 (Watermark). 지원 파일을 선택해 브라우저에서 처리하고 결과를 확인하세요. 설정: 넣을 텍스트·페이지 번호·범위·왼쪽 여백. 원본을 보관하세요. 양식·책갈피·기존 전자서명이 보존되지 않을 수 있습니다.",
+      "canonical": "https://tools.daonjoyful.com/tools/pdf-watermark/",
+      "h1": 1,
+      "jsonLd": [
+        "WebApplication",
+        "BreadcrumbList"
+      ],
+      "staticGuide": true,
+      "relatedTools": 6,
+      "calculatorExample": false
+    }
+  ],
+  "sitemapUrls": 205,
+  "categories": 10,
+  "duplicateDescriptions": 0,
+  "tests": {
+    "pass": 18,
+    "fail": 0
+  },
+  "mobileLayoutChecks": {
+    "count": 402,
+    "overflow": 0
+  },
+  "searchConsoleAtInspection": {
+    "home": "URL이 Google에 등록되어 있음",
+    "loanCalc": "Google에는 아직 알려지지 않은 URL",
+    "overallIndexReport": "데이터 처리 중: 집계 확인 불가",
+    "sitemapBeforeResubmission": {
+      "detail": "사이트맵 처리 완료",
+      "discoveredPages": 29
+    },
+    "note": "발견 페이지 수는 색인된 페이지 수와 다름. 190개 개별 색인 여부는 전체 보고서 처리 전 확정할 수 없음."
+  }
+}

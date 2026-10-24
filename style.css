@@ -31,3 +31,15 @@ input,textarea,select{min-width:0;max-width:100%}
  summary{padding:8px 0;cursor:pointer}
 }
 @media(max-width:380px){header nav{width:100%;justify-content:flex-end}.tool-head h1{font-size:27px}}
+.category-links{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 26px;font-size:13px}
+.card{min-width:0;overflow-wrap:anywhere}
+.category-links a{border:1px solid var(--line);padding:9px 12px;border-radius:8px;background:var(--panel)}
+.related-tools{display:flex;flex-wrap:wrap;gap:12px 24px;padding-left:20px}
+.related-tools a,.tool-guide a{color:var(--green);text-decoration:underline;text-underline-offset:3px}
+.tool-guide li{margin-bottom:10px}.tool-guide h3{font-size:16px;margin-top:22px}
+.tool-guide dt{font-weight:650}.tool-guide dd{margin:4px 0 16px;color:var(--muted)}
+.table-scroll{overflow:auto;max-width:100%;border:1px solid var(--line);border-radius:8px}
+.table-scroll table{width:100%;border-collapse:collapse;font-size:14px;text-align:left}
+.table-scroll th,.table-scroll td{padding:10px 14px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+.table-scroll thead{background:var(--soft)}.card h2{font-size:18px;line-height:1.5}
+@media(max-width:600px){.category-links a,.related-tools a{display:inline-flex;align-items:center;min-height:44px}.table-scroll th,.table-scroll td{padding:9px}.tool-guide code{overflow-wrap:anywhere}}
