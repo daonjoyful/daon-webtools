@@ -1,0 +1,5378 @@
+{
+  "date": "2026-10-25",
+  "tools": [
+    {
+      "slug": "1rm-calc",
+      "name": "1RM 계산기",
+      "input": {
+        "weight": 60,
+        "reps": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-1rm-calc.txt ↓ (0.021484 KB)",
+          "name": "daon-1rm-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "Epley 추정 1RM: 70kg",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "achievement-rate-calc",
+      "name": "달성률 계산기",
+      "input": {
+        "actual": 80,
+        "target": 100
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-achievement-rate-calc.txt ↓ (0.00293 KB)",
+          "name": "daon-achievement-rate-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "80%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "acquisition-tax-calc",
+      "name": "취득세 계산기",
+      "input": {
+        "price": 100000000,
+        "rate": 1,
+        "education": 0.1,
+        "rural": 0,
+        "extra": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-acquisition-tax-calc.txt ↓ (0.134766 KB)",
+          "name": "daon-acquisition-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-allowance-calc",
+      "name": "연차수당 계산기",
+      "input": {
+        "monthly": 3000000,
+        "monthlyHours": 209,
+        "hours": 8,
+        "unused": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-annual-leave-allowance-calc.txt ↓ (0.061523 KB)",
+          "name": "daon-annual-leave-allowance-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "통상 시급: 14,354.066986원\n연차수당: 574,162.679426원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-bonus-calc",
+      "name": "공무원 연가보상비 계산기",
+      "input": {
+        "salary": 3000000,
+        "rate": 86,
+        "unused": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-annual-leave-bonus-calc.txt ↓ (0.009766 KB)",
+          "name": "daon-annual-leave-bonus-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "430,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "annual-leave-calc",
+      "name": "연차 유급휴가 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "end": "2026-10-25",
+        "attendance": 100,
+        "fullMonths": 0,
+        "monthsMode": "auto"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-annual-leave-calc.txt ↓ (0.051758 KB)",
+          "name": "daon-annual-leave-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "해당 근속연도 기준 연차: 17일\n근속: 6년",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "apparent-temperature-calc",
+      "name": "체감온도 계산기",
+      "input": {
+        "temp": 0,
+        "wind": 5,
+        "season": "winter",
+        "humidity": 60
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-apparent-temperature-calc.txt ↓ (0.011719 KB)",
+          "name": "daon-apparent-temperature-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "-4.935273℃",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "apy-calc",
+      "name": "APY 계산기",
+      "input": {
+        "rate": 5,
+        "compound": 12
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-apy-calc.txt ↓ (0.007813 KB)",
+          "name": "daon-apy-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "5.11619%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "average-calc",
+      "name": "평균 계산기",
+      "input": {
+        "values": "10, 20, 30"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-average-calc.txt ↓ (0.030273 KB)",
+          "name": "daon-average-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "평균: 20\n합계: 60\n개수: 3",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "bmi-calc",
+      "name": "비만도(BMI) 계산기",
+      "input": {
+        "height": 170,
+        "weight": 65,
+        "age": 30,
+        "sex": "male",
+        "activity": 1.2
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-bmi-calc.txt ↓ (0.106445 KB)",
+          "name": "daon-bmi-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "BMI: 22.491349kg/m²\n기초대사량(Mifflin-St Jeor): 1,567.5kcal/일\n활동량 반영 추정: 1,881kcal/일",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "bsa-calc",
+      "name": "BSA 체표면적 계산기",
+      "input": {
+        "height": 170,
+        "weight": 65
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-bsa-calc.txt ↓ (0.010742 KB)",
+          "name": "daon-bsa-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1.751983m²",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "cagr-calc",
+      "name": "CAGR 계산기",
+      "input": {
+        "start": 100,
+        "end": 150,
+        "years": 3
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-cagr-calc.txt ↓ (0.009766 KB)",
+          "name": "daon-cagr-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "14.471424%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "capital-gains-tax-calc",
+      "name": "양도소득세 계산기",
+      "input": {
+        "sell": 500000000,
+        "buy": 300000000,
+        "cost": 10000000,
+        "longDeduction": 0,
+        "basic": 2500000,
+        "rate": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-capital-gains-tax-calc.txt ↓ (0.099609 KB)",
+          "name": "daon-capital-gains-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "과세표준: 187,500,000원\n국세 추정: 51,310,000원\n지방소득세 포함 추정: 56,441,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "car-acquisition-tax-calc",
+      "name": "자동차 취등록세 계산기",
+      "input": {
+        "price": 30000000,
+        "vehicle": "passenger",
+        "rate": 7,
+        "relief": 0,
+        "bond": 0,
+        "extra": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-car-acquisition-tax-calc.txt ↓ (0.09082 KB)",
+          "name": "daon-car-acquisition-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "적용 기본 세율: 7%\n감면 후 취득세: 2,100,000원\n부대비용 포함: 2,100,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "car-installment-calc",
+      "name": "자동차 할부 계산기",
+      "input": {
+        "price": 30000000,
+        "down": 5000000,
+        "subsidy": 0,
+        "rate": 5,
+        "months": 36,
+        "residual": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-car-installment-calc.txt ↓ (0.152344 KB)",
+          "name": "daon-car-installment-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "할부 원금: 25,000,000원\n월 납입액: 749,272.427617원\n만기 유예금: 0원\n총 이자: 1,973,807.394199원\n총 차량 지출: 31,973,807.394199원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "car-tax-calc",
+      "name": "자동차세 계산기",
+      "input": {
+        "cc": 1600,
+        "age": 1,
+        "discount": 0,
+        "use": "private",
+        "engine": "cc"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-car-tax-calc.txt ↓ (0.072266 KB)",
+          "name": "daon-car-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "자동차세: 224,000원\n지방교육세: 67,200원\n연 합계: 291,200원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "card-installment-fee-calc",
+      "name": "신용카드 할부 수수료 계산기",
+      "input": {
+        "price": 1000000,
+        "months": 12,
+        "rate": 15,
+        "free": 0,
+        "prepaid": 0,
+        "discount": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-card-installment-fee-calc.txt ↓ (0.110352 KB)",
+          "name": "daon-card-installment-fee-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "할부 원금: 1,000,000원\n총 수수료 추정: 81,250원\n총 납부: 1,081,250원\n월 원금: 83,333.333333원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "change-rate-calc",
+      "name": "증감율 계산기",
+      "input": {
+        "before": 100,
+        "after": 120
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-change-rate-calc.txt ↓ (0.00293 KB)",
+          "name": "daon-change-rate-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "20%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "cholesterol-calc",
+      "name": "콜레스테롤 계산기",
+      "input": {
+        "total": 200,
+        "hdl": 50,
+        "tg": 150
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-cholesterol-calc.txt ↓ (0.037109 KB)",
+          "name": "daon-cholesterol-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "추정 LDL: 120mg/dL\n총/HDL 비율: 4",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "commission-calc",
+      "name": "판매 수수료 계산기",
+      "input": {
+        "sales": 100000,
+        "rate": 5,
+        "cost": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-commission-calc.txt ↓ (0.039063 KB)",
+          "name": "daon-commission-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "수수료: 5,000원\n수령액: 95,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "compound-return-calc",
+      "name": "복리 계산기",
+      "input": {
+        "principal": 1000000,
+        "rate": 3,
+        "years": 1,
+        "compound": 12,
+        "monthly": 100000,
+        "tax": 15.4
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-compound-return-calc.txt ↓ (0.125 KB)",
+          "name": "daon-compound-return-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "투입 원금: 2,200,000원\n세전 최종액: 2,247,054.233454원\n수익: 47,054.233454원\n세후 최종액: 2,239,807.881502원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "currency-converter",
+      "name": "환율 계산기",
+      "input": {
+        "amount": 100,
+        "mode": "manual",
+        "from": "USD",
+        "to": "KRW",
+        "rate": 1350
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-currency-converter.txt ↓ (0.039063 KB)",
+          "name": "daon-currency-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "135,000 KRW\n적용 환율: 1,350 KRW/USD",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "daily-caffeine-intake-calc",
+      "name": "일일 카페인 섭취량 계산기",
+      "input": {
+        "per": 100,
+        "cups": 2,
+        "limit": 400,
+        "weight": 65,
+        "perKg": 5.7
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-daily-caffeine-intake-calc.txt ↓ (0.143555 KB)",
+          "name": "daon-daily-caffeine-intake-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "총 섭취량: 200mg\n입력 성인·체중 기준 중 작은 값: 370.5mg\n기준 대비: 53.981107%\n개인 상태에 따라 기준이 다릅니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "daily-protein-calc",
+      "name": "일일 단백질 섭취량 계산기",
+      "input": {
+        "weight": 65,
+        "factor": 0.8
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-daily-protein-calc.txt ↓ (0.006836 KB)",
+          "name": "daon-daily-protein-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "52g/일",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "daily-water-calc",
+      "name": "일일 물 섭취량 계산기",
+      "input": {
+        "weight": 65,
+        "factor": 30,
+        "extra": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-daily-water-calc.txt ↓ (0.010742 KB)",
+          "name": "daon-daily-water-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1,950mL/일",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "date-calc",
+      "name": "날짜 & 디데이 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "end": "2026-10-25",
+        "offset": 30,
+        "birth": "2026-10-01",
+        "year": 2026
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-date-calc.txt ↓ (0.136719 KB)",
+          "name": "daon-date-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "두 날짜 차이: 2,489일\n시작일 포함: 2,490일\n시작일 + 일수: 2020-01-31\n기준일의 만 나이: 0세\n2026년: 평년 (365일)",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "depreciation-calc",
+      "name": "감가상각비 계산기",
+      "input": {
+        "price": 10000000,
+        "residual": 1000000,
+        "years": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-depreciation-calc.txt ↓ (0.015625 KB)",
+          "name": "daon-depreciation-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1,800,000원/년",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "discount-calc",
+      "name": "할인 계산기",
+      "input": {
+        "price": 10000,
+        "rate": 20
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-discount-calc.txt ↓ (0.039063 KB)",
+          "name": "daon-discount-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "할인 후: 8,000원\n할인액: 2,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "dividend-tax-calc",
+      "name": "배당금 세후 계산기",
+      "input": {
+        "shares": 100,
+        "perShare": 1000,
+        "exchange": 1,
+        "rate": 15.4,
+        "other": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-dividend-tax-calc.txt ↓ (0.189453 KB)",
+          "name": "daon-dividend-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "세전 배당: 100,000원\n원천징수: 15,400원\n세후 예상: 84,600원\n입력 금융소득 합계: 100,000원\n해외 원천징수·외국납부세액·종합과세는 별도 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "dsr-calc",
+      "name": "DSR 계산기",
+      "input": {
+        "annual": 50000000,
+        "debt": 15000000,
+        "newPrincipal": 100000000,
+        "rate": 4,
+        "years": 30
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-dsr-calc.txt ↓ (0.084961 KB)",
+          "name": "daon-dsr-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "신규 연 상환액: 5,728,983.545585원\n기존 DSR: 30%\n신규 포함 DSR: 41.457967%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "electricity-bill-calc",
+      "name": "전기요금 계산기",
+      "input": {
+        "kwh": 250,
+        "basic": 1600,
+        "rate": 120,
+        "other": 0,
+        "vat": 10,
+        "fund": 0,
+        "fuel": 5,
+        "climate": 9
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-electricity-bill-calc.txt ↓ (0.128906 KB)",
+          "name": "daon-electricity-bill-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "기본요금: 1,600원\n전력량요금: 30,000원\n연료·기후 조정: 3,500원\n부가세: 3,510원\n기금: 0원\n합계: 38,610원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "error-rate-calc",
+      "name": "오차율 계산기",
+      "input": {
+        "actual": 100,
+        "measured": 98
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-error-rate-calc.txt ↓ (0.001953 KB)",
+          "name": "daon-error-rate-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "2%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "factorial-calc",
+      "name": "팩토리얼 계산기",
+      "input": {
+        "n": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-factorial-calc.txt ↓ (0.006836 KB)",
+          "name": "daon-factorial-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "3628800",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "ffmi-calc",
+      "name": "FFMI 계산기",
+      "input": {
+        "height": 175,
+        "weight": 75,
+        "fat": 20
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-ffmi-calc.txt ↓ (0.041016 KB)",
+          "name": "daon-ffmi-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "FFMI: 19.591837\n키 보정 FFMI: 19.896837",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "five-grade-calc",
+      "name": "내신 5등급제 비율 변환기",
+      "input": {
+        "mode": "rank",
+        "rank": 10,
+        "total": 100,
+        "ties": 1,
+        "percent": 10,
+        "nine": 3
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-five-grade-calc.txt ↓ (0.142578 KB)",
+          "name": "daon-five-grade-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "상위 비율: 10%\n5등급: 1등급\n동석차는 중간석차로 계산합니다. 9등급 변환은 구간 중간값에 따른 참고값입니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "fuel-cost-calc",
+      "name": "유류비 계산기",
+      "input": {
+        "distance": 300,
+        "efficiency": 12,
+        "price": 1700,
+        "people": 1,
+        "toll": 0,
+        "other": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-fuel-cost-calc.txt ↓ (0.081055 KB)",
+          "name": "daon-fuel-cost-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "연료량: 25L\n유류비: 42,500원\n전체 비용: 42,500원\n1인 분담: 42,500원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "gcd-calc",
+      "name": "최대공약수 계산기",
+      "input": {
+        "values": "12, 18, 24"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-gcd-calc.txt ↓ (0.000977 KB)",
+          "name": "daon-gcd-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "6",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "gpa-calc",
+      "name": "학점 계산기",
+      "input": {
+        "values": "3,4.5\n2,3.5",
+        "max": 4.5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-gpa-calc.txt ↓ (0.06543 KB)",
+          "name": "daon-gpa-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "평균 평점: 4.1 / 4.5\n취득 학점: 5\n만점 대비: 91.111111%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "heart-rate-calc",
+      "name": "심박수 계산기",
+      "input": {
+        "age": 30,
+        "rest": 65,
+        "intensity": 60
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-heart-rate-calc.txt ↓ (0.06543 KB)",
+          "name": "daon-heart-rate-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "추정 최대심박: 187bpm\n심박예비율 기준 목표: 138.2bpm",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "height-prediction-calc",
+      "name": "키 성장 예측 계산기",
+      "input": {
+        "father": 175,
+        "mother": 162,
+        "sex": "male"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-height-prediction-calc.txt ↓ (0.004883 KB)",
+          "name": "daon-height-prediction-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "175cm",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "hypotenuse-calc",
+      "name": "빗변 계산기",
+      "input": {
+        "a": 3,
+        "b": 4
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-hypotenuse-calc.txt ↓ (0.000977 KB)",
+          "name": "daon-hypotenuse-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "5",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "income-tax-calc",
+      "name": "종합소득세 계산기",
+      "input": {
+        "income": 70000000,
+        "expense": 10000000,
+        "deductions": 10000000,
+        "credits": 0,
+        "paid": 0,
+        "localRate": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-income-tax-calc.txt ↓ (0.124023 KB)",
+          "name": "daon-income-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "과세표준: 50,000,000원\n소득세: 6,240,000원\n지방세 포함: 6,864,000원\n추가납부(음수는 환급): 6,864,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "jeonse-guarantee-fee-calc",
+      "name": "전세보증보험료 계산기",
+      "input": {
+        "deposit": 200000000,
+        "rate": 0.12,
+        "days": 730,
+        "discount": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-jeonse-guarantee-fee-calc.txt ↓ (0.009766 KB)",
+          "name": "daon-jeonse-guarantee-fee-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "480,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "jeonse-vs-wolse-calc",
+      "name": "전세 vs 월세 계산기",
+      "input": {
+        "jeonse": 200000000,
+        "deposit": 20000000,
+        "monthly": 700000,
+        "rate": 4,
+        "months": 24
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-jeonse-vs-wolse-calc.txt ↓ (0.176758 KB)",
+          "name": "daon-jeonse-vs-wolse-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "전세 월 자금비용: 666,666.666667원\n월세 월 비용: 766,666.666667원\n24개월 전세비용: 16,000,000원\n월세비용: 18,400,000원\n월세−전세 차이: 2,400,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "lcm-calc",
+      "name": "최소공배수 계산기",
+      "input": {
+        "values": "12, 18, 24"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-lcm-calc.txt ↓ (0.001953 KB)",
+          "name": "daon-lcm-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "72",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "lean-body-mass-calc",
+      "name": "제지방 체중 계산기",
+      "input": {
+        "weight": 70,
+        "fat": 20,
+        "height": 170,
+        "sex": "male",
+        "method": "fat"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-lean-body-mass-calc.txt ↓ (0.052734 KB)",
+          "name": "daon-lean-body-mass-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "제지방체중 추정: 56kg\n체지방량 추정: 14kg",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "loan-calc",
+      "name": "대출 이자 계산기",
+      "input": {
+        "principal": 10000000,
+        "rate": 5,
+        "months": 36,
+        "method": "equal"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-loan-calc.txt ↓ (2.587891 KB)",
+          "name": "daon-loan-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "총 이자: 789,522.95768원\n총 상환액: 10,789,522.95768원\n\n회차 | 원금 | 이자 | 상환액 | 잔액\n1 | 258,042.30438 | 41,666.666667 | 299,708.971047 | 9,741,957.69562\n2 | 259,117.480648 | 40,591.490398 | 299,708.971047 | 9,482,840.214972\n3 | 260,197.136818 | 39,511.834229 | 299,708.971047 | 9,222,643.078154\n4 | 261,281.291554 | 38,427.679492 | 299,708.971047 | 8,961,361.7866\n5 | 262,369.963602 | 37,339.007444 | 299,708.971047 | 8,698,991.822997\n6 | 263,463.171784 | 36,245.799262 | 299,708.971047 | 8,435,528.651213\n7 | 264,560.935 | 35,148.036047 | 299,708.971047 | 8,170,967.716213\n8 | 265,663.272229 | 34,045.698818 | 299,708.971047 | 7,905,304.443984\n9 | 266,770.20253 | 32,938.768517 | 299,708.971047 | 7,638,534.241454\n10 | 267,881.745041 | 31,827.226006 | 299,708.971047 | 7,370,652.496413\n11 | 268,997.918978 | 30,711.052068 | 299,708.971047 | 7,101,654.577435\n12 | 270,118.743641 | 29,590.227406 | 299,708.971047 | 6,831,535.833795\n13 | 271,244.238406 | 28,464.732641 | 299,708.971047 | 6,560,291.595389\n14 | 272,374.422733 | 27,334.548314 | 299,708.971047 | 6,287,917.172656\n15 | 273,509.316161 | 26,199.654886 | 299,708.971047 | 6,014,407.856496\n16 | 274,648.938311 | 25,060.032735 | 299,708.971047 | 5,739,758.918184\n17 | 275,793.308888 | 23,915.662159 | 299,708.971047 | 5,463,965.609297\n18 | 276,942.447675 | 22,766.523372 | 299,708.971047 | 5,187,023.161622\n19 | 278,096.37454 | 21,612.596507 | 299,708.971047 | 4,908,926.787082\n20 | 279,255.109434 | 20,453.861613 | 299,708.971047 | 4,629,671.677648\n21 | 280,418.67239 | 19,290.298657 | 299,708.971047 | 4,349,253.005259\n22 | 281,587.083525 | 18,121.887522 | 299,708.971047 | 4,067,665.921734\n23 | 282,760.363039 | 16,948.608007 | 299,708.971047 | 3,784,905.558694\n24 | 283,938.531219 | 15,770.439828 | 299,708.971047 | 3,500,967.027476\n25 | 285,121.608432 | 14,587.362614 | 299,708.971047 | 3,215,845.419044\n26 | 286,309.615134 | 13,399.355913 | 299,708.971047 | 2,929,535.80391\n27 | 287,502.571864 | 12,206.399183 | 299,708.971047 | 2,642,033.232046\n28 | 288,700.499246 | 11,008.4718 | 299,708.971047 | 2,353,332.732799\n29 | 289,903.417993 | 9,805.553053 | 299,708.971047 | 2,063,429.314806\n30 | 291,111.348902 | 8,597.622145 | 299,708.971047 | 1,772,317.965904\n31 | 292,324.312855 | 7,384.658191 | 299,708.971047 | 1,479,993.653049\n32 | 293,542.330826 | 6,166.640221 | 299,708.971047 | 1,186,451.322223\n33 | 294,765.423871 | 4,943.547176 | 299,708.971047 | 891,685.898353\n34 | 295,993.613137 | 3,715.35791 | 299,708.971047 | 595,692.285216\n35 | 297,226.919858 | 2,482.051188 | 299,708.971047 | 298,465.365358\n36 | 298,465.365358 | 1,243.605689 | 299,708.971047 | 0",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "ltv-dti-calc",
+      "name": "LTV/DTI 계산기",
+      "input": {
+        "home": 500000000,
+        "loan": 200000000,
+        "income": 50000000,
+        "payment": 15000000,
+        "ltvLimit": 70,
+        "dtiLimit": 40,
+        "rate": 4,
+        "years": 30
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-ltv-dti-calc.txt ↓ (0.265625 KB)",
+          "name": "daon-ltv-dti-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "입력 대출 LTV: 40%\n기존 부담 DTI: 30%\n입력 LTV 기준 한도: 350,000,000원\n입력 DTI 기준 추가 대출 추정: 87,275,516.855915원\n두 조건 중 작은 금액: 87,275,516.855915원\n지역·차주·규제·금융기관의 실제 한도는 별도입니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "macro-ratio-calc",
+      "name": "탄단지 비율 계산기",
+      "input": {
+        "kcal": 2000,
+        "carb": 50,
+        "protein": 20,
+        "fat": 30
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-macro-ratio-calc.txt ↓ (0.048828 KB)",
+          "name": "daon-macro-ratio-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "탄수화물 250g\n단백질 100g\n지방 66.666667g",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "margin-calc",
+      "name": "마진 계산기",
+      "input": {
+        "sell": 20000,
+        "cost": 12000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-margin-calc.txt ↓ (0.082031 KB)",
+          "name": "daon-margin-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "이익: 8,000원\n판매가 기준 마진율: 40%\n원가 기준 이익률: 66.666667%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "median-calc",
+      "name": "중앙값 계산기",
+      "input": {
+        "values": "1, 3, 5, 7"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-median-calc.txt ↓ (0.000977 KB)",
+          "name": "daon-median-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "mode-calc",
+      "name": "최빈값 계산기",
+      "input": {
+        "values": "1, 2, 2, 3"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-mode-calc.txt ↓ (0.021484 KB)",
+          "name": "daon-mode-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "최빈값: 2\n빈도: 2",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "monthly-average-combined-income-calc",
+      "name": "월평균 합산 소득 계산기",
+      "input": {
+        "salary": 30000000,
+        "business": 12000000,
+        "other": 0,
+        "months": 12
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-monthly-average-combined-income-calc.txt ↓ (0.015625 KB)",
+          "name": "daon-monthly-average-combined-income-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "3,500,000원/월",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "monthly-rent-tax-credit-calc",
+      "name": "월세 세액공제 계산기",
+      "input": {
+        "annual": 50000000,
+        "monthly": 500000,
+        "months": 12,
+        "eligible": "yes",
+        "cap": 10000000,
+        "taxLimit": 2000000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-monthly-rent-tax-credit-calc.txt ↓ (0.094727 KB)",
+          "name": "daon-monthly-rent-tax-credit-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "참고 공제율: 17%\n계산 공제액: 1,020,000원\n입력 결정세액 내 공제: 1,020,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "monthly-to-hourly-calc",
+      "name": "월급 시급 계산기",
+      "input": {
+        "monthly": 2156880,
+        "weekly": 48,
+        "weeks": 4.345
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-monthly-to-hourly-calc.txt ↓ (0.060547 KB)",
+          "name": "daon-monthly-to-hourly-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "월 환산시간: 208.56시간\n환산 시급: 10,341.772152원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "ovulation-calc",
+      "name": "배란일 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "cycle": 28
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-ovulation-calc.txt ↓ (0.068359 KB)",
+          "name": "daon-ovulation-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "추정 배란일: 2020-01-15\n추정 가임기: 2020-01-10 ~ 2020-01-16",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "part-time-wage-calc",
+      "name": "알바비 계산기",
+      "input": {
+        "hourly": 10320,
+        "hours": 8,
+        "days": 5,
+        "weeks": 4.345,
+        "extra": 0,
+        "tax": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-part-time-wage-calc.txt ↓ (0.073242 KB)",
+          "name": "daon-part-time-wage-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "월 환산시간: 173.8시간\n세전: 1,793,616원\n공제 후: 1,793,616원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pbr-calc",
+      "name": "PBR 계산기",
+      "input": {
+        "price": 10000,
+        "denom": 1000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-pbr-calc.txt ↓ (0.004883 KB)",
+          "name": "daon-pbr-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "10배",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "per-calc",
+      "name": "PER 계산기",
+      "input": {
+        "price": 10000,
+        "denom": 1000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-per-calc.txt ↓ (0.004883 KB)",
+          "name": "daon-per-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "10배",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "percent-calc",
+      "name": "퍼센트 & 이자 계산기",
+      "input": {
+        "base": 200,
+        "rate": 15,
+        "years": 1,
+        "mode": "portion",
+        "other": 1000000,
+        "months": 12,
+        "interest": "simple",
+        "tax": 15.4
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-percent-calc.txt ↓ (0.053711 KB)",
+          "name": "daon-percent-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "비율에 해당하는 값: 30\n단리 원리합계: 230",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "performance-bonus-tax-calc",
+      "name": "성과급 세금 계산기",
+      "input": {
+        "bonus": 1000000,
+        "rate": 0,
+        "localRate": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-performance-bonus-tax-calc.txt ↓ (0.056641 KB)",
+          "name": "daon-performance-bonus-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "소득세: 0원\n지방소득세: 0원\n세후: 1,000,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pregnancy-due-calc",
+      "name": "출산예정일 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "cycle": 28
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-pregnancy-due-calc.txt ↓ (0.033203 KB)",
+          "name": "daon-pregnancy-due-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "출산예정일 추정: 2020-10-07",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "prepayment-fee-calc",
+      "name": "중도상환수수료 계산기",
+      "input": {
+        "amount": 10000000,
+        "rate": 1,
+        "remaining": 365,
+        "period": 1095,
+        "basis": "days",
+        "elapsed": 12,
+        "exempt": 36
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-prepayment-fee-calc.txt ↓ (0.015625 KB)",
+          "name": "daon-prepayment-fee-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "33,333.333333원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "presentation-time-calc",
+      "name": "발표 시간 계산기",
+      "input": {
+        "script": "안녕하세요. 발표를 시작하겠습니다.",
+        "speed": 300,
+        "basis": "text",
+        "count": 1000,
+        "pause": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-presentation-time-calc.txt ↓ (0.030273 KB)",
+          "name": "daon-presentation-time-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "원고: 17자\n예상: 0분 3초",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "real-estate-fee-calc",
+      "name": "부동산 복비 계산기",
+      "input": {
+        "type": "home",
+        "deal": "sale",
+        "price": 300000000,
+        "deposit": 100000000,
+        "rent": 500000,
+        "rateMode": "table",
+        "rate": 0.4,
+        "vat": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-real-estate-fee-calc.txt ↓ (0.225586 KB)",
+          "name": "daon-real-estate-fee-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "환산 거래금액: 300,000,000원\n적용 참고 상한·협의율: 0.4%\n중개보수: 1,200,000원\n입력 부가세 포함: 1,320,000원\n실제 보수는 상한 이내 협의하고 지역 조례·물건 요건을 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "registration-cost-calc",
+      "name": "등기비용 계산기",
+      "input": {
+        "price": 100000000,
+        "rate": 1,
+        "education": 0.1,
+        "rural": 0,
+        "extra": 0,
+        "bond": 0,
+        "legal": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-registration-cost-calc.txt ↓ (0.134766 KB)",
+          "name": "daon-registration-cost-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "취득세: 1,000,000원\n지방교육세: 100,000원\n농어촌특별세: 0원\n세금 합계: 1,100,000원\n부대비용 포함: 1,100,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "rent-conversion-calc",
+      "name": "전월세 전환 계산기",
+      "input": {
+        "deposit": 100000000,
+        "rate": 4,
+        "currentDeposit": 100000000,
+        "currentRent": 500000,
+        "direction": "decrease"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-rent-conversion-calc.txt ↓ (0.095703 KB)",
+          "name": "daon-rent-conversion-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "월세 증감 절댓값: 333,333.333333원\n변경 보증금: 0원\n변경 월세: 833,333.333333원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "retirement-fund-calc",
+      "name": "은퇴자금 계산기",
+      "input": {
+        "monthly": 2500000,
+        "pension": 1000000,
+        "years": 30,
+        "inflation": 2,
+        "return": 3,
+        "current": 100000000,
+        "saving": 500000,
+        "prepare": 20
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-retirement-fund-calc.txt ↓ (0.140625 KB)",
+          "name": "daon-retirement-fund-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "은퇴 시 예상 준비금: 346,226,498.594938원\n은퇴 시 필요자금 추정: 699,048,412.031465원\n예상 부족액: 352,821,913.436526원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "roas-calc",
+      "name": "ROAS 계산기",
+      "input": {
+        "a": 100,
+        "b": 50
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-roas-calc.txt ↓ (0.003906 KB)",
+          "name": "daon-roas-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "200%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "roe-calc",
+      "name": "ROE 계산기",
+      "input": {
+        "a": 100,
+        "b": 50
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-roe-calc.txt ↓ (0.003906 KB)",
+          "name": "daon-roe-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "200%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "roi-calc",
+      "name": "ROI 계산기",
+      "input": {
+        "cost": 1000000,
+        "return": 1200000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-roi-calc.txt ↓ (0.029297 KB)",
+          "name": "daon-roi-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "순이익: 200,000원\nROI: 20%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "salary-forecast-calc",
+      "name": "연봉 인상율 예측 계산기",
+      "input": {
+        "salary": 40000000,
+        "rate": 3,
+        "years": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-salary-forecast-calc.txt ↓ (0.016602 KB)",
+          "name": "daon-salary-forecast-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "46,370,962.972원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "salary-net-calc",
+      "name": "연봉 실수령액 계산기",
+      "input": {
+        "annual": 36000000,
+        "nontax": 200000,
+        "pensionRate": 4.75,
+        "pensionMin": 410000,
+        "pensionMax": 6590000,
+        "healthRate": 3.595,
+        "careRate": 13.14,
+        "employmentRate": 0.9,
+        "incomeTax": 50000,
+        "localRate": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-salary-net-calc.txt ↓ (0.223633 KB)",
+          "name": "daon-salary-net-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "월 세전: 3,000,000원\n월 과세 대상: 2,800,000원\n국민연금: 133,000원\n건강보험: 100,660원\n장기요양: 13,226.724원\n고용보험: 25,200원\n소득세·지방세: 55,000원\n월 실수령 추정: 2,672,913.276원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "salary-raise-calc",
+      "name": "연봉 인상율 계산기",
+      "input": {
+        "before": 40000000,
+        "after": 44000000
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-salary-raise-calc.txt ↓ (0.00293 KB)",
+          "name": "daon-salary-raise-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "10%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "savings-calc",
+      "name": "적금 이자 계산기",
+      "input": {
+        "monthly": 500000,
+        "months": 12,
+        "rate": 3,
+        "tax": 15.4
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-savings-calc.txt ↓ (0.081055 KB)",
+          "name": "daon-savings-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "납입 원금: 6,000,000원\n세전 이자: 97,500원\n세후 만기액: 6,082,485원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "severance-pay-calc",
+      "name": "퇴직금 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "end": "2026-10-25",
+        "wages": 9000000,
+        "bonus": 0,
+        "leave": 0,
+        "period": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-severance-pay-calc.txt ↓ (0.114258 KB)",
+          "name": "daon-severance-pay-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "계속근로: 2489일\n직전3개월: 92일\n1일 평균임금: 97,826.086957원\n퇴직금 추정: 20,012,805.241215원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "sleep-cycle-calc",
+      "name": "수면 시간 계산기",
+      "input": {
+        "time": "07:00",
+        "cycles": 5,
+        "cycle": 90,
+        "latency": 15,
+        "mode": "wake"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-sleep-cycle-calc.txt ↓ (0.119141 KB)",
+          "name": "daon-sleep-cycle-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "23:15\n수면 시간 추정: 7.5시간\n\n주기별 참고 시각\n3주기: 02:15\n4주기: 00:45\n5주기: 23:15\n6주기: 21:45",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "social-insurance-calc",
+      "name": "4대보험 계산기",
+      "input": {
+        "monthly": 3000000,
+        "pensionRate": 4.75,
+        "pensionMin": 410000,
+        "pensionMax": 6590000,
+        "healthRate": 3.595,
+        "careRate": 13.14,
+        "employmentRate": 0.9,
+        "employerEmployment": 1.15,
+        "accident": 1
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-social-insurance-calc.txt ↓ (0.209961 KB)",
+          "name": "daon-social-insurance-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "근로자 국민연금: 142,500원\n건강보험: 107,850원\n장기요양: 14,171.49원\n고용보험: 27,000원\n근로자 합계: 291,521.49원\n사업주 합계 추정: 329,021.49원\n사업주 산재보험: 30,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "split-bill-calc",
+      "name": "더치페이 계산기",
+      "input": {
+        "total": 100000,
+        "people": 3,
+        "unit": 1,
+        "discount": 0,
+        "extra": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-split-bill-calc.txt ↓ (0.12207 KB)",
+          "name": "daon-split-bill-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "정산 총액: 100,000원\n1인당 (단위 올림): 33,334원\n총 수금액: 100,002원\n초과 수금 (돌려줄 금액): 2원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "standard-weight-calc",
+      "name": "표준 체중 계산기",
+      "input": {
+        "height": 170,
+        "bmi": 22,
+        "sex": "male"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-standard-weight-calc.txt ↓ (0.027344 KB)",
+          "name": "daon-standard-weight-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "63.58kg\n적용 목표BMI: 22",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "stock-average-calc",
+      "name": "주식/코인 평단가 계산기",
+      "input": {
+        "values": "10000,10\n8000,5",
+        "target": 11000,
+        "fee": 0.015
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-stock-average-calc.txt ↓ (0.179688 KB)",
+          "name": "daon-stock-average-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "평균 매수가 (매수수수료 포함): 9,334.733333\n총 수량: 15\n총 매수액: 140,021원\n목표가 손익 (매도수수료 반영): 24,954.25원\n목표가 수익률: 17.821791%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "stop-loss-calc",
+      "name": "손절 복구율 계산기",
+      "input": {
+        "loss": 20
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-stop-loss-calc.txt ↓ (0.00293 KB)",
+          "name": "daon-stop-loss-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "25%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "subscription-score-calc",
+      "name": "청약가점 계산기",
+      "input": {
+        "homeless": 5,
+        "family": 2,
+        "account": 5
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-subscription-score-calc.txt ↓ (0.19043 KB)",
+          "name": "daon-subscription-score-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "무주택기간: 12점\n부양가족: 15점\n통장기간: 7점\n합계: 34 / 84점\n무주택 기간 기산·배우자·소유 이력·미혼 연령 요건은 청약홈에서 별도 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "toeic-score-converter",
+      "name": "토익점수 환산기",
+      "input": {
+        "mode": "correct",
+        "lc": 80,
+        "rc": 75,
+        "target": 800
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-toeic-score-converter.txt ↓ (0.189453 KB)",
+          "name": "daon-toeic-score-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "단순 비례 참고값: 약 770점\n참고 범위: 710~830점\n목표와 참고값 차이: -30점\n공식 환산이 아닙니다. 시험별 난이도 보정으로 실제 점수는 달라집니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "top-percentile-calc",
+      "name": "상위 퍼센트 계산기",
+      "input": {
+        "rank": 10,
+        "total": 100
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-top-percentile-calc.txt ↓ (0.009766 KB)",
+          "name": "daon-top-percentile-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "상위 10%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "unemployment-eligibility-calc",
+      "name": "간이 실업급여 자격 계산기",
+      "input": {
+        "days": 180,
+        "reason": "involuntary",
+        "ability": "yes",
+        "daily": 100000,
+        "age": 40,
+        "years": 5,
+        "cap": 68100,
+        "floor": 66048
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-unemployment-eligibility-calc.txt ↓ (0.178711 KB)",
+          "name": "daon-unemployment-eligibility-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "입력 기본 조건 충족 (고용센터 심사 필요)\n연령·가입기간 기준 참고 지급일수: 210일\n입력 상하한 기준1일액: 66,048원\n참고 총액: 13,870,080원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "uph-calc",
+      "name": "UPH 계산기",
+      "input": {
+        "quantity": 100,
+        "hours": 4,
+        "minutes": 0,
+        "people": 1
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-uph-calc.txt ↓ (0.051758 KB)",
+          "name": "daon-uph-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "시간당 생산량: 25개\n인시당 생산량: 25개",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "vat-calc",
+      "name": "부가세 계산기",
+      "input": {
+        "amount": 110000,
+        "rate": 10,
+        "mode": "inclusive",
+        "business": "general",
+        "valueRate": 15
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-vat-calc.txt ↓ (0.0625 KB)",
+          "name": "daon-vat-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "공급가액: 100,000원\n부가세: 10,000원\n합계: 110,000원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "walking-calorie-calc",
+      "name": "걸음 수 칼로리 소모 계산기",
+      "input": {
+        "weight": 65,
+        "minutes": 30,
+        "met": 3.5,
+        "mode": "time",
+        "steps": 6000,
+        "stride": 70,
+        "speed": 4
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-walking-calorie-calc.txt ↓ (0.077148 KB)",
+          "name": "daon-walking-calorie-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "걷기 거리 추정: 4.2km\n적용 시간: 30분\n소모량 추정: 119.4375kcal",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "weekly-holiday-pay-calc",
+      "name": "주휴수당 계산기",
+      "input": {
+        "hourly": 10320,
+        "hours": 20,
+        "attendance": "yes",
+        "actual": 20,
+        "weeks": 1
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-weekly-holiday-pay-calc.txt ↓ (0.008789 KB)",
+          "name": "daon-weekly-holiday-pay-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "41,280원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "work-period-calc",
+      "name": "근무 년수/기간 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "end": "2026-10-25"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-work-period-calc.txt ↓ (0.075195 KB)",
+          "name": "daon-work-period-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "달력 기준: 6년 9개월 24일\n경과: 2,489일\n시작일 포함: 2,490일",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "workday-calc",
+      "name": "근무일수 계산기",
+      "input": {
+        "start": "2020-01-01",
+        "end": "2026-10-25",
+        "holidays": "",
+        "weekend": "both",
+        "extra": 0
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-workday-calc.txt ↓ (0.006836 KB)",
+          "name": "daon-workday-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1778일",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "working-hours-calc",
+      "name": "근무시간 계산기",
+      "input": {
+        "start": "09:00",
+        "end": "18:00",
+        "break": 60,
+        "days": 1
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-working-hours-calc.txt ↓ (0.006836 KB)",
+          "name": "daon-working-hours-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "8시간",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "year-end-tax-calc",
+      "name": "연말정산 환급 계산기",
+      "input": {
+        "gross": 50000000,
+        "paid": 3000000,
+        "deduction": 5000000,
+        "credit": 500000,
+        "basic": 1500000,
+        "localRate": 10
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-year-end-tax-calc.txt ↓ (0.142578 KB)",
+          "name": "daon-year-end-tax-calc.txt"
+        }
+      ],
+      "preview": "",
+      "result": "근로소득공제: 12,250,000원\n과세표준: 31,250,000원\n결정세액 추정 (지방세 포함): 3,220,250원\n추가납부 추정: 220,250원",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "base64-tool",
+      "name": "Base64 인코더·디코더",
+      "input": {
+        "text": "다온 웹도구 audit 123",
+        "mode": "encode",
+        "urlSafe": false
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-base64-tool.txt ↓ (0.035156 KB)",
+          "name": "daon-base64-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "64uk7JioIOybueuPhOq1rCBhdWRpdCAxMjM=",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "char-counter",
+      "name": "글자수 세기 & 분석기",
+      "input": {
+        "text": "다온 웹도구 audit 123",
+        "clean": "none"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-text.txt ↓ (0.025391 KB)",
+          "name": "daon-text.txt"
+        },
+        {
+          "label": "daon-char-counter.txt ↓ (0.206055 KB)",
+          "name": "daon-char-counter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "공백 포함: 16자\n공백 제외: 13자\n사용자 인식 문자: 16개\n단어: 4개\n줄: 1줄\nUTF-8: 26byte\n\n키워드 빈도\n다온: 1\n웹도구: 1\naudit: 1\n123: 1\n\n처리 텍스트\n다온 웹도구 audit 123",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "color-converter",
+      "name": "HEX RGB HSL 색상 변환기",
+      "input": {
+        "color": "#285a49"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-color-converter.txt ↓ (0.078125 KB)",
+          "name": "daon-color-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "HEX #285a49\nRGB 40, 90, 73\nHSL 159.6°, 38.461538%, 25.490196%\n불투명도 100%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 6,
+      "passed": true
+    },
+    {
+      "slug": "hash-generator",
+      "name": "SHA 해시 생성·검증",
+      "input": {
+        "text": "abc",
+        "algorithm": "SHA-256",
+        "expected": "",
+        "source": "text"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-hash-generator.txt ↓ (0.070313 KB)",
+          "name": "daon-hash-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "SHA-256\nba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "image-text-extract",
+      "name": "이미지 텍스트 추출",
+      "input": {
+        "language": "kor+eng"
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-ocr.txt ↓ (0.017578 KB)",
+          "name": "daon-ocr.txt"
+        },
+        {
+          "label": "daon-image-text-extract.txt ↓ (0.017578 KB)",
+          "name": "daon-image-text-extract.txt"
+        }
+      ],
+      "preview": "",
+      "result": "DAON sample image\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "json-formatter",
+      "name": "JSON 포맷터",
+      "input": {
+        "text": "{\"name\":\"다온\",\"n\":123}",
+        "mode": "pretty"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-json-formatter.txt ↓ (0.033203 KB)",
+          "name": "daon-json-formatter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "{\n  \"name\": \"다온\",\n  \"n\": 123\n}",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "text-cleaner",
+      "name": "텍스트 정리 도구",
+      "input": {
+        "text": "  다온   도구  \n\n 테스트 ",
+        "mode": "spaces",
+        "trim": true,
+        "empty": false,
+        "unique": false,
+        "sort": "none"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-text-cleaner.txt ↓ (0.025391 KB)",
+          "name": "daon-text-cleaner.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다온   도구\n\n테스트",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "text-diff",
+      "name": "텍스트 비교",
+      "input": {
+        "text": "가\n나",
+        "other": "가\n다",
+        "unit": "line"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-text-diff.txt ↓ (0.038086 KB)",
+          "name": "daon-text-diff.txt"
+        }
+      ],
+      "preview": "",
+      "result": "[같음] 가\n\n[삭제] 나\n[추가] 다",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "text-line-sort",
+      "name": "텍스트 줄 정렬·중복 제거",
+      "input": {
+        "text": "항목10\n항목2\n항목2",
+        "mode": "asc",
+        "sort": "alpha",
+        "reverse": false,
+        "unique": false,
+        "trim": false,
+        "empty": false
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-text-line-sort.txt ↓ (0.023438 KB)",
+          "name": "daon-text-line-sort.txt"
+        }
+      ],
+      "preview": "",
+      "result": "항목10\n항목2\n항목2",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "url-encoder",
+      "name": "URL 인코더·디코더",
+      "input": {
+        "text": "다온 웹도구 audit 123",
+        "mode": "encode",
+        "scope": "component"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-url-encoder.txt ↓ (0.060547 KB)",
+          "name": "daon-url-encoder.txt"
+        }
+      ],
+      "preview": "",
+      "result": "%EB%8B%A4%EC%98%A8%20%EC%9B%B9%EB%8F%84%EA%B5%AC%20audit%20123",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "uuid-generator",
+      "name": "UUID 생성기",
+      "input": {
+        "count": 5,
+        "format": "uuid"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-uuid-generator.txt ↓ (0.179688 KB)",
+          "name": "daon-uuid-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "d3a44257-2cd9-4770-9b3f-1f9a4ef15e70\n99da51da-6241-4d05-bc76-a984493b46b9\ne343c7b8-aa9e-43e2-bcbf-623322725fa6\n7064988d-5e44-4e5d-b5ed-690591339336\nf6c66593-56d7-42b0-9b90-6146d16a3fd5",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "address-converter",
+      "name": "주소 일괄 변환",
+      "input": {
+        "addresses": "서울 중구 세종대로 110",
+        "remote": true,
+        "building": "",
+        "floor": "",
+        "room": ""
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-address-converter.txt ↓ (0.211914 KB)",
+          "name": "daon-address-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "서울 중구 세종대로 110\n우편번호: 04524\n도로명: 서울특별시 중구 세종대로 110\n지번: 서울특별시 중구 태평로1가 31\n영문: 110, Sejong-daero, Jung-gu, Seoul, 04524, Republic of Korea",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "english-name-converter",
+      "name": "영어이름 변환기",
+      "input": {
+        "name": "홍길동",
+        "surname": "auto",
+        "order": "family",
+        "spacing": "joined"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-english-name-converter.txt ↓ (0.117188 KB)",
+          "name": "daon-english-name-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "규칙 기반 후보: Hong Gildong\n여권·공식 이름은 기존 등록 표기와 발급기관 기준을 따르세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "generator-tool",
+      "name": "비밀번호 & 무작위 생성기",
+      "input": {
+        "length": 20,
+        "count": 5,
+        "task": "password",
+        "upper": true,
+        "lower": true,
+        "digits": true,
+        "symbols": true,
+        "items": "다온\n가온\n나온",
+        "drawCount": 1
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-generator-tool.txt ↓ (0.101563 KB)",
+          "name": "daon-generator-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "jR!Ri3xr)D=N8)M=sLaq\nEhVZTu=&_0NayT73DJ$8\n%8HTd4dZonQBdP-+Dxb)\nS!T6LwcKEakYhS^eh7W+\nWGsA!i@#xhZ7pP+zGoG0",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "qr-generator",
+      "name": "QR 코드 생성기",
+      "input": {
+        "text": "다온 웹도구 audit 123",
+        "size": 512,
+        "foreground": "#285a49",
+        "background": "#ffffff",
+        "correction": "M"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-qr.png ↓ (8.026367 KB)",
+          "name": "daon-qr.png"
+        },
+        {
+          "label": "daon-qr.svg ↓ (1.198242 KB)",
+          "name": "daon-qr.svg"
+        },
+        {
+          "label": "daon-qr-generator.txt ↓ (0.05957 KB)",
+          "name": "daon-qr-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "PNG·SVG QR 생성 완료. 실제 스캔 후 사용하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "road-address-converter",
+      "name": "도로명·지번 주소 변환",
+      "input": {
+        "addresses": "서울 중구 세종대로 110",
+        "remote": true,
+        "building": "",
+        "floor": "",
+        "room": ""
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-road-address-converter.txt ↓ (0.211914 KB)",
+          "name": "daon-road-address-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "서울 중구 세종대로 110\n우편번호: 04524\n도로명: 서울특별시 중구 세종대로 110\n지번: 서울특별시 중구 태평로1가 31\n영문: 110, Sejong-daero, Jung-gu, Seoul, 04524, Republic of Korea",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "unit-converter",
+      "name": "스마트 단위 변환기",
+      "input": {
+        "dimension": "length",
+        "value": 1,
+        "from": "m",
+        "to": "cm"
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-unit-converter.txt ↓ (0.005859 KB)",
+          "name": "daon-unit-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "100 cm",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "ai-viewer",
+      "name": "AI 뷰어",
+      "input": {},
+      "files": [
+        "sample.ai"
+      ],
+      "downloads": [
+        {
+          "label": "daon-ai-viewer.txt ↓ (0.039063 KB)",
+          "name": "daon-ai-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "PDF호환 AI · 1페이지\nDaon sample 1",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "csv-viewer",
+      "name": "CSV 뷰어",
+      "input": {},
+      "files": [
+        "sample.csv"
+      ],
+      "downloads": [
+        {
+          "label": "daon-data.csv ↓ (0.041016 KB)",
+          "name": "daon-data.csv"
+        },
+        {
+          "label": "daon-csv-viewer.txt ↓ (0.041016 KB)",
+          "name": "daon-csv-viewer.txt"
+        }
+      ],
+      "preview": "이름값다온123쉼표, 포함456",
+      "result": "이름,값\n다온,123\n\"쉼표, 포함\",456",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "dwg-viewer",
+      "name": "DWG 뷰어",
+      "input": {},
+      "files": [
+        "sample.dwg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-cad-info.txt ↓ (0.041992 KB)",
+          "name": "daon-cad-info.txt"
+        },
+        {
+          "label": "daon-dwg-viewer.txt ↓ (0.023438 KB)",
+          "name": "daon-dwg-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "LibreDWG 2D 미리보기",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "epub-viewer",
+      "name": "EPUB 뷰어",
+      "input": {},
+      "files": [
+        "sample.epub"
+      ],
+      "downloads": [
+        {
+          "label": "daon-epub-viewer.txt ↓ (0.026367 KB)",
+          "name": "daon-epub-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다온 EPUB본문 테스트",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "excel-viewer",
+      "name": "엑셀 뷰어",
+      "input": {},
+      "files": [
+        "sample.xlsx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-sheets.tsv ↓ (0.029297 KB)",
+          "name": "daon-sheets.tsv"
+        },
+        {
+          "label": "daon-excel-viewer.txt ↓ (0.029297 KB)",
+          "name": "daon-excel-viewer.txt"
+        }
+      ],
+      "preview": "다온이름값다온123",
+      "result": "# 다온\n이름\t값\n다온\t123",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 2,
+      "passed": true
+    },
+    {
+      "slug": "hwp-viewer",
+      "name": "HWP 뷰어",
+      "input": {},
+      "files": [
+        "sample.hwp"
+      ],
+      "downloads": [
+        {
+          "label": "daon-hwp-viewer.txt ↓ (0.022461 KB)",
+          "name": "daon-hwp-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다온 HWP 5 테스트\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "markdown-viewer",
+      "name": "Markdown 뷰어",
+      "input": {
+        "text": "# 다온 웹도구\n\n**굵은 글자**를 확인하세요."
+      },
+      "files": [
+        "sample.md"
+      ],
+      "downloads": [
+        {
+          "label": "daon-document.md ↓ (0.052734 KB)",
+          "name": "daon-document.md"
+        },
+        {
+          "label": "daon-preview.html ↓ (0.226563 KB)",
+          "name": "daon-preview.html"
+        },
+        {
+          "label": "daon-markdown-viewer.txt ↓ (0.052734 KB)",
+          "name": "daon-markdown-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "# 다온 테스트\n\n**굵은 글자**와 표준 문장",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "pdf-viewer",
+      "name": "PDF 뷰어",
+      "input": {},
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-pdf-viewer.txt ↓ (2.919922 KB)",
+          "name": "daon-pdf-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\n\nDAON audit page 2\n\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\n\nDAON audit page 3\n\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\n\nDAON audit page 4\n\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true
+    },
+    {
+      "slug": "ppt-viewer",
+      "name": "PPT 뷰어",
+      "input": {},
+      "files": [
+        "sample.pptx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-ppt-viewer.txt ↓ (0.020508 KB)",
+          "name": "daon-ppt-viewer.txt"
+        }
+      ],
+      "preview": "슬라이드 1\n다온 PPTX 테스트",
+      "result": "다온 PPTX 테스트",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "psd-viewer",
+      "name": "PSD 뷰어",
+      "input": {},
+      "files": [
+        "sample.psd"
+      ],
+      "downloads": [
+        {
+          "label": "daon-psd-viewer.txt ↓ (0.038086 KB)",
+          "name": "daon-psd-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "32×24px\n레이어 1개\n(이름 없음)",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "svg-viewer",
+      "name": "SVG 뷰어",
+      "input": {},
+      "files": [
+        "sample.svg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-svg-source.txt ↓ (0.158203 KB)",
+          "name": "daon-svg-source.txt"
+        },
+        {
+          "label": "daon-svg-viewer.txt ↓ (0.158203 KB)",
+          "name": "daon-svg-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"240\" height=\"160\"><rect width=\"240\" height=\"160\" fill=\"#285a49\"/><text x=\"20\" y=\"80\" fill=\"white\">Daon</text></svg>",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "tiff-viewer",
+      "name": "TIFF 뷰어",
+      "input": {},
+      "files": [
+        "sample.tiff"
+      ],
+      "downloads": [
+        {
+          "label": "frame-1.png ↓ (0.121094 KB)",
+          "name": "frame-1.png"
+        },
+        {
+          "label": "daon-tiff-viewer.txt ↓ (0.030273 KB)",
+          "name": "daon-tiff-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1개 TIFF 프레임\n1: 32×24px",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "word-viewer",
+      "name": "워드 뷰어",
+      "input": {},
+      "files": [
+        "sample.docx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-word-viewer.txt ↓ (0.035156 KB)",
+          "name": "daon-word-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다온 DOCX 테스트\n\nEnglish 123\n\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "pdf-converter",
+      "name": "PDF 변환기",
+      "input": {
+        "pages": "",
+        "output": "txt"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-text.txt ↓ (2.919922 KB)",
+          "name": "daon-text.txt"
+        },
+        {
+          "label": "daon-pdf-converter.txt ↓ (2.919922 KB)",
+          "name": "daon-pdf-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\n\nDAON audit page 2\n\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\n\nDAON audit page 3\n\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\n\nDAON audit page 4\n\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-excel",
+      "name": "PDF를 Excel로",
+      "input": {
+        "pages": ""
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.xlsx ↓ (6.678711 KB)",
+          "name": "daon-result.xlsx"
+        },
+        {
+          "label": "daon-pdf-to-excel.txt ↓ (0.071289 KB)",
+          "name": "daon-pdf-to-excel.txt"
+        }
+      ],
+      "preview": "",
+      "result": "추정 행·열을 XLSX로 저장했습니다. 원본과 비교하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-jpg",
+      "name": "PDF를 JPG로",
+      "input": {
+        "pages": "",
+        "scale": 1.5,
+        "quality": 85
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-results.zip ↓ (255.078125 KB)",
+          "name": "daon-results.zip"
+        },
+        {
+          "label": "daon-pdf-to-jpg.txt ↓ (0.027344 KB)",
+          "name": "daon-pdf-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4페이지 JPG 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-png",
+      "name": "PDF를 PNG로",
+      "input": {
+        "pages": "",
+        "scale": 1.5
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-results.zip ↓ (296.863281 KB)",
+          "name": "daon-results.zip"
+        },
+        {
+          "label": "daon-pdf-to-png.txt ↓ (0.027344 KB)",
+          "name": "daon-pdf-to-png.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4페이지 PNG 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-pptx",
+      "name": "PDF를 PPTX로",
+      "input": {
+        "pages": "",
+        "scale": 1.5
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-slides.pptx ↓ (355.076172 KB)",
+          "name": "daon-slides.pptx"
+        },
+        {
+          "label": "daon-pdf-to-pptx.txt ↓ (0.033203 KB)",
+          "name": "daon-pdf-to-pptx.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4개 이미지 슬라이드 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-tiff",
+      "name": "PDF를 TIFF로",
+      "input": {
+        "pages": "",
+        "scale": 1.5
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-results.zip ↓ (17,627.107422 KB)",
+          "name": "daon-results.zip"
+        },
+        {
+          "label": "daon-pdf-to-tiff.txt ↓ (0.02832 KB)",
+          "name": "daon-pdf-to-tiff.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4페이지 TIFF 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-txt",
+      "name": "PDF를 TXT로",
+      "input": {
+        "pages": ""
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-text.txt ↓ (2.919922 KB)",
+          "name": "daon-text.txt"
+        },
+        {
+          "label": "daon-pdf-to-txt.txt ↓ (2.919922 KB)",
+          "name": "daon-pdf-to-txt.txt"
+        }
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\n\nDAON audit page 2\n\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\n\nDAON audit page 3\n\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\n\nDAON audit page 4\n\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-webp",
+      "name": "PDF WebP 변환",
+      "input": {
+        "pages": "",
+        "scale": 1.5,
+        "quality": 85
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-results.zip ↓ (145.503906 KB)",
+          "name": "daon-results.zip"
+        },
+        {
+          "label": "daon-pdf-to-webp.txt ↓ (0.02832 KB)",
+          "name": "daon-pdf-to-webp.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4페이지 WEBP 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-to-word",
+      "name": "PDF를 Word로",
+      "input": {
+        "pages": ""
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-document.docx ↓ (9.694336 KB)",
+          "name": "daon-document.docx"
+        },
+        {
+          "label": "daon-pdf-to-word.txt ↓ (0.079102 KB)",
+          "name": "daon-pdf-to-word.txt"
+        }
+      ],
+      "preview": "",
+      "result": "텍스트 DOCX를 생성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "dwg-to-pdf",
+      "name": "DWG를 PDF로",
+      "input": {},
+      "files": [
+        "sample.dwg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (1.017578 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-dwg-to-pdf.txt ↓ (0.029297 KB)",
+          "name": "daon-dwg-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 1KB1쪽: 595×842pt",
+      "result": "DWG 2D 미리보기 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "epub-to-pdf",
+      "name": "EPUB을 PDF로",
+      "input": {},
+      "files": [
+        "sample.epub"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.625 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-epub-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-epub-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "excel-to-pdf",
+      "name": "Excel를 PDF로",
+      "input": {},
+      "files": [
+        "sample.xlsx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.640625 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-excel-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-excel-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "html-to-pdf",
+      "name": "HTML를 PDF로",
+      "input": {},
+      "files": [
+        "sample.html"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (3.140625 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-html-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-html-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "hwp-to-pdf",
+      "name": "HWP를 PDF로",
+      "input": {},
+      "files": [
+        "sample.hwp"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.5625 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-hwp-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-hwp-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "image-to-pdf",
+      "name": "이미지를 PDF로 (Image to PDF)",
+      "input": {},
+      "files": [
+        "sample.png",
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (7.086914 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-image-to-pdf.txt ↓ (0.019531 KB)",
+          "name": "daon-image-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 7KB1쪽: 595×842pt2쪽: 595×842pt",
+      "result": "이미지 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 6,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "jpg-to-pdf",
+      "name": "JPG를 PDF로",
+      "input": {},
+      "files": [
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.986328 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-jpg-to-pdf.txt ↓ (0.019531 KB)",
+          "name": "daon-jpg-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 5KB1쪽: 595×842pt",
+      "result": "이미지 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "png-to-pdf",
+      "name": "PNG를 PDF로",
+      "input": {},
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.695313 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-png-to-pdf.txt ↓ (0.019531 KB)",
+          "name": "daon-png-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "이미지 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "tiff-to-pdf",
+      "name": "TIFF를 PDF로",
+      "input": {},
+      "files": [
+        "sample.tiff"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (0.956055 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-tiff-to-pdf.txt ↓ (0.019531 KB)",
+          "name": "daon-tiff-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 1KB1쪽: 595×842pt",
+      "result": "이미지 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "txt-to-pdf",
+      "name": "TXT를 PDF로",
+      "input": {},
+      "files": [
+        "sample.txt"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.124023 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-txt-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-txt-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 4KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "webp-to-pdf",
+      "name": "WebP PDF 변환",
+      "input": {},
+      "files": [
+        "sample.webp"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.84668 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-webp-to-pdf.txt ↓ (0.019531 KB)",
+          "name": "daon-webp-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 5KB1쪽: 595×842pt",
+      "result": "이미지 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "word-to-pdf",
+      "name": "Word를 PDF로",
+      "input": {},
+      "files": [
+        "sample.docx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (3.423828 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-word-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-word-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "xps-to-pdf",
+      "name": "XPS를 PDF로",
+      "input": {},
+      "files": [
+        "sample.xps"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.500977 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-xps-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-xps-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "7z-to-zip",
+      "name": "7z ZIP 변환",
+      "input": {},
+      "files": [
+        "sample.7z"
+      ],
+      "downloads": [
+        {
+          "label": "daon-converted.zip ↓ (5.97168 KB)",
+          "name": "daon-converted.zip"
+        },
+        {
+          "label": "daon-7z-to-zip.txt ↓ (0.021484 KB)",
+          "name": "daon-7z-to-zip.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4개 파일 ZIP 변환",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "avif-to-jpg",
+      "name": "Avif를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.avif"
+      ],
+      "downloads": [
+        {
+          "label": "daon-avif-to-jpg.jpeg ↓ (2.84668 KB)",
+          "name": "daon-avif-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-avif-to-jpg.txt ↓ (0.019531 KB)",
+          "name": "daon-avif-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.84668KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "csv-to-excel",
+      "name": "CSV를 Excel로",
+      "input": {},
+      "files": [
+        "sample.csv"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.xlsx ↓ (6.358398 KB)",
+          "name": "daon-result.xlsx"
+        },
+        {
+          "label": "daon-csv-to-excel.txt ↓ (0.015625 KB)",
+          "name": "daon-csv-to-excel.txt"
+        }
+      ],
+      "preview": "",
+      "result": "3행 XLSX 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "document-to-markdown",
+      "name": "문서 Markdown 변환",
+      "input": {},
+      "files": [
+        "sample.docx"
+      ],
+      "downloads": [
+        {
+          "label": "daon-document.md ↓ (0.033203 KB)",
+          "name": "daon-document.md"
+        },
+        {
+          "label": "daon-document-to-markdown.txt ↓ (0.033203 KB)",
+          "name": "daon-document-to-markdown.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다온 DOCX 테스트\n\nEnglish 123",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "gif-to-jpg",
+      "name": "GIF를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.gif"
+      ],
+      "downloads": [
+        {
+          "label": "daon-gif-to-jpg.jpeg ↓ (2.851563 KB)",
+          "name": "daon-gif-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-gif-to-jpg.txt ↓ (0.020508 KB)",
+          "name": "daon-gif-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "gif-to-png",
+      "name": "GIF를 PNG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.gif"
+      ],
+      "downloads": [
+        {
+          "label": "daon-gif-to-png.png ↓ (8.279297 KB)",
+          "name": "daon-gif-to-png.png"
+        },
+        {
+          "label": "daon-gif-to-png.txt ↓ (0.020508 KB)",
+          "name": "daon-gif-to-png.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "heic-to-jpg",
+      "name": "HEIC를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.heic"
+      ],
+      "downloads": [
+        {
+          "label": "daon-heic-to-jpg.jpeg ↓ (144.90625 KB)",
+          "name": "daon-heic-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-heic-to-jpg.txt ↓ (0.022461 KB)",
+          "name": "daon-heic-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1440×960px\n144.90625KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-converter",
+      "name": "이미지 포맷 변환 (Converter)",
+      "input": {
+        "format": "image/png",
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-converter.png ↓ (8.279297 KB)",
+          "name": "daon-img-converter.png"
+        },
+        {
+          "label": "daon-img-converter.txt ↓ (0.020508 KB)",
+          "name": "daon-img-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "jpeg-to-jpg",
+      "name": "JPEG를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-jpeg-to-jpg.jpeg ↓ (2.783203 KB)",
+          "name": "daon-jpeg-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-jpeg-to-jpg.txt ↓ (0.020508 KB)",
+          "name": "daon-jpeg-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.783203KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-gif",
+      "name": "JPG를 GIF로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-jpg-to-gif.gif ↓ (2.333984 KB)",
+          "name": "daon-jpg-to-gif.gif"
+        },
+        {
+          "label": "daon-jpg-to-gif.txt ↓ (0.020508 KB)",
+          "name": "daon-jpg-to-gif.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.333984KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-png",
+      "name": "JPG를 PNG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-jpg-to-png.png ↓ (11.40918 KB)",
+          "name": "daon-jpg-to-png.png"
+        },
+        {
+          "label": "daon-jpg-to-png.txt ↓ (0.020508 KB)",
+          "name": "daon-jpg-to-png.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n11.40918KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "jpg-to-webp",
+      "name": "JPG를 WebP로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-jpg-to-webp.webp ↓ (1.550781 KB)",
+          "name": "daon-jpg-to-webp.webp"
+        },
+        {
+          "label": "daon-jpg-to-webp.txt ↓ (0.020508 KB)",
+          "name": "daon-jpg-to-webp.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n1.550781KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "png-to-gif",
+      "name": "PNG를 GIF로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-png-to-gif.gif ↓ (1.555664 KB)",
+          "name": "daon-png-to-gif.gif"
+        },
+        {
+          "label": "daon-png-to-gif.txt ↓ (0.020508 KB)",
+          "name": "daon-png-to-gif.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n1.555664KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "png-to-jpg",
+      "name": "PNG를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-png-to-jpg.jpeg ↓ (2.851563 KB)",
+          "name": "daon-png-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-png-to-jpg.txt ↓ (0.020508 KB)",
+          "name": "daon-png-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "png-to-webp",
+      "name": "PNG를 WebP로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-png-to-webp.webp ↓ (1.527344 KB)",
+          "name": "daon-png-to-webp.webp"
+        },
+        {
+          "label": "daon-png-to-webp.txt ↓ (0.020508 KB)",
+          "name": "daon-png-to-webp.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n1.527344KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "rar-to-zip",
+      "name": "RAR ZIP 변환",
+      "input": {},
+      "files": [
+        "sample.rar"
+      ],
+      "downloads": [
+        {
+          "label": "daon-converted.zip ↓ (5.97168 KB)",
+          "name": "daon-converted.zip"
+        },
+        {
+          "label": "daon-rar-to-zip.txt ↓ (0.021484 KB)",
+          "name": "daon-rar-to-zip.txt"
+        }
+      ],
+      "preview": "",
+      "result": "4개 파일 ZIP 변환",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "webp-to-jpg",
+      "name": "WebP를 JPG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.webp"
+      ],
+      "downloads": [
+        {
+          "label": "daon-webp-to-jpg.jpeg ↓ (2.856445 KB)",
+          "name": "daon-webp-to-jpg.jpeg"
+        },
+        {
+          "label": "daon-webp-to-jpg.txt ↓ (0.020508 KB)",
+          "name": "daon-webp-to-jpg.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.856445KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "webp-to-png",
+      "name": "WebP를 PNG로",
+      "input": {
+        "quality": 85
+      },
+      "files": [
+        "sample.webp"
+      ],
+      "downloads": [
+        {
+          "label": "daon-webp-to-png.png ↓ (11.052734 KB)",
+          "name": "daon-webp-to-png.png"
+        },
+        {
+          "label": "daon-webp-to-png.txt ↓ (0.021484 KB)",
+          "name": "daon-webp-to-png.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n11.052734KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-adjust",
+      "name": "이미지 밝기·대비·흑백 편집",
+      "input": {
+        "brightness": 100,
+        "contrast": 100,
+        "grayscale": 0,
+        "format": "image/png",
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-adjust.png ↓ (8.279297 KB)",
+          "name": "daon-img-adjust.png"
+        },
+        {
+          "label": "daon-img-adjust.txt ↓ (0.020508 KB)",
+          "name": "daon-img-adjust.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-color-picker",
+      "name": "이미지 색상 추출기 (Color Picker)",
+      "input": {
+        "x": 0,
+        "y": 0
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-color-picker.txt ↓ (0.097656 KB)",
+          "name": "daon-img-color-picker.txt"
+        }
+      ],
+      "preview": "",
+      "result": "좌표: 0, 0\nHEX #e8eee1\nRGB 232, 238, 225\nHSL 87.692308°, 27.659574%, 90.784314%\n불투명도 100%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-compressor",
+      "name": "이미지 용량 압축 (Compressor)",
+      "input": {
+        "format": "image/jpeg",
+        "quality": 85,
+        "maxWidth": 1920
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-compressor.jpeg ↓ (2.851563 KB)",
+          "name": "daon-img-compressor.jpeg"
+        },
+        {
+          "label": "daon-img-compressor.txt ↓ (0.044922 KB)",
+          "name": "daon-img-compressor.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n2.851563KB\n원본 대비 94.712942%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-join",
+      "name": "이미지 이어붙이기",
+      "input": {
+        "direction": "vertical",
+        "gap": 0,
+        "background": "#ffffff",
+        "format": "image/png",
+        "quality": 85,
+        "fit": 0,
+        "padding": 0,
+        "transparent": false
+      },
+      "files": [
+        "sample.png",
+        "sample.jpg"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-join.png ↓ (19.569336 KB)",
+          "name": "daon-img-join.png"
+        },
+        {
+          "label": "daon-img-join.txt ↓ (0.021484 KB)",
+          "name": "daon-img-join.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×800px\n19.569336KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-resizer",
+      "name": "이미지 크기 조절 (Resizer)",
+      "input": {
+        "width": 1200,
+        "height": 0,
+        "format": "image/png",
+        "quality": 85,
+        "lock": true,
+        "scale": 0
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-resizer.png ↓ (27.335938 KB)",
+          "name": "daon-img-resizer.png"
+        },
+        {
+          "label": "daon-img-resizer.txt ↓ (0.022461 KB)",
+          "name": "daon-img-resizer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1200×750px\n27.335938KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-rotate-flip",
+      "name": "이미지 회전 및 반전 (Rotate & Flip)",
+      "input": {
+        "angle": 0,
+        "flip": "none",
+        "format": "image/png",
+        "quality": 85
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-rotate-flip.png ↓ (8.279297 KB)",
+          "name": "daon-img-rotate-flip.png"
+        },
+        {
+          "label": "daon-img-rotate-flip.txt ↓ (0.020508 KB)",
+          "name": "daon-img-rotate-flip.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n8.279297KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "img-watermark",
+      "name": "이미지 워터마크 넣기",
+      "input": {
+        "mark": "다온 웹도구",
+        "fontSize": 32,
+        "opacity": 70,
+        "position": "bottom-right",
+        "format": "image/png",
+        "quality": 85,
+        "kind": "text",
+        "color": "#ffffff",
+        "logoWidth": 20,
+        "margin": 20
+      },
+      "files": [
+        "sample.png"
+      ],
+      "downloads": [
+        {
+          "label": "daon-img-watermark.png ↓ (10.608398 KB)",
+          "name": "daon-img-watermark.png"
+        },
+        {
+          "label": "daon-img-watermark.txt ↓ (0.021484 KB)",
+          "name": "daon-img-watermark.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n10.608398KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 1,
+      "passed": true
+    },
+    {
+      "slug": "pdf-add-blank",
+      "name": "PDF 빈 페이지 추가",
+      "input": {
+        "after": 0,
+        "count": 1,
+        "size": "same",
+        "orientation": "portrait"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.46582 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-add-blank.txt ↓ (0.054688 KB)",
+          "name": "daon-pdf-add-blank.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 5페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "0페이지 뒤 빈 페이지1장 추가 · 총5페이지",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-add-margin",
+      "name": "PDF 여백 추가",
+      "input": {
+        "left": 10,
+        "right": 10,
+        "top": 10,
+        "bottom": 10
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (6.044922 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-add-margin.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-add-margin.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 6KB1쪽: 651.693×898.693pt2쪽: 651.693×898.693pt3쪽: 651.693×898.693pt",
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-booklet",
+      "name": "PDF 소책자 인쇄 배치",
+      "input": {
+        "size": "A4",
+        "orientation": "landscape",
+        "outer": 10,
+        "gap": 5,
+        "enlarge": true
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.834961 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-booklet.txt ↓ (0.123047 KB)",
+          "name": "daon-pdf-booklet.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 6KB1쪽: 841.89×595.28pt2쪽: 841.89×595.28pt",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료\n양면 인쇄 방향과 접지 순서를 미리보기로 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 6,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-nup",
+      "name": "PDF 모아찍기",
+      "input": {
+        "nup": "2",
+        "size": "A4",
+        "orientation": "landscape",
+        "outer": 10,
+        "gap": 5,
+        "enlarge": true
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.834961 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-nup.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-nup.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 6KB1쪽: 841.89×595.28pt2쪽: 841.89×595.28pt",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 6,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-page-info",
+      "name": "PDF 페이지 정보 확인",
+      "input": {},
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-pdf-page-info.txt ↓ (0.143555 KB)",
+          "name": "daon-pdf-page-info.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1페이지: 595×842pt · 회전 0°\n2페이지: 595×842pt · 회전 0°\n3페이지: 595×842pt · 회전 0°\n4페이지: 595×842pt · 회전 0°",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-resize",
+      "name": "PDF 용지 크기 변경",
+      "input": {
+        "size": "A4",
+        "orientation": "portrait",
+        "outer": 10,
+        "enlarge": true
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (6.176758 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-resize.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-resize.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 6KB1쪽: 595.28×841.89pt2쪽: 595.28×841.89pt3쪽: 595.28×841.89pt",
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-annotate",
+      "name": "PDF에 주석 달기",
+      "input": {
+        "mark": "다온 웹도구",
+        "pages": "",
+        "x": 30,
+        "y": 30,
+        "fontSize": 16
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.911133 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-annotate.txt ↓ (0.016602 KB)",
+          "name": "daon-pdf-annotate.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 5KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-compress",
+      "name": "PDF 압축",
+      "input": {
+        "mode": "lossless",
+        "quality": 65,
+        "scale": 1
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.454102 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-compress.txt ↓ (0.146484 KB)",
+          "name": "daon-pdf-compress.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "원본 2.451172KB → 결과 2.454102KB\n원본보다 작아지지 않았습니다. 원본 유지 또는 이미지 재구성 옵션을 검토하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-create",
+      "name": "PDF 생성",
+      "input": {
+        "text": "제목\n내용을 입력하세요."
+      },
+      "files": [],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.865234 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-create.txt ↓ (0.026367 KB)",
+          "name": "daon-pdf-create.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "한글 텍스트 PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 4,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-delete",
+      "name": "PDF 페이지 삭제 (Delete Pages)",
+      "input": {
+        "pages": "2"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.000977 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-delete.txt ↓ (0.016602 KB)",
+          "name": "daon-pdf-delete.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 3페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "3페이지 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-merge",
+      "name": "PDF 병합 (Merge)",
+      "input": {},
+      "files": [
+        "sample-1.pdf",
+        "sample-2.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (1.041992 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-merge.txt ↓ (0.016602 KB)",
+          "name": "daon-pdf-merge.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 1KB1쪽: 300×400pt2쪽: 300×400pt",
+      "result": "2페이지 병합",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 6,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-ocr",
+      "name": "PDF OCR",
+      "input": {
+        "pages": "",
+        "language": "kor+eng",
+        "output": "txt"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-ocr.txt ↓ (2.923828 KB)",
+          "name": "daon-ocr.txt"
+        },
+        {
+          "label": "daon-pdf-ocr.txt ↓ (2.923828 KB)",
+          "name": "daon-pdf-ocr.txt"
+        }
+      ],
+      "preview": "",
+      "result": "DAON audit page 1\n\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\nThis document describes four local test pages. Page 1 contains public synthetic data only.\n\n\nDAON audit page 2\n\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\nThis document describes four local test pages. Page 2 contains public synthetic data only.\n\n\nDAON audit page 3\n\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\nThis document describes four local test pages. Page 3 contains public synthetic data only.\n\n\nDAON audit page 4\n\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\nThis document describes four local test pages. Page 4 contains public synthetic data only.\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-organize",
+      "name": "PDF 페이지 정리",
+      "input": {
+        "pages": "4,2,1,3"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.450195 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-organize.txt ↓ (0.016602 KB)",
+          "name": "daon-pdf-organize.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "4페이지 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-page-num",
+      "name": "PDF 페이지 번호 추가 (Page Numbering)",
+      "input": {
+        "start": 1,
+        "style": "number",
+        "position": "bottom-center",
+        "fontSize": 10,
+        "margin": 30
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.553711 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-page-num.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-page-num.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 5KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-rotate",
+      "name": "PDF 페이지 회전 (Rotate)",
+      "input": {
+        "pages": "",
+        "angle": "90"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.458984 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-rotate.txt ↓ (0.016602 KB)",
+          "name": "daon-pdf-rotate.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 2KB1쪽: 842×595pt2쪽: 842×595pt3쪽: 842×595pt",
+      "result": "PDF 작업 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-sign",
+      "name": "PDF 서명",
+      "input": {
+        "mark": "DAON test",
+        "page": 1,
+        "x": 30,
+        "y": 30,
+        "width": 160,
+        "kind": "text",
+        "unit": "pt",
+        "percentWidth": 30
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.345703 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-sign.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-sign.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 4KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-split",
+      "name": "PDF 분할 (Split)",
+      "input": {
+        "pages": "1,3-4",
+        "mode": "both"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-extracted.pdf ↓ (2 KB)",
+          "name": "daon-extracted.pdf"
+        },
+        {
+          "label": "daon-split.zip ↓ (3.619141 KB)",
+          "name": "daon-split.zip"
+        },
+        {
+          "label": "daon-pdf-split.txt ↓ (0.03125 KB)",
+          "name": "daon-pdf-split.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 3페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "3페이지 분할·추출 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    },
+    {
+      "slug": "pdf-summary-ai",
+      "name": "PDF 요약 AI",
+      "input": {
+        "pages": "",
+        "maxPages": 10,
+        "allowModel": true,
+        "summaryMode": "extract"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-pdf-summary-ai.txt ↓ (0.283203 KB)",
+          "name": "daon-pdf-summary-ai.txt"
+        }
+      ],
+      "preview": "",
+      "result": "원문 핵심문장 추출 (생성형 AI 사용 안 함)\n\n[1쪽] DAON audit page 1\n\n[1쪽] Page 1 contains public synthetic data only.\n\n[2쪽] Page 2 contains public synthetic data only.\n\n[3쪽] Page 3 contains public synthetic data only.\n\n[4쪽] Page 4 contains public synthetic data only.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 0,
+      "passed": true
+    },
+    {
+      "slug": "pdf-watermark",
+      "name": "PDF 워터마크 추가 (Watermark)",
+      "input": {
+        "mark": "다온 웹도구",
+        "pages": "",
+        "x": 30,
+        "y": 30,
+        "fontSize": 16,
+        "color": "#285a49",
+        "angle": 30,
+        "opacity": 30,
+        "position": "center"
+      },
+      "files": [
+        "audit-four.pdf"
+      ],
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.147461 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-watermark.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-watermark.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 5KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "visuals": 8,
+      "passed": true,
+      "pdfParsed": true
+    }
+  ],
+  "advanced": [
+    {
+      "name": "URL-safe Unicode 인코딩",
+      "slug": "base64-tool",
+      "downloads": [
+        {
+          "label": "daon-base64-tool.txt ↓ (0.005859 KB)",
+          "name": "daon-base64-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "8J-YgA",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "URL-safe 패딩 없는 디코딩",
+      "slug": "base64-tool",
+      "downloads": [
+        {
+          "label": "daon-base64-tool.txt ↓ (0.003906 KB)",
+          "name": "daon-base64-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "😀",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "파일 SHA-256 및 검증",
+      "slug": "hash-generator",
+      "downloads": [
+        {
+          "label": "daon-hash-generator.txt ↓ (0.100586 KB)",
+          "name": "daon-hash-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "SHA-256 · hash-abc.txt\nba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad\n비교: 일치",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "삽입 줄 차이 비교",
+      "slug": "text-diff",
+      "downloads": [
+        {
+          "label": "daon-text-diff.txt ↓ (0.046875 KB)",
+          "name": "daon-text-diff.txt"
+        }
+      ],
+      "preview": "",
+      "result": "[같음] 가\n\n[추가] 추가\n\n[같음] 나\n다\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "문자 단위 비교",
+      "slug": "text-diff",
+      "downloads": [
+        {
+          "label": "daon-text-diff.txt ↓ (0.041992 KB)",
+          "name": "daon-text-diff.txt"
+        }
+      ],
+      "preview": "",
+      "result": "[같음] A\n[삭제] B\n[추가] D\n[같음] C",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "비교 텍스트 파일",
+      "slug": "text-diff",
+      "downloads": [
+        {
+          "label": "daon-text-diff.txt ↓ (0.046875 KB)",
+          "name": "daon-text-diff.txt"
+        }
+      ],
+      "preview": "",
+      "result": "[같음] 가\n\n[추가] 추가\n\n[같음] 나\n다\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "자연순 정렬·중복 제거",
+      "slug": "text-line-sort",
+      "downloads": [
+        {
+          "label": "daon-text-line-sort.txt ↓ (0.015625 KB)",
+          "name": "daon-text-line-sort.txt"
+        }
+      ],
+      "preview": "",
+      "result": "항목2\n항목10",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "숫자순 역순",
+      "slug": "text-line-sort",
+      "downloads": [
+        {
+          "label": "daon-text-line-sort.txt ↓ (0.006836 KB)",
+          "name": "daon-text-line-sort.txt"
+        }
+      ],
+      "preview": "",
+      "result": "10\n3\n-2",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "공백·빈줄·중복 동시 정리",
+      "slug": "text-cleaner",
+      "downloads": [
+        {
+          "label": "daon-text-cleaner.txt ↓ (0.006836 KB)",
+          "name": "daon-text-cleaner.txt"
+        }
+      ],
+      "preview": "",
+      "result": "가\n나",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "전체URL 인코딩",
+      "slug": "url-encoder",
+      "downloads": [
+        {
+          "label": "daon-url-encoder.txt ↓ (0.048828 KB)",
+          "name": "daon-url-encoder.txt"
+        }
+      ],
+      "preview": "",
+      "result": "https://example.com/%EB%8B%A4%EC%98%A8?q=%EA%B0%80",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "임의HEX ID",
+      "slug": "uuid-generator",
+      "downloads": [
+        {
+          "label": "daon-uuid-generator.txt ↓ (0.095703 KB)",
+          "name": "daon-uuid-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "302eaa42cda3d2377ae15377edec7799\n68f3fd9de0a3c98704dfe86e48d48c74\nfc306972de085a4d0252d8a57a38ba53",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "복성·이름순·하이픈",
+      "slug": "english-name-converter",
+      "downloads": [
+        {
+          "label": "daon-english-name-converter.txt ↓ (0.119141 KB)",
+          "name": "daon-english-name-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "규칙 기반 후보: Min-su Namgung\n여권·공식 이름은 기존 등록 표기와 발급기관 기준을 따르세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "중복 없는 추첨",
+      "slug": "generator-tool",
+      "downloads": [
+        {
+          "label": "daon-generator-tool.txt ↓ (0.010742 KB)",
+          "name": "daon-generator-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "다\n가\n나",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "숫자만 비밀번호",
+      "slug": "generator-tool",
+      "downloads": [
+        {
+          "label": "daon-generator-tool.txt ↓ (0.016602 KB)",
+          "name": "daon-generator-tool.txt"
+        }
+      ],
+      "preview": "",
+      "result": "11522422\n66289790",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "QR 색상·SVG",
+      "slug": "qr-generator",
+      "downloads": [
+        {
+          "label": "daon-qr.png ↓ (3.678711 KB)",
+          "name": "daon-qr.png"
+        },
+        {
+          "label": "daon-qr.svg ↓ (1.608398 KB)",
+          "name": "daon-qr.svg"
+        },
+        {
+          "label": "daon-qr-generator.txt ↓ (0.05957 KB)",
+          "name": "daon-qr-generator.txt"
+        }
+      ],
+      "preview": "",
+      "result": "PNG·SVG QR 생성 완료. 실제 스캔 후 사용하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "HSL 입력 미리보기",
+      "slug": "color-converter",
+      "downloads": [
+        {
+          "label": "daon-color-converter.txt ↓ (0.077148 KB)",
+          "name": "daon-color-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "HEX #2e6b4d\nRGB 46, 107, 77\nHSL 150.491803°, 39.869281%, 30%\n불투명도 100%",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "영문 상세주소",
+      "slug": "road-address-converter",
+      "downloads": [
+        {
+          "label": "daon-road-address-converter.txt ↓ (0.269531 KB)",
+          "name": "daon-road-address-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "서울 중구 세종대로 110\n우편번호: 04524\n도로명: 서울특별시 중구 세종대로 110 1동 2층 3호\n지번: 서울특별시 중구 태평로1가 31 1동 2층 3호\n영문: Unit 3, Floor 2, Building 1, 110, Sejong-daero, Jung-gu, Seoul, 04524, Republic of Korea",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "일별 공개환율 조회",
+      "slug": "currency-converter",
+      "downloads": [
+        {
+          "label": "daon-currency-converter.txt ↓ (0.140625 KB)",
+          "name": "daon-currency-converter.txt"
+        }
+      ],
+      "preview": "",
+      "result": "1,324.48 KRW\n환율: 1,324.48 KRW/USD\n기준일: 2026-10-25\n출처: Frankfurter 일별 공개 참고환율. 거래 수수료는 별도입니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "Word97 DOC 본문",
+      "slug": "word-viewer",
+      "downloads": [
+        {
+          "label": "daon-word-viewer.txt ↓ (0.136719 KB)",
+          "name": "daon-word-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "I am a test document\nThis is page 1\nI am Calibri (Body) in font size 11\n\nThis is page two\nIt’s Arial Black in 16 point\nIt’s also in blue",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "Word97 DOC PDF",
+      "slug": "word-to-pdf",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.255859 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-word-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-word-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 4KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "구형XLS 셀",
+      "slug": "excel-viewer",
+      "downloads": [
+        {
+          "label": "daon-다온.csv ↓ (0.032227 KB)",
+          "name": "daon-다온.csv"
+        },
+        {
+          "label": "daon-excel-viewer.txt ↓ (0.029297 KB)",
+          "name": "daon-excel-viewer.txt"
+        }
+      ],
+      "preview": "다온이름값다온123",
+      "result": "# 다온\n이름\t값\n다온\t123",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "구형XLS PDF",
+      "slug": "excel-to-pdf",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.642578 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-excel-to-pdf.txt ↓ (0.09082 KB)",
+          "name": "daon-excel-to-pdf.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문 텍스트를 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "구형PPT 현재 슬라이드",
+      "slug": "ppt-viewer",
+      "downloads": [
+        {
+          "label": "daon-ppt-viewer.txt ↓ (0.192383 KB)",
+          "name": "daon-ppt-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "슬라이드 1\nThis is a test title\nThis is a test subtitle\nThis is on page 1\n\n슬라이드 2\nThis is the title on page 2\nThis is page two\nIt has several blocks of text\nNone of them have formatting",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "압축된 HWP5",
+      "slug": "hwp-viewer",
+      "downloads": [
+        {
+          "label": "daon-hwp-viewer.txt ↓ (0.027344 KB)",
+          "name": "daon-hwp-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "압축 HWP 본문 테스트\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "다중 TIFF 미리보기",
+      "slug": "tiff-viewer",
+      "downloads": [
+        {
+          "label": "frame-1.png ↓ (0.341797 KB)",
+          "name": "frame-1.png"
+        },
+        {
+          "label": "frame-2.png ↓ (0.518555 KB)",
+          "name": "frame-2.png"
+        },
+        {
+          "label": "daon-tiff-viewer.txt ↓ (0.043945 KB)",
+          "name": "daon-tiff-viewer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "2개 TIFF 프레임\n1: 120×60px\n2: 80×120px",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "EPUB spine 순서",
+      "slug": "epub-viewer",
+      "downloads": [
+        {
+          "label": "daon-ebook-all.txt ↓ (0.035156 KB)",
+          "name": "daon-ebook-all.txt"
+        },
+        {
+          "label": "daon-epub-viewer.txt ↓ (0.016602 KB)",
+          "name": "daon-epub-viewer.txt"
+        }
+      ],
+      "preview": "1. B 챕터2. A 챕터",
+      "result": "B 챕터\nB 본문",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "DOCX 구조 Markdown",
+      "slug": "document-to-markdown",
+      "downloads": [
+        {
+          "label": "daon-document.md ↓ (0.104492 KB)",
+          "name": "daon-document.md"
+        },
+        {
+          "label": "daon-document-to-markdown.txt ↓ (0.104492 KB)",
+          "name": "daon-document-to-markdown.txt"
+        }
+      ],
+      "preview": "",
+      "result": "# 다온 문서 제목\n\n- 첫 번째 항목\n\n본문 내용\n\n| 이름 | 값 |\n| --- | --- |\n| 다온 | 123 |",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "임의45도 회전",
+      "slug": "img-rotate-flip",
+      "downloads": [
+        {
+          "label": "daon-img-rotate-flip.png ↓ (22.463867 KB)",
+          "name": "daon-img-rotate-flip.png"
+        },
+        {
+          "label": "daon-img-rotate-flip.txt ↓ (0.021484 KB)",
+          "name": "daon-img-rotate-flip.txt"
+        }
+      ],
+      "preview": "",
+      "result": "736×736px\n22.463867KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "90도 회전",
+      "slug": "img-rotate-flip",
+      "downloads": [
+        {
+          "label": "daon-img-rotate-flip.png ↓ (9.806641 KB)",
+          "name": "daon-img-rotate-flip.png"
+        },
+        {
+          "label": "daon-img-rotate-flip.txt ↓ (0.020508 KB)",
+          "name": "daon-img-rotate-flip.txt"
+        }
+      ],
+      "preview": "",
+      "result": "400×640px\n9.806641KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "비율 잠금 해제",
+      "slug": "img-resizer",
+      "downloads": [
+        {
+          "label": "daon-img-resizer.png ↓ (0.508789 KB)",
+          "name": "daon-img-resizer.png"
+        },
+        {
+          "label": "daon-img-resizer.txt ↓ (0.019531 KB)",
+          "name": "daon-img-resizer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "100×50px\n0.508789KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "원본50% 리사이즈",
+      "slug": "img-resizer",
+      "downloads": [
+        {
+          "label": "daon-img-resizer.png ↓ (2.905273 KB)",
+          "name": "daon-img-resizer.png"
+        },
+        {
+          "label": "daon-img-resizer.txt ↓ (0.020508 KB)",
+          "name": "daon-img-resizer.txt"
+        }
+      ],
+      "preview": "",
+      "result": "320×200px\n2.905273KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "이미지 맞춤·여백·간격",
+      "slug": "img-join",
+      "downloads": [
+        {
+          "label": "daon-img-join.png ↓ (2.646484 KB)",
+          "name": "daon-img-join.png"
+        },
+        {
+          "label": "daon-img-join.txt ↓ (0.020508 KB)",
+          "name": "daon-img-join.txt"
+        }
+      ],
+      "preview": "",
+      "result": "220×250px\n2.646484KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "로고 워터마크",
+      "slug": "img-watermark",
+      "downloads": [
+        {
+          "label": "daon-img-watermark.png ↓ (8.300781 KB)",
+          "name": "daon-img-watermark.png"
+        },
+        {
+          "label": "daon-img-watermark.txt ↓ (0.020508 KB)",
+          "name": "daon-img-watermark.txt"
+        }
+      ],
+      "preview": "",
+      "result": "640×400px\n8.300781KB",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 비대칭 여백4페이지",
+      "slug": "pdf-add-margin",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (6.117188 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-add-margin.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-add-margin.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 6KB1쪽: 612.008×881.685pt2쪽: 612.008×881.685pt3쪽: 612.008×881.685pt",
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "회전 원본 용지변환",
+      "slug": "pdf-resize",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.222656 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-resize.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-resize.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 4KB1쪽: 1190.55×841.89pt2쪽: 1190.55×841.89pt3쪽: 1190.55×841.89pt",
+      "result": "4페이지 → 4페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "모아찍기 여백·간격",
+      "slug": "pdf-nup",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.833984 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-nup.txt ↓ (0.050781 KB)",
+          "name": "daon-pdf-nup.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 6KB1쪽: 841.89×595.28pt2쪽: 841.89×595.28pt",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "소책자 모든 원본",
+      "slug": "pdf-booklet",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.834961 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-booklet.txt ↓ (0.123047 KB)",
+          "name": "daon-pdf-booklet.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 6KB1쪽: 841.89×595.28pt2쪽: 841.89×595.28pt",
+      "result": "4페이지 → 2페이지 레이아웃 변환 완료\n양면 인쇄 방향과 접지 순서를 미리보기로 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 번호 형식·위치",
+      "slug": "pdf-page-num",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (5.436523 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-page-num.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-page-num.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 5KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 워터마크 색·회전·투명도",
+      "slug": "pdf-watermark",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.793945 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-watermark.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-watermark.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 5KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 이미지 서명",
+      "slug": "pdf-sign",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (4.078125 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-sign.txt ↓ (0.060547 KB)",
+          "name": "daon-pdf-sign.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 4KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "PDF 작업 완료. 시각적 합성 결과를 확인하세요.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 추출본만 저장",
+      "slug": "pdf-split",
+      "downloads": [
+        {
+          "label": "daon-extracted.pdf ↓ (1.556641 KB)",
+          "name": "daon-extracted.pdf"
+        },
+        {
+          "label": "daon-pdf-split.txt ↓ (0.03125 KB)",
+          "name": "daon-pdf-split.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 2페이지 · 2KB1쪽: 595×842pt2쪽: 595×842pt",
+      "result": "2페이지 분할·추출 완료",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "PDF 이미지 재구성 압축",
+      "slug": "pdf-compress",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (78.567383 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-compress.txt ↓ (0.224609 KB)",
+          "name": "daon-pdf-compress.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 4페이지 · 79KB1쪽: 595×842pt2쪽: 595×842pt3쪽: 595×842pt",
+      "result": "원본 2.451172KB → 결과 78.567383KB\n원본보다 작아지지 않았습니다. 원본 유지 또는 이미지 재구성 옵션을 검토하세요.\n이미지 재구성으로 텍스트·양식·기존 서명이 소실됩니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "범용변환 이미지입력",
+      "slug": "pdf-converter",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (2.695313 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-converter.txt ↓ (0.018555 KB)",
+          "name": "daon-pdf-converter.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "이미지PDF 생성",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "범용변환 Word입력",
+      "slug": "pdf-converter",
+      "downloads": [
+        {
+          "label": "daon-result.pdf ↓ (3.423828 KB)",
+          "name": "daon-result.pdf"
+        },
+        {
+          "label": "daon-pdf-converter.txt ↓ (0.081055 KB)",
+          "name": "daon-pdf-converter.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 3KB1쪽: 595×842pt",
+      "result": "본문을 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "잘못된JSON 거부",
+      "slug": "json-formatter",
+      "downloads": [],
+      "preview": "",
+      "result": "",
+      "status": "처리 실패: Unexpected end of JSON input",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "범위 밖 이미지크기 거부",
+      "slug": "img-resizer",
+      "downloads": [],
+      "preview": "",
+      "result": "",
+      "status": "처리 실패: 결과 크기는 각1~16000px, 총4천만 픽셀 이하여야 합니다.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    },
+    {
+      "name": "해시 복사는 순수 해시만 반환",
+      "slug": "hash-generator",
+      "passed": true,
+      "status": "복사했습니다.",
+      "result": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "issues": []
+    },
+    {
+      "name": "EPUB 챕터 선택 변경",
+      "slug": "epub-viewer",
+      "passed": true,
+      "result": "A 챕터\nA 본문",
+      "issues": []
+    },
+    {
+      "name": "캔버스 직접 서명 후 PDF 생성",
+      "slug": "pdf-sign",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "result": "생성 결과: 4페이지 · 7KB\n\n1쪽: 595×842pt\n\n2쪽: 595×842pt\n\n3쪽: 595×842pt",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "name": "병합 파일 순서 변경",
+      "slug": "pdf-merge",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "result": "1. sample-2.pdf (1KB) / 2. sample-1.pdf (1KB)",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "name": "PDF 썸네일 이동·삭제",
+      "slug": "pdf-organize",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "result": "1,4,3\n생성 결과: 3페이지 · 2KB\n\n1쪽: 595×842pt\n\n2쪽: 595×842pt\n\n3쪽: 595×842pt",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "name": "장시간 OCR 취소",
+      "slug": "pdf-ocr",
+      "status": "취소했습니다.",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "name": "WebGPU 생성형AI 모델 실제 요약",
+      "slug": "pdf-summary-ai",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "result": "[구간 1]\nThis document outlines four local test pages, each containing public synthetic data.\n\n선택 페이지의 앞 최대12,000자를1,500자씩 나누어 요약했습니다. AI는 오류가 있을 수 있으므로 원문과 비교하세요.",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "name": "OCR 검색 가능한 PDF 생성",
+      "slug": "pdf-ocr",
+      "downloads": [
+        {
+          "label": "daon-ocr.pdf ↓ (6.324219 KB)",
+          "name": "daon-ocr.pdf"
+        },
+        {
+          "label": "daon-pdf-ocr.txt ↓ (0.013672 KB)",
+          "name": "daon-pdf-ocr.txt"
+        }
+      ],
+      "preview": "생성 PDF 미리보기 (앞3쪽)생성 결과: 1페이지 · 6KB1쪽: 300×400pt",
+      "result": "Daon sample 1\n",
+      "status": "완료했습니다. 결과와 지원 범위를 확인하세요.",
+      "completed": true,
+      "issues": [],
+      "passed": true
+    }
+  ]
+}

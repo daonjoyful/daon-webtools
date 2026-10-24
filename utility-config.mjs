@@ -1,3 +1,4 @@
+import{enhanceUtilities}from'./utility-enhancements.mjs';
 const f=(id,label,value='',type='text',options)=>({id,label,value,type,options});const n=(id,label,value=1)=>f(id,label,value,'number');const select=(id,label,options,value)=>f(id,label,value??options[0][0],'select',options);const text=(id,label,value='')=>f(id,label,value,'textarea');
 export const utilityConfig={};
 const add=(id,fields,note='',accept='',multiple=false)=>utilityConfig[id]={fields,note,accept,multiple};
@@ -38,3 +39,4 @@ add('document-to-markdown',[],'DOCX·XLSX·PPTX·EPUB·HWP/HWPX·PDF·HTML·TXT�
 for(const id of ['7z-to-zip','rar-to-zip'])add(id,[],'브라우저 내 libarchive 엔진으로 압축을 풀어 ZIP을 생성합니다. 암호화·분할압축은 지원하지 않습니다. 최대 1000개 파일, 추출 합계 100MB.','.7z,.rar');
 
 add('img-crop',[],'이미지 중앙을 기준으로 정사각형으로 자릅니다. 원본은 변경하지 않습니다.','image/png,image/jpeg,image/webp');
+enhanceUtilities(utilityConfig);

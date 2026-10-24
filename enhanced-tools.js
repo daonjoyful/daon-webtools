@@ -1,0 +1,85 @@
+import{enhancedFileTool}from'./enhanced-file-tools.js';
+import{epubChapters}from'./document-helpers.js';
+const $=id=>document.getElementById(id);
+const integer=(x,min,max)=>{if(!Number.isInteger(x)||x<min||x>max)throw Error(`${min}~${max} 사이 정수를 입력하세요.`);return x;};
+const pick=n=>{if(!Number.isSafeInteger(n)||n<1||n>0xffffffff)throw Error('추첨 범위를 확인하세요.');let r;const limit=Math.floor(0x100000000/n)*n;do{r=crypto.getRandomValues(new Uint32Array(1))[0]}while(r>=limit);return r%n;};
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=pick(i+1);[a[i],a[j]]=[a[j],a[i]];}return a;};
+const checkText=t=>{if(t.length>1000000)throw Error('텍스트는100만자 이하로 입력하세요.');};
+export async function runEnhancement(id,v,files,a){
+const {show,file,numfmt:F}=a;const t=v.text||'';if('text'in v)checkText(t);
+if(await enhancedFileTool(id,v,files,a))return true;
+if(id==='currency-converter'&&v.mode==='live'){
+ let r=1,date='같은 통화';if(v.from!==v.to){const response=await fetch(`https://api.frankfurter.dev/v2/rate/${v.from.toLowerCase()}/${v.to.toLowerCase()}`,{signal:AbortSignal.timeout(15000)});if(!response.ok)throw Error('참고환율 조회 실패. 직접 환율 입력 방식으로 이용하세요.');const data=await response.json();r=Number(data.rate);date=data.date;if(!Number.isFinite(r)||r<=0)throw Error('유효한 참고환율을 받지 못했습니다.');}show(`${F(v.amount*r)} ${v.to}\n환율: ${F(r)} ${v.to}/${v.from}\n기준일: ${date}\n출처: Frankfurter 일별 공개 참고환율. 거래 수수료는 별도입니다.`);return true;
+}
+if(id==='base64-tool'){
+ if(v.mode==='encode'){let raw='';for(const c of new TextEncoder().encode(t))raw+=String.fromCharCode(c);let out=btoa(raw);if(v.urlSafe)out=out.replaceAll('+','-').replaceAll('/','_').replace(/=+$/,'');show(out);}else{let raw=t.trim();if(v.urlSafe)raw=raw.replaceAll('-','+').replaceAll('_','/');if(raw.length%4===1)throw Error('Base64 길이와 패딩을 확인하세요.');raw=raw.padEnd(Math.ceil(raw.length/4)*4,'=');show(new TextDecoder('utf-8',{fatal:true}).decode(Uint8Array.from(atob(raw),c=>c.charCodeAt(0))));}return true;
+}
+if(id==='char-counter'){
+ const value=v.clean==='trim'?t.trim():v.clean==='spaces'?t.replace(/\s/g,''):v.clean==='newlines'?t.replace(/\r?\n/g,''):v.clean==='upper'?t.toUpperCase():v.clean==='lower'?t.toLowerCase():t;
+ const words=value.trim().match(/[\p{L}\p{N}]+/gu)||[],frequencies=new Map;for(const word of words)frequencies.set(word,(frequencies.get(word)||0)+1);
+ show(`공백 포함: ${Array.from(value).length}자\n공백 제외: ${Array.from(value.replace(/\s/g,'')).length}자\n사용자 인식 문자: ${[...new Intl.Segmenter('ko',{granularity:'grapheme'}).segment(value)].length}개\n단어: ${words.length}개\n줄: ${value?value.split(/\r?\n/).length:0}줄\nUTF-8: ${new TextEncoder().encode(value).length}byte\n\n키워드 빈도\n${[...frequencies].sort((a,b)=>b[1]-a[1]).slice(0,20).map(([w,n])=>w+': '+n).join('\n')}\n\n처리 텍스트\n${value}`);file(value,'daon-text.txt','text/plain;charset=utf-8');return true;
+}
+if(id==='hash-generator'){
+ const source=v.source==='file'?files[0]:null;if(v.source==='file'&&!source)throw Error('해시를 계산할 파일을 선택하세요.');const bytes=source?await source.arrayBuffer():new TextEncoder().encode(t),hash=Array.from(new Uint8Array(await crypto.subtle.digest(v.algorithm,bytes)),x=>x.toString(16).padStart(2,'0')).join('');show(`${v.algorithm}${source?' · '+source.name:''}\n${hash}${v.expected?'\n비교: '+(hash.toLowerCase()===v.expected.trim().toLowerCase()?'일치':'불일치'):''}`,hash);return true;
+}
+if(id==='text-cleaner'){
+ let value=v.mode==='upper'?t.toUpperCase():v.mode==='lower'?t.toLowerCase():v.mode==='html'?new DOMParser().parseFromString(t,'text/html').body.textContent:t;let lines=value.split(/\r?\n/);if(v.trim)lines=lines.map(l=>l.trim());if(v.empty||v.mode==='empty')lines=lines.filter(l=>l.trim());if(v.unique)lines=[...new Set(lines)];if(v.sort!=='none')lines.sort((a,b)=>a.localeCompare(b,'ko')*(v.sort==='desc'?-1:1));show(lines.join('\n'));return true;
+}
+if(id==='text-line-sort'){
+ let lines=t.split(/\r?\n/);if(v.trim)lines=lines.map(l=>l.trim());if(v.empty)lines=lines.filter(l=>l.trim());if(v.unique||v.mode.includes('unique'))lines=[...new Set(lines)];
+ if(v.mode!=='unique'&&v.sort!=='none'){if(v.sort==='numeric'&&lines.some(l=>!l.trim()||!Number.isFinite(Number(l))))throw Error('숫자순은 모든 줄에 숫자만 있어야 합니다.');const collator=new Intl.Collator('ko',{numeric:v.sort==='natural'});lines.sort((x,y)=>(v.sort==='numeric'?Number(x)-Number(y):collator.compare(x,y))*(v.mode==='desc'?-1:1));}if(v.reverse)lines.reverse();show(lines.join('\n'));return true;
+}
+if(id==='text-diff'){
+ const leftFile=$('ext-leftFile')?.files[0],rightFile=$('ext-rightFile')?.files[0];if([leftFile,rightFile].some(f=>f&&f.size>2*1024**2))throw Error('비교 파일은 각각2MB이하입니다.');const left=leftFile?await leftFile.text():t,right=rightFile?await rightFile.text():v.other;checkText(left);checkText(right);if(left.length+right.length>200000)throw Error('비교 텍스트 합계는20만자 이하입니다.');const m=await import('diff'),fn=v.unit==='word'?m.diffWordsWithSpace:v.unit==='char'?m.diffChars:m.diffLines;const changes=fn(left,right,{timeout:1500,maxEditLength:20000});if(!changes)throw Error('차이가 너무 큽니다. 텍스트를 나누어 비교하세요.');const result=left===right?'두 텍스트가 같습니다.':changes.map(x=>(x.added?'[추가] ':x.removed?'[삭제] ':'[같음] ')+x.value).join('\n');show(result);return true;
+}
+if(id==='url-encoder'){show(v.mode==='encode'?(v.scope==='url'?encodeURI(t):encodeURIComponent(t)):(v.scope==='url'?decodeURI(t):decodeURIComponent(t)));return true;}
+if(id==='uuid-generator'){integer(v.count,1,100);show(Array.from({length:v.count},()=>v.format==='hex'?Array.from(crypto.getRandomValues(new Uint8Array(16)),x=>x.toString(16).padStart(2,'0')).join(''):crypto.randomUUID()).join('\n'));return true;}
+if(id==='color-converter'){
+ if(!/^(#(?:[\da-f]{3,4}|[\da-f]{6}|[\da-f]{8})|rgba?\([^;]+\)|hsla?\([^;]+\))$/i.test(v.color.trim())||!CSS.supports('color',v.color))throw Error('HEX, rgb(), hsl() 형식을 확인하세요.');const c=document.createElement('canvas');c.width=c.height=1;const ctx=c.getContext('2d');ctx.fillStyle=v.color;ctx.fillRect(0,0,1,1);const[r,g,b,alpha]=ctx.getImageData(0,0,1,1).data,max=Math.max(r,g,b)/255,min=Math.min(r,g,b)/255,delta=max-min,l=(max+min)/2,s=delta?delta/(1-Math.abs(2*l-1)):0;let h=delta?(max===r/255?((g-b)/255/delta)%6:max===g/255?(b-r)/255/delta+2:(r-g)/255/delta+4)*60:0;h=(h+360)%360;
+ show(`HEX #${[r,g,b].map(x=>x.toString(16).padStart(2,'0')).join('')}\nRGB ${r}, ${g}, ${b}\nHSL ${F(h)}°, ${F(s*100)}%, ${F(l*100)}%\n불투명도 ${F(alpha/255*100)}%`);const swatch=document.createElement('div');swatch.style.cssText='height:100px;border:1px solid #ddd;border-radius:8px;background:'+v.color;$('ext-preview').append(swatch);for(const light of [10,30,50,70,90]){const block=document.createElement('div');block.style.cssText=`display:inline-block;width:20%;height:55px;background:hsl(${h} ${s*100}% ${light}%)`;block.title=`명도${light}%`;$('ext-preview').append(block)}return true;
+}
+if(id==='english-name-converter'){
+ const chars=Array.from(v.name.replace(/\s/g,''));if(chars.length<2||chars.length>20||chars.some(c=>!/[가-힣]/.test(c)))throw Error('한글 이름2~20자를 입력하세요.');const first=['g','kk','n','d','tt','r','m','b','pp','s','ss','','j','jj','ch','k','t','p','h'],middle=['a','ae','ya','yae','eo','e','yeo','ye','o','wa','wae','oe','yo','u','wo','we','wi','yu','eu','ui','i'],last=['','k','k','k','n','n','n','t','l','k','m','p','l','l','p','l','m','p','p','t','t','ng','t','t','k','t','p','t'];const roman=c=>{const x=c.charCodeAt(0)-44032;return first[Math.floor(x/588)]+middle[Math.floor(x%588/28)]+last[x%28]},double=['남궁','황보','제갈','선우','독고','서문','사공','동방'],len=v.surname==='two'?2:v.surname==='one'?1:double.includes(chars.slice(0,2).join(''))?2:1;if(chars.length<=len)throw Error('성 다음에 이름을 입력하세요.');const family=chars.slice(0,len).join(''),given=chars.slice(len).map(roman).join(v.spacing==='hyphen'?'-':v.spacing==='space'?' ':'');const cap=x=>x.charAt(0).toUpperCase()+x.slice(1),order=(f,g)=>v.order==='given'?g+' '+f:f+' '+g;const regular=cap(chars.slice(0,len).map(roman).join('')),common=({김:'Kim',이:'Lee',박:'Park',최:'Choi',정:'Jung',강:'Kang',조:'Cho',윤:'Yoon',임:'Lim',장:'Jang'})[family];show(`규칙 기반 후보: ${order(regular,cap(given))}${common?'\n통용 성 표기 후보: '+order(common,cap(given)):''}\n여권·공식 이름은 기존 등록 표기와 발급기관 기준을 따르세요.`);return true;
+}
+if(id==='generator-tool'){
+ if(v.task==='draw'){const items=[...new Set(v.items.split(/\r?\n/).map(x=>x.trim()).filter(Boolean))];integer(v.drawCount,1,items.length);if(items.length>10000)throw Error('추첨 목록은1만개 이하입니다.');show(shuffle(items).slice(0,v.drawCount).join('\n'));return true;}
+ integer(v.length,8,128);integer(v.count,1,100);const groups=[v.upper&&'ABCDEFGHIJKLMNOPQRSTUVWXYZ',v.lower&&'abcdefghijklmnopqrstuvwxyz',v.digits&&'0123456789',v.symbols&&'!@#$%^&*()-_=+'].filter(Boolean);if(!groups.length)throw Error('포함할 문자 종류를1개 이상 선택하세요.');const alphabet=groups.join('');show(Array.from({length:v.count},()=>{const chars=groups.map(g=>g[pick(g.length)]);while(chars.length<v.length)chars.push(alphabet[pick(alphabet.length)]);return shuffle(chars).join('')}).join('\n'));return true;
+}
+if(id==='qr-generator'){
+ integer(v.size,128,2048);if(!t.trim())throw Error('QR에 넣을 텍스트를 입력하세요.');const{default:QR}=await import('qrcode'),options={width:v.size,errorCorrectionLevel:v.correction,color:{dark:v.foreground,light:v.background}},c=document.createElement('canvas');await QR.toCanvas(c,t,options);const blob=await a.canvasBlob(c);file(blob,'daon-qr.png','image/png');file(await QR.toString(t,{...options,type:'svg'}),'daon-qr.svg','image/svg+xml');a.previewImage(blob);show('PNG·SVG QR 생성 완료. 실제 스캔 후 사용하세요.');return true;
+}
+if(id==='address-converter'||id==='road-address-converter'){
+ if(!v.remote)throw Error('주소 검색어 전송에 동의해야 검색할 수 있습니다.');const addresses=v.addresses.split(/\r?\n/).map(x=>x.trim()).filter(Boolean);if(!addresses.length||addresses.length>20)throw Error('주소1~20개를 입력하세요.');let out=[];const detail=[v.building&&v.building+'동',v.floor&&v.floor+'층',v.room&&v.room+'호'].filter(Boolean).join(' '),enDetail=[v.room&&'Unit '+v.room,v.floor&&'Floor '+v.floor,v.building&&'Building '+v.building].filter(Boolean).join(', ');for(const query of addresses){const response=await fetch('https://api.poesis.kr/post/search.php?v=3.5.1&q='+encodeURIComponent(query),{signal:AbortSignal.timeout(15000)});if(!response.ok)throw Error('주소 서비스 연결 실패');const data=await response.json();out.push(query+'\n'+(data.results?.length?data.results.slice(0,10).map(r=>`우편번호: ${r.postcode5||''}\n도로명: ${r.ko_common||''} ${r.ko_doro||''}${detail?' '+detail:''}\n지번: ${r.ko_common||''} ${r.ko_jibeon||''}${detail?' '+detail:''}\n영문: ${[enDetail,r.en_doro,r.en_common,r.postcode5,'Republic of Korea'].filter(Boolean).join(', ')}`).join('\n\n'):'일치하는 주소 없음'));}show(out.join('\n\n'));return true;
+}
+if(id==='pdf-converter'&&v.output.endsWith('-pdf')){
+ const f=files[0];if(v.output==='image-pdf')await a.pdfOutput(await a.imagePdf(files));else await a.pdfOutput(await a.textPdf(await a.documentText(f)));show(v.output==='image-pdf'?'이미지PDF 생성':'본문을 PDF로 재구성했습니다. 원본 배치는 보존되지 않습니다.');return true;
+}
+if(id==='document-to-markdown'&&/\.docx$/i.test(files[0].name)){
+ const{default:mammoth}=await import('mammoth/mammoth.browser.js'),html=(await mammoth.convertToHtml({arrayBuffer:await files[0].arrayBuffer()})).value,doc=new DOMParser().parseFromString(html,'text/html');
+ const walk=node=>{if(node.nodeType===3)return node.textContent;const tag=node.tagName?.toLowerCase(),children=Array.from(node.childNodes).map(walk).join('');if(/^h[1-6]$/.test(tag))return '\n\n'+'#'.repeat(Number(tag[1]))+' '+children.trim()+'\n\n';if(tag==='strong'||tag==='b')return '**'+children+'**';if(tag==='em'||tag==='i')return '*'+children+'*';if(tag==='li')return '\n- '+children.trim();if(tag==='br')return '\n';if(tag==='p')return '\n\n'+children+'\n\n';if(tag==='table'){const rows=Array.from(node.querySelectorAll('tr')).map(r=>Array.from(r.children).map(n=>walk(n).trim().replaceAll('|','\\|').replace(/\n+/g,' ')));if(!rows.length)return '';const line=cells=>'| '+cells.join(' | ')+' |';return '\n\n'+[line(rows[0]),line(rows[0].map(()=> '---')),...rows.slice(1).map(line)].join('\n')+'\n\n';}if(tag==='tr')return '\n| '+Array.from(node.children).map(n=>walk(n).trim()).join(' | ')+' |';if(tag==='img')return '[이미지 생략]';return children;};
+ const markdown=walk(doc.body).replace(/\n{3,}/g,'\n\n').trim();show(markdown);file(markdown,'daon-document.md','text/markdown;charset=utf-8');return true;
+}
+if(id==='markdown-viewer'){
+ const source=files[0]?await files[0].text():t;checkText(source);const{marked}=await import('marked'),{default:purify}=await import('dompurify'),html=purify.sanitize(marked.parse(source),{FORBID_TAGS:['script','iframe','object','embed','form','link','style'],FORBID_ATTR:['srcset']});await a.safeHtml(html);show(source);file(source,'daon-document.md','text/markdown;charset=utf-8');file('<!doctype html><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src \'none\'; img-src data:; style-src \'unsafe-inline\'">'+html,'daon-preview.html','text/html;charset=utf-8');return true;
+}
+if(id==='tiff-viewer'){
+ const{default:UTIF}=await import('utif'),buffer=await files[0].arrayBuffer(),frames=UTIF.decode(buffer);if(!frames.length)throw Error('TIFF 프레임이 없습니다.');if(frames.length>30)throw Error('미리보기는 최대30프레임입니다.');for(const [i,frame]of frames.entries()){UTIF.decodeImage(buffer,frame);if(frame.width*frame.height>30000000)throw Error('TIFF 프레임이 너무 큽니다.');const c=document.createElement('canvas');c.width=frame.width;c.height=frame.height;c.getContext('2d').putImageData(new ImageData(new Uint8ClampedArray(UTIF.toRGBA8(frame)),c.width,c.height),0,0);const blob=await a.canvasBlob(c);a.previewImage(blob);file(blob,`frame-${i+1}.png`,'image/png');}show(`${frames.length}개 TIFF 프레임\n`+frames.map((f,i)=>`${i+1}: ${f.width}×${f.height}px`).join('\n'));return true;
+}
+if(id==='epub-viewer'){
+ const chapters=await epubChapters(await a.readZip(files[0])),select=document.createElement('select');select.setAttribute('aria-label','EPUB 챕터');chapters.forEach((chapter,i)=>select.add(new Option(`${i+1}. ${chapter.title}`,String(i))));$('ext-preview').append(select);const display=async()=>{for(const frame of $('ext-preview').querySelectorAll('iframe'))frame.remove();const chapter=chapters[Number(select.value)];await a.safeHtml(chapter.html);show(chapter.text);};select.addEventListener('change',async()=>{await display();a.exportText(id)});await display();file(chapters.map(c=>c.text).join('\n\n'),'daon-ebook-all.txt','text/plain;charset=utf-8');return true;
+}
+if((id==='word-viewer'&&/\.doc$/i.test(files[0]?.name))||(id==='ppt-viewer'&&/\.ppt$/i.test(files[0]?.name))||(id==='excel-viewer'&&/\.xls$/i.test(files[0]?.name))){
+ const{legacyText,legacyWorkbook}=await import('./legacy-documents.js');if(id==='excel-viewer'){const sheets=await legacyWorkbook(files[0]);for(const sheet of sheets){const heading=document.createElement('h3');heading.textContent=sheet.name;$('ext-preview').append(heading);const table=document.createElement('table');for(const row of sheet.rows.slice(0,500)){const tr=document.createElement('tr');for(const value of row.slice(0,100)){const td=document.createElement('td');td.textContent=value;tr.append(td);}table.append(tr);}$('ext-preview').append(table);const csv='\ufeff'+sheet.rows.map(row=>row.map(value=>{let s=String(value);if(/^[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';}).join(',')).join('\r\n');file(csv,`daon-${sheet.name.replace(/[^\p{L}\p{N}_-]/gu,'_')}.csv`,'text/csv;charset=utf-8');}show(sheets.map(s=>'# '+s.name+'\n'+s.rows.map(r=>r.join('\t')).join('\n')).join('\n\n'));}else show(await legacyText(files[0]));return true;
+}
+if(['word-viewer','excel-viewer','ppt-viewer','pdf-viewer','svg-viewer','csv-viewer','dwg-viewer','psd-viewer','ai-viewer','hwp-viewer'].includes(id)){
+ const f=files[0];await a.viewer(id,f);
+ if(id==='svg-viewer'){show(await f.text());file(await f.text(),'daon-svg-source.txt','text/plain;charset=utf-8');}
+ else if(id==='csv-viewer'){show(await f.text());file(await f.text(),'daon-data.csv','text/csv;charset=utf-8');}
+ else if(id==='excel-viewer'){const text=await a.documentText(f);show(text);file(text,'daon-sheets.tsv','text/tab-separated-values;charset=utf-8');}
+ else if(id==='dwg-viewer'){file($('ext-result-text').textContent+'\n파일: '+f.name,'daon-cad-info.txt','text/plain;charset=utf-8');}
+ else if(id==='psd-viewer'){const{default:PSD}=await import('ag-psd'),psd=PSD.readPsd(await f.arrayBuffer(),{skipLayerImageData:true,skipCompositeImageData:true,skipThumbnail:true});const layers=[];const visit=(nodes,depth=0)=>{for(const l of nodes||[]){layers.push(' '.repeat(depth)+String(l.name||'(이름 없음)'));visit(l.children,depth+1)}};visit(psd.children);show(`${psd.width}×${psd.height}px\n레이어 ${layers.length}개\n${layers.join('\n')}`);}
+ else if(id==='ai-viewer'){const doc=await a.readPdf(f),texts=await a.extractPdf(doc,Array.from({length:Math.min(doc.numPages,100)},(_,i)=>i));show(`PDF호환 AI · ${doc.numPages}페이지\n`+texts.map(p=>p.text).join('\n\n'));}
+ else show(await a.documentText(f));return true;
+}
+return false;
+}

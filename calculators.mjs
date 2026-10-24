@@ -1,3 +1,4 @@
+import{enhanceCalculators}from'./calculator-enhancements.mjs';
 export const calculators={};
 const field=(id,label,value=0,type='number',options=null)=>({id,label,value,type,options});
 const n=(id,label,value=0)=>field(id,label,value),t=(id,label,value='')=>field(id,label,value,'textarea'),d=(id,label)=>field(id,label,'','date'),s=(id,label,options,value)=>field(id,label,value??options[0][0],'select',options);
@@ -106,3 +107,4 @@ add('work-period-calc',[d('start','시작일'),d('end','종료일')],v=>{const c
 add('workday-calc',[d('start','시작일'),d('end','종료일'),t('holidays','제외할 휴일 (YYYY-MM-DD, 한 줄 하나)','')],v=>{const a=day(v.start),b=day(v.end);if(b<a||b-a>366*100*864e5)throw Error('100년 이내의 올바른 기간을 입력하세요.');const skip=new Set(v.holidays.trim().split(/\s+/));let count=0;for(let x=a;x<=b;x+=864e5){const date=new Date(x),weekday=date.getUTCDay();if(weekday!==0&&weekday!==6&&!skip.has(date.toISOString().slice(0,10)))count++;}return result(count,'일')},'시작·종료일 포함, 토·일 및 직접 입력한 휴일 제외','법정 공휴일을 자동 조회하지 않습니다. 해당 연도의 휴일을 직접 입력하세요.');
 add('working-hours-calc',[field('start','출근','09:00','time'),field('end','퇴근','18:00','time'),n('break','휴게시간 (분)',60),n('days','근무일수',1)],v=>{const parse=x=>{const[h,m]=x.split(':').map(Number);return h*60+m;};let elapsed=parse(v.end)-parse(v.start);if(elapsed<0)elapsed+=1440;const worked=elapsed-v.break;if(worked<0)throw Error('휴게시간이 전체 근무시간보다 깁니다.');return result(worked/60*v.days,'시간')},'출퇴근 시각 차이−휴게시간. 퇴근이 더 이르면 다음날로 처리');
 add('year-end-tax-calc',[n('paid','기납부 세액 (원)',2000000),n('final','최종 결정세액 (원)',1500000)],v=>v.paid>=v.final?`환급 예상: ${result(v.paid-v.final,'원')}`:`추가 납부 예상: ${result(v.final-v.paid,'원')}`,'기납부세액−결정세액','공제 자격·결정세액 자체를 자동 산정하지 않습니다. 국세청 연말정산 결과에서 확인한 값을 입력하세요.');
+enhanceCalculators(calculators,{incomeTax,loan,numfmt});
