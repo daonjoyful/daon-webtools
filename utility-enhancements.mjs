@@ -34,7 +34,7 @@ append('pdf-summary-ai',[s('summaryMode','요약 방식',[['extract','원문 핵
 append('pdf-split',[s('mode','분할 방식',[['both','범위 추출본+각 페이지 ZIP'],['extract','범위 추출본만'],['each','각 페이지 ZIP만']])]);
 for(const id of ['pdf-to-jpg','pdf-to-webp'])append(id,[n('quality','이미지 품질 (10~100)',85)]);
 u['pdf-converter'].accept='.pdf,image/*,.txt,.docx,.xlsx,.csv,.hwp,.hwpx';u['pdf-converter'].fields.find(f=>f.id==='output').options.push(['image-pdf','이미지→PDF'],['text-pdf','TXT→PDF'],['word-pdf','Word→본문PDF'],['sheet-pdf','Excel/CSV→본문PDF'],['hwp-pdf','HWP/HWPX→본문PDF']);
-u['markdown-viewer'].fields=[text('text','Markdown 직접 입력 (파일 대신 사용 가능)','# 다온 웹도구\n\n**굵은 글자**를 확인하세요.')];u['markdown-viewer'].fields[0].optional=true;u['markdown-viewer'].optionalFile=true;
+u['markdown-viewer'].fields=[text('text','Markdown 직접 입력 (파일 대신 사용 가능)','# 툴마루\n\n**굵은 글자**를 확인하세요.')];u['markdown-viewer'].fields[0].optional=true;u['markdown-viewer'].optionalFile=true;
 for(const id of ['img-watermark','pdf-sign','text-diff'])for(const f of u[id].fields)if(f.type==='file')f.optional=true;
 for(const id of ['address-converter','road-address-converter'])for(const f of u[id].fields)if(['building','floor','room'].includes(f.id))f.optional=true;
 u['pdf-summary-ai'].note='원문 핵심문장 추출은 모델 없이 이용합니다. 생성형AI를 선택하면 WebGPU·모델 다운로드가 필요하며 잘못된 내용을 생성할 수 있습니다. 원문과 대조하세요.';
