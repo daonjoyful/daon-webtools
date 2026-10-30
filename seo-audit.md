@@ -1,4 +1,4 @@
-# 다온 웹도구 SEO 점검·보완
+# 툴마루 SEO 점검·보완
 
 점검일: 2026-10-25. 운영 주소: https://tools.daonjoyful.com/
 
