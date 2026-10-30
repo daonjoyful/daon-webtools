@@ -43,3 +43,5 @@ input,textarea,select{min-width:0;max-width:100%}
 .table-scroll th,.table-scroll td{padding:10px 14px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
 .table-scroll thead{background:var(--soft)}.card h2{font-size:18px;line-height:1.5}
 @media(max-width:600px){.category-links a,.related-tools a{display:inline-flex;align-items:center;min-height:44px}.table-scroll th,.table-scroll td{padding:9px}.tool-guide code{overflow-wrap:anywhere}}
+
+.footer-info{margin-top:28px;padding:20px;background:var(--soft);border-radius:10px;color:var(--muted);font-size:12px}.footer-info strong{display:block;margin-bottom:9px;color:var(--ink)}.footer-info p{margin:0 0 12px}.footer-info dl{display:flex;flex-wrap:wrap;gap:8px 22px;margin:0}.footer-info dl div{display:flex;gap:6px}.footer-info dt{font-weight:650;color:var(--ink)}.footer-info dd{margin:0}.footer-info a{color:var(--green);text-decoration:underline;text-underline-offset:3px}@media(max-width:600px){.footer-info dl{display:grid;grid-template-columns:1fr;gap:8px}}
