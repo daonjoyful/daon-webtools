@@ -18,7 +18,7 @@ Node.js22 이상에서 npm install → npm run build → npm test → npm run de
 
 주소 검색은 별도 동의한 검색어를 Postcodify에 전송합니다. 일별 참고환율은 Frankfurter에 통화 코드만 보내 조회하며 금액은 전송하지 않습니다. OCR 언어 데이터·AI 모델은 공개 저장소에서 다운로드하고 문서는 기기에서 처리합니다. 생성형AI는 WebGPU가 필요하며 사실 오류나 영문 출력이 발생할 수 있습니다. 모델 없는 핵심문장 추출도 제공합니다.
 
-기존 AdSense·Search Console 메타태그·ads.txt·정책 페이지·기존URL 리디렉션을 유지합니다. Google Analytics는 설치하지 않았습니다. 유럽 동의 메시지는 AdSense에서 daonjoyful.com 단위로 관리합니다.
+기존 AdSense·Search Console 메타태그·ads.txt·정책 페이지·기존URL 리디렉션을 유지합니다. Google Analytics 4로 운영 도메인의 방문 현황을 측정하며, 도구 입력값과 파일은 전송하지 않습니다. 유럽 동의 메시지는 AdSense에서 daonjoyful.com 단위로 관리합니다.
 
 ## 공개 엔진
 
